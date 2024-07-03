@@ -1,12 +1,22 @@
+import os
 import requests
 import csv
-import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Function to extract ID segments
 def extract_id(full_id):
     return full_id.split(':')[-1] if full_id else ''
 
-url = "https://api.sportradar.com/tennis/trial/v3/en/competitors/sr%3Acompetitor%3A14882/summaries.json?api_key=Tb8NbATTFv3OEA25r3C1hagLoZpNAMIS2uuYlKIA"
+# Get API key from environment variable
+api_key = os.getenv("SPORTRADAR_API_KEY")
+if not api_key:
+    raise ValueError("No API key provided. Please set the SPORTRADAR_API_KEY environment variable.")
+
+# URL with hidden API key
+url = f"https://api.sportradar.com/tennis/trial/v3/en/competitors/sr%3Acompetitor%3A14882/summaries.json?api_key={api_key}"
 headers = {"accept": "application/json"}
 response = requests.get(url, headers=headers)
 
