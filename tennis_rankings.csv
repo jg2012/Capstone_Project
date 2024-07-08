@@ -1,1001 +1,501 @@
-Type ID,Ranking Name,Year,Week,Gender,Rank,Movement,Points,Competitor ID,Competitor Name,Country,Country Code,Abbreviation
-1,ATP,2024,27,men,1,0,9890,sr:competitor:225050,"Sinner, Jannik",Italy,ITA,SIN
-1,ATP,2024,27,men,2,0,8360,sr:competitor:14882,"Djokovic, Novak",Serbia,SRB,DJO
-1,ATP,2024,27,men,3,0,8130,sr:competitor:407573,"Alcaraz, Carlos",Spain,ESP,ALC
-1,ATP,2024,27,men,4,0,6905,sr:competitor:57163,"Zverev, Alexander",Germany,DEU,ZVE
-1,ATP,2024,27,men,5,0,6445,sr:competitor:163504,"Medvedev, Daniil",Neutral,,MED
-1,ATP,2024,27,men,6,0,4420,sr:competitor:106755,"Rublev, Andrey",Neutral,,RUB
-1,ATP,2024,27,men,7,0,4235,sr:competitor:158896,"Hurkacz, Hubert",Poland,POL,HUR
-1,ATP,2024,27,men,8,0,4025,sr:competitor:119248,"Ruud, Casper",Norway,NOR,RUU
-1,ATP,2024,27,men,9,0,3830,sr:competitor:214182,"de Minaur, Alex",Australia,AUS,DE
-1,ATP,2024,27,men,10,0,3750,sr:competitor:23581,"Dimitrov, Grigor",Bulgaria,BGR,DIM
-1,ATP,2024,27,men,11,0,3745,sr:competitor:122366,"Tsitsipas, Stefanos",Greece,GRC,TSI
-1,ATP,2024,27,men,12,1,3350,sr:competitor:136042,"Fritz, Taylor",USA,USA,FRI
-1,ATP,2024,27,men,13,-1,3100,sr:competitor:138546,"Paul, Tommy",USA,USA,PAU
-1,ATP,2024,27,men,14,0,2595,sr:competitor:808628,"Shelton, Ben",USA,USA,SHE
-1,ATP,2024,27,men,15,0,2370,sr:competitor:429603,"Rune, Holger",Denmark,DNK,RUN
-1,ATP,2024,27,men,16,0,2300,sr:competitor:185388,"Humbert, Ugo",France,FRA,HUM
-1,ATP,2024,27,men,17,0,2075,sr:competitor:195800,"Auger-Aliassime, Felix",Canada,CAN,AUG
-1,ATP,2024,27,men,18,0,2020,sr:competitor:257721,"Baez, Sebastian",Argentina,ARG,BAE
-1,ATP,2024,27,men,19,5,1904,sr:competitor:102151,"Tabilo, Alejandro",Chile,CHL,TAB
-1,ATP,2024,27,men,20,-1,1825,sr:competitor:89632,"Jarry, Nicolas",Chile,CHL,JAR
-1,ATP,2024,27,men,21,-1,1795,sr:competitor:203681,"Korda, Sebastian",USA,USA,KOR
-1,ATP,2024,27,men,22,-1,1780,sr:competitor:90080,"Khachanov, Karen",Neutral,,KHA
-1,ATP,2024,27,men,23,0,1730,sr:competitor:163480,"Bublik, Alexander",Kazakhstan,KAZ,BUB
-1,ATP,2024,27,men,24,-2,1625,sr:competitor:15894,"Mannarino, Adrian",France,FRA,MAN
-1,ATP,2024,27,men,25,0,1620,sr:competitor:359602,"Musetti, Lorenzo",Italy,ITA,MUS
-1,ATP,2024,27,men,26,0,1585,sr:competitor:339377,"Lehecka, Jiri",Czechia,CZE,LEH
-1,ATP,2024,27,men,27,1,1470,sr:competitor:122368,"Griekspoor, Tallon",Netherlands,NLD,GRI
-1,ATP,2024,27,men,28,1,1461,sr:competitor:352776,"Draper, Jack",Great Britain,GBR,DRA
-1,ATP,2024,27,men,29,1,1355,sr:competitor:101101,"Tiafoe, Frances",USA,USA,TIA
-1,ATP,2024,27,men,30,-3,1315,sr:competitor:255595,"Cerundolo, Francisco",Argentina,ARG,CER
-1,ATP,2024,27,men,31,0,1290,sr:competitor:169496,"Etcheverry, Tomas Martin",Argentina,ARG,ETC
-1,ATP,2024,27,men,32,0,1282,sr:competitor:392066,"Navone, Mariano",Argentina,ARG,NAV
-1,ATP,2024,27,men,33,7,1260,sr:competitor:14844,"Monfils, Gael",France,FRA,MON
-1,ATP,2024,27,men,34,0,1250,sr:competitor:671637,"Fils, Arthur",France,FRA,FIL
-1,ATP,2024,27,men,35,0,1245,sr:competitor:505550,"Arnaldi, Matteo",Italy,ITA,ARN
-1,ATP,2024,27,men,36,0,1240,sr:competitor:157456,"Davidovich Fokina, Alejandro",Spain,ESP,DAV
-1,ATP,2024,27,men,37,0,1236,sr:competitor:534043,"Darderi, Luciano",Italy,ITA,DAR
-1,ATP,2024,27,men,38,-5,1221,sr:competitor:75813,"Zhang, Zhizhen",China,CHN,ZHA
-1,ATP,2024,27,men,39,-1,1214,sr:competitor:300540,"Machac, Tomas",Czechia,CZE,MAC
-1,ATP,2024,27,men,40,-1,1206,sr:competitor:87690,"Thompson, Jordan",Australia,AUS,THO
-1,ATP,2024,27,men,41,0,1135,sr:competitor:46391,"Struff, Jan-Lennard",Germany,DEU,STR
-1,ATP,2024,27,men,42,2,1070,sr:competitor:95935,"Norrie, Cameron",Great Britain,GBR,NOR
-1,ATP,2024,27,men,43,2,1047,sr:competitor:254383,"Marozsan, Fabian",Hungary,HUN,MAR
-1,ATP,2024,27,men,44,-1,1045,sr:competitor:124930,"Safiullin, Roman",Neutral,,SAF
-1,ATP,2024,27,men,45,9,1038,sr:competitor:83397,"Ofner, Sebastian",Austria,AUT,OFN
-1,ATP,2024,27,men,46,0,1020,sr:competitor:42379,"Giron, Marcos",USA,USA,GIR
-1,ATP,2024,27,men,47,0,981,sr:competitor:128552,"Popyrin, Alexei",Australia,AUS,POP
-1,ATP,2024,27,men,48,1,980,sr:competitor:399637,"Cobolli, Flavio",Italy,ITA,COB
-1,ATP,2024,27,men,49,-1,975,sr:competitor:77223,"Martinez, Pedro",Spain,ESP,MAR
-1,ATP,2024,27,men,50,1,936,sr:competitor:125006,"Borges, Nuno",Portugal,PRT,BOR
-1,ATP,2024,27,men,51,1,936,sr:competitor:97231,"Djere, Laslo",Serbia,SRB,DJE
-1,ATP,2024,27,men,52,1,925,sr:competitor:130398,"Kecmanovic, Miomir",Serbia,SRB,KEC
-1,ATP,2024,27,men,53,-3,893,sr:competitor:218538,"Kotov, Pavel",Neutral,,KOT
-1,ATP,2024,27,men,54,3,881,sr:competitor:104847,"Sonego, Lorenzo",Italy,ITA,SON
-1,ATP,2024,27,men,55,7,881,sr:competitor:871495,"Michelsen, Alex",USA,USA,MIC
-1,ATP,2024,27,men,56,0,871,sr:competitor:39234,"Lajovic, Dusan",Serbia,SRB,LAJ
-1,ATP,2024,27,men,57,1,860,sr:competitor:371436,"Shevchenko, Alexander",Kazakhstan,KAZ,SHE
-1,ATP,2024,27,men,58,1,853,sr:competitor:450283,"Mpetshi Perricard, Giovanni",France,FRA,MPE
-1,ATP,2024,27,men,59,1,845,sr:competitor:112783,"Berrettini, Matteo",Italy,ITA,BER
-1,ATP,2024,27,men,60,1,844,sr:competitor:16375,"Evans, Daniel",Great Britain,GBR,EVA
-1,ATP,2024,27,men,61,-6,843,sr:competitor:175014,"Moutet, Corentin",France,FRA,MOU
-1,ATP,2024,27,men,62,-20,835,sr:competitor:206879,"Eubanks, Christopher",USA,USA,EUB
-1,ATP,2024,27,men,63,0,835,sr:competitor:126356,"Munar, Jaume",Spain,ESP,MUN
-1,ATP,2024,27,men,64,1,826,sr:competitor:51141,"Carballes Baena, Roberto",Spain,ESP,CAR
-1,ATP,2024,27,men,65,-1,825,sr:competitor:294300,"Nakashima, Brandon",USA,USA,NAK
-1,ATP,2024,27,men,66,0,821,sr:competitor:129368,"Koepfer, Dominik",Germany,DEU,KOE
-1,ATP,2024,27,men,67,0,808,sr:competitor:371476,"Diaz Acosta, Facundo",Argentina,ARG,DIA
-1,ATP,2024,27,men,68,26,795,sr:competitor:124658,"Purcell, Max",Australia,AUS,PUR
-1,ATP,2024,27,men,69,12,789,sr:competitor:124656,"Vukic, Aleksandar",Australia,AUS,VUK
-1,ATP,2024,27,men,70,-1,785,sr:competitor:47770,"Fucsovics, Marton",Hungary,HUN,FUC
-1,ATP,2024,27,men,71,-1,783,sr:competitor:223874,"Gaston, Hugo",France,FRA,GAS
-1,ATP,2024,27,men,72,-1,776,sr:competitor:54573,"Coria, Federico",Argentina,ARG,COR
-1,ATP,2024,27,men,73,-1,768,sr:competitor:131566,"Nagal, Sumit",India,IND,NAG
-1,ATP,2024,27,men,74,0,767,sr:competitor:161262,"Seyboth Wild, Thiago",Brazil,BRA,SEY
-1,ATP,2024,27,men,75,-2,760,sr:competitor:450477,"Nardi, Luca",Italy,ITA,NAR
-1,ATP,2024,27,men,76,-8,754,sr:competitor:63606,"Rinderknech, Arthur",France,FRA,RIN
-1,ATP,2024,27,men,77,-2,751,sr:competitor:299130,"Hijikata, Rinky",Australia,AUS,HIJ
-1,ATP,2024,27,men,78,7,738,sr:competitor:763108,"Mensik, Jakub",Czechia,CZE,MEN
-1,ATP,2024,27,men,79,-3,733,sr:competitor:58221,"O'Connell, Christopher",Australia,AUS,OCO
-1,ATP,2024,27,men,80,-3,731,sr:competitor:127208,"Altmaier, Daniel",Germany,DEU,ALT
-1,ATP,2024,27,men,81,-3,728,sr:competitor:39711,"Duckworth, James",Australia,AUS,DUC
-1,ATP,2024,27,men,82,-3,722,sr:competitor:170946,"Bergs, Zizou",Belgium,BEL,BER
-1,ATP,2024,27,men,83,-1,694,sr:competitor:25838,"Goffin, David",Belgium,BEL,GOF
-1,ATP,2024,27,men,84,-1,692,sr:competitor:48632,"Daniel, Taro",Japan,JPN,DAN
-1,ATP,2024,27,men,85,2,692,sr:competitor:71660,"Marterer, Maximilian",Germany,DEU,MAR
-1,ATP,2024,27,men,86,-2,690,sr:competitor:47603,"Monteiro, Thiago",Brazil,BRA,MON
-1,ATP,2024,27,men,87,1,683,sr:competitor:167370,"Ruusuvuori, Emil",Finland,FIN,RUU
-1,ATP,2024,27,men,88,-2,681,sr:competitor:188321,"Kovacevic, Aleksandar",USA,USA,KOV
-1,ATP,2024,27,men,89,0,664,sr:competitor:64580,"Coric, Borna",Croatia,HRV,COR
-1,ATP,2024,27,men,90,12,659,sr:competitor:59281,"Nishioka, Yoshihito",Japan,JPN,NIS
-1,ATP,2024,27,men,91,13,658,sr:competitor:721347,"Shang, Juncheng",China,CHN,SHA
-1,ATP,2024,27,men,92,-2,650,sr:competitor:62790,"Lestienne, Constant",France,FRA,LES
-1,ATP,2024,27,men,93,-1,639,sr:competitor:71280,"Kokkinakis, Thanasi",Australia,AUS,KOK
-1,ATP,2024,27,men,94,3,635,sr:competitor:15434,"Fognini, Fabio",Italy,ITA,FOG
-1,ATP,2024,27,men,95,-2,633,sr:competitor:14548,"Wawrinka, Stan",Switzerland,CHE,WAW
-1,ATP,2024,27,men,96,-16,626,sr:competitor:63438,"McDonald, Mackenzie",USA,USA,MCD
-1,ATP,2024,27,men,97,-1,618,sr:competitor:102339,"Van de Zandschulp, Botic",Netherlands,NLD,VAN
-1,ATP,2024,27,men,98,0,616,sr:competitor:445419,"Cazaux, Arthur",France,FRA,CAZ
-1,ATP,2024,27,men,99,0,615,sr:competitor:60502,"Karatsev, Aslan",Neutral,,KAR
-1,ATP,2024,27,men,100,0,608,sr:competitor:204117,"Ugo Carabelli, Camilo",Argentina,ARG,UGO
-1,ATP,2024,27,men,101,6,607,sr:competitor:227358,"Walton, Adam",Australia,AUS,WAL
-1,ATP,2024,27,men,102,1,601,sr:competitor:88992,"Muller, Alexandre",France,FRA,MUL
-1,ATP,2024,27,men,103,3,592,sr:competitor:92074,"Galan, Daniel Elahi",Colombia,COL,GAL
-1,ATP,2024,27,men,104,-3,585,sr:competitor:658475,"van Assche, Luca",France,FRA,VAN
-1,ATP,2024,27,men,105,4,580,sr:competitor:49172,"Dzumhur, Damir",Bosnia & Herzegovina,BIH,DZU
-1,ATP,2024,27,men,106,5,570,sr:competitor:64570,"Garin, Cristian",Chile,CHL,GAR
-1,ATP,2024,27,men,107,5,570,sr:competitor:16822,"Ramos-Vinolas, Albert",Spain,ESP,RAM
-1,ATP,2024,27,men,108,5,562,sr:competitor:321667,"Mayot, Harold",France,FRA,MAY
-1,ATP,2024,27,men,109,5,557,sr:competitor:57021,"Kovalik, Jozef",Slovakia,SVK,KOV
-1,ATP,2024,27,men,110,-15,556,sr:competitor:47975,"Hanfmann, Yannick",Germany,DEU,HAN
-1,ATP,2024,27,men,111,-1,556,sr:competitor:158912,"Vacherot, Valentin",Monaco,MCO,VAC
-1,ATP,2024,27,men,112,10,555,sr:competitor:16720,"Bautista Agut, Roberto",Spain,ESP,BAU
-1,ATP,2024,27,men,113,2,548,sr:competitor:15126,"Murray, Andy",Great Britain,GBR,MUR
-1,ATP,2024,27,men,114,2,547,sr:competitor:131442,"Mmoh, Michael",USA,USA,MMO
-1,ATP,2024,27,men,115,-7,546,sr:competitor:234048,"Wolf, Jeffrey John",USA,USA,WOL
-1,ATP,2024,27,men,116,23,545,sr:competitor:111837,"Harris, Billy",Great Britain,GBR,HAR
-1,ATP,2024,27,men,117,0,543,sr:competitor:73987,"Cachin, Pedro",Argentina,ARG,CAC
-1,ATP,2024,27,men,118,-27,541,sr:competitor:157808,"Harris, Lloyd",South Africa,ZAF,HAR
-1,ATP,2024,27,men,119,-1,541,sr:competitor:501672,"Svajda, Zachary",USA,USA,SVA
-1,ATP,2024,27,men,120,-1,533,sr:competitor:310974,"De Jong, Jesper",Netherlands,NLD,DEJ
-1,ATP,2024,27,men,121,-1,530,sr:competitor:117916,"Shapovalov, Denis",Canada,CAN,SHA
-1,ATP,2024,27,men,122,-1,529,sr:competitor:341192,"Comesana, Francisco",Argentina,ARG,COM
-1,ATP,2024,27,men,123,0,523,sr:competitor:210526,"Kopriva, Vit",Czechia,CZE,KOP
-1,ATP,2024,27,men,124,0,522,sr:competitor:38183,"Bagnis, Facundo",Argentina,ARG,BAG
-1,ATP,2024,27,men,125,1,520,sr:competitor:14414,"Gasquet, Richard",France,FRA,GAS
-1,ATP,2024,27,men,126,1,517,sr:competitor:601146,"Medjedovic, Hamad",Serbia,SRB,MED
-1,ATP,2024,27,men,127,1,517,sr:competitor:256875,"Tirante, Thiago Agustin",Argentina,ARG,TIR
-1,ATP,2024,27,men,128,1,514,sr:competitor:163636,"Klein, Lukas",Slovakia,SVK,KLE
-1,ATP,2024,27,men,129,1,514,sr:competitor:42152,"Napolitano, Stefano",Italy,ITA,NAP
-1,ATP,2024,27,men,130,-25,513,sr:competitor:67154,"Barrere, Gregoire",France,FRA,BAR
-1,ATP,2024,27,men,131,-6,513,sr:competitor:399633,"Atmane, Terence",France,FRA,ATM
-1,ATP,2024,27,men,132,-1,506,sr:competitor:353530,"Passaro, Francesco",Italy,ITA,PAS
-1,ATP,2024,27,men,133,-1,498,sr:competitor:16683,"Kukushkin, Mikhail",Kazakhstan,KAZ,KUK
-1,ATP,2024,27,men,134,0,483,sr:competitor:43748,"Thiem, Dominic",Austria,AUT,THI
-1,ATP,2024,27,men,135,0,483,sr:competitor:619900,"Gigante, Matteo",Italy,ITA,GIG
-1,ATP,2024,27,men,136,1,482,sr:competitor:226132,"Ajdukovic, Duje",Croatia,HRV,AJD
-1,ATP,2024,27,men,137,1,481,sr:competitor:603096,"Riedi, Leandro",Switzerland,CHE,RIE
-1,ATP,2024,27,men,138,2,455,sr:competitor:44553,"Herbert, Pierre-Hugues",France,FRA,HER
-1,ATP,2024,27,men,139,2,434,sr:competitor:258735,"Cerundolo, Juan Manuel",Argentina,ARG,CER
-1,ATP,2024,27,men,140,-7,423,sr:competitor:309954,"Droguet, Titouan",France,FRA,DRO
-1,ATP,2024,27,men,141,2,420,sr:competitor:503814,"Mochizuki, Shintaro",Japan,JPN,MOC
-1,ATP,2024,27,men,142,2,419,sr:competitor:443702,"Burruchaga, Roman Andres",Argentina,ARG,BUR
-1,ATP,2024,27,men,143,-7,414,sr:competitor:284805,"Nava, Emilio",USA,USA,NAV
-1,ATP,2024,27,men,144,1,406,sr:competitor:44547,"Albot, Radu",Moldova,MDA,ALB
-1,ATP,2024,27,men,145,2,403,sr:competitor:121668,"Meligeni Alves, Felipe",Brazil,BRA,MEL
-1,ATP,2024,27,men,146,2,402,sr:competitor:113905,"Moreno de Alboran, Nicolas",USA,USA,MAN
-1,ATP,2024,27,men,147,2,401,sr:competitor:276563,"Virtanen, Otto",Finland,FIN,VIR
-1,ATP,2024,27,men,148,2,401,sr:competitor:472975,"Bellucci, Mattia",Italy,ITA,BEL
-1,ATP,2024,27,men,149,2,400,sr:competitor:496346,"Stricker, Dominic",Switzerland,CHE,STR
-1,ATP,2024,27,men,150,2,397,sr:competitor:94485,"Bonzi, Benjamin",France,FRA,BON
-1,ATP,2024,27,men,151,2,396,sr:competitor:38517,"Trungelliti, Marco",Argentina,ARG,TRU
-1,ATP,2024,27,men,152,2,393,sr:competitor:212004,"Rodionov, Jurij",Austria,AUT,ROD
-1,ATP,2024,27,men,153,2,392,sr:competitor:298122,"Zeppieri, Giulio",Italy,ITA,ZEP
-1,ATP,2024,27,men,154,2,392,sr:competitor:108767,"Hassan, Benjamin",Germany,DEU,HAS
-1,ATP,2024,27,men,155,2,385,sr:competitor:18111,"Raonic, Milos",Canada,CAN,RAO
-1,ATP,2024,27,men,156,-10,384,sr:competitor:47764,"Broady, Liam",Great Britain,GBR,BRO
-1,ATP,2024,27,men,157,-15,377,sr:competitor:234046,"Kypson, Patrick",USA,USA,KYP
-1,ATP,2024,27,men,158,0,377,sr:competitor:93597,"Pellegrino, Andrea",Italy,ITA,PEL
-1,ATP,2024,27,men,159,3,368,sr:competitor:72248,"Varillas, Juan Pablo",Peru,PER,VAR
-1,ATP,2024,27,men,160,-1,368,sr:competitor:22218,"Paire, Benoit",France,FRA,PAI
-1,ATP,2024,27,men,161,7,366,sr:competitor:226036,"Tseng, Chun Hsin",Chinese Taipei,TPE,TSE
-1,ATP,2024,27,men,162,-2,366,sr:competitor:213170,"Blanchet, Ugo",France,FRA,BLA
-1,ATP,2024,27,men,163,-2,363,sr:competitor:157302,"Watanuki, Yosuke",Japan,JPN,WAT
-1,ATP,2024,27,men,164,-1,359,sr:competitor:50847,"Yevseyev, Denis",Kazakhstan,KAZ,YEV
-1,ATP,2024,27,men,165,-1,358,sr:competitor:51100,"Roca Batalla, Oriol",Spain,ESP,ROC
-1,ATP,2024,27,men,166,0,355,sr:competitor:418213,"Diallo, Gabriel",Canada,CAN,DIA
-1,ATP,2024,27,men,167,0,355,sr:competitor:36595,"Kudla, Denis",USA,USA,KUD
-1,ATP,2024,27,men,168,1,354,sr:competitor:371448,"Llamas Ruiz, Pablo",Spain,ESP,LLA
-1,ATP,2024,27,men,169,1,354,sr:competitor:187689,"Galarneau, Alexis",Canada,CAN,GAL
-1,ATP,2024,27,men,170,1,353,sr:competitor:145122,"Martineau, Matteo",France,FRA,MAR
-1,ATP,2024,27,men,171,2,352,sr:competitor:57289,"Dellien, Hugo",Bolivia,BOL,DEL
-1,ATP,2024,27,men,172,-7,350,sr:competitor:124916,"Gojo, Borna",Croatia,HRV,GOJ
-1,ATP,2024,27,men,173,2,349,sr:competitor:682911,"Faria, Jaime",Portugal,PRT,FAR
-1,ATP,2024,27,men,174,0,344,sr:competitor:105607,"Choinski, Jan",Great Britain,GBR,CHO
-1,ATP,2024,27,men,175,3,341,sr:competitor:56017,"Ritschard, Alexander",Switzerland,CHE,RIT
-1,ATP,2024,27,men,176,3,341,sr:competitor:405977,"Schoolkate, Tristan",Australia,AUS,SCH
-1,ATP,2024,27,men,177,3,340,sr:competitor:51345,"Damm Jr, Martin",USA,USA,DAMM
-1,ATP,2024,27,men,178,3,337,sr:competitor:229022,"Squire, Henri",Germany,DEU,SQU
-1,ATP,2024,27,men,179,-7,337,sr:competitor:449767,"Wong, Coleman","Hong Kong, China",HKG,WON
-1,ATP,2024,27,men,180,2,333,sr:competitor:248779,"Misolic, Filip",Austria,AUT,MIS
-1,ATP,2024,27,men,181,2,333,sr:competitor:223714,"Piros, Zsombor",Hungary,HUN,PIR
-1,ATP,2024,27,men,182,3,332,sr:competitor:48599,"Schwartzman, Diego",Argentina,ARG,SWM
-1,ATP,2024,27,men,183,3,332,sr:competitor:107357,"Grenier, Hugo",France,FRA,GRE
-1,ATP,2024,27,men,184,4,331,sr:competitor:97977,"Hong, Seongchan",Republic of Korea,KOR,HON
-1,ATP,2024,27,men,185,2,328,sr:competitor:515510,"Heide, Gustavo",Brazil,BRA,HEI
-1,ATP,2024,27,men,186,-10,327,sr:competitor:269521,"Cressy, Maxime",USA,USA,CRE
-1,ATP,2024,27,men,187,-10,322,sr:competitor:682913,"Rocha, Henrique",Portugal,PRT,ROC
-1,ATP,2024,27,men,188,1,321,sr:competitor:325737,"Moro Canas, Alejandro",Spain,ESP,MOR
-1,ATP,2024,27,men,189,1,318,sr:competitor:104967,"Brouwer, Gijs",Netherlands,NLD,BRO
-1,ATP,2024,27,men,190,4,317,sr:competitor:52276,"Krueger, Mitchell",USA,USA,KRU
-1,ATP,2024,27,men,191,0,316,sr:competitor:45258,"de Loore, Joris",Belgium,BEL,DE
-1,ATP,2024,27,men,192,0,315,sr:competitor:108709,"Majchrzak, Kamil",Poland,POL,MAJ
-1,ATP,2024,27,men,193,-9,315,sr:competitor:685469,"Kasnikowski, Maks",Poland,POL,KAS
-1,ATP,2024,27,men,194,-1,314,sr:competitor:108565,"Zapata Miralles, Bernabe",Spain,ESP,ZAP
-1,ATP,2024,27,men,195,0,308,sr:competitor:74441,"Couacaud, Enzo",France,FRA,COU
-1,ATP,2024,27,men,196,0,306,sr:competitor:132834,"Barrios Vera, Marcelo Tomas",Chile,CHL,BAR
-1,ATP,2024,27,men,197,0,306,sr:competitor:337601,"Yunchaokete, Bu",China,CHN,YUN
-1,ATP,2024,27,men,198,0,305,sr:competitor:186885,"Hardt, Nick",Dominican Republic,DOM,HAR
-1,ATP,2024,27,men,199,0,303,sr:competitor:722429,"Prizmic, Dino",Croatia,HRV,PRI
-1,ATP,2024,27,men,200,0,301,sr:competitor:81271,"Hemery, Calvin",France,FRA,HEM
-1,ATP,2024,27,men,201,88,301,sr:competitor:242548,"Jubb, Paul",Great Britain,GBR,JUB
-1,ATP,2024,27,men,202,-1,301,sr:competitor:231192,"Molleker, Rudolf",Germany,DEU,MOL
-1,ATP,2024,27,men,203,0,297,sr:competitor:46390,"Uchiyama, Yasutaka",Japan,JPN,UCH
-1,ATP,2024,27,men,204,1,294,sr:competitor:341220,"Royer, Valentin",France,FRA,ROY
-1,ATP,2024,27,men,205,1,293,sr:competitor:83661,"Ymer, Elias",Sweden,SWE,YME
-1,ATP,2024,27,men,206,1,291,sr:competitor:95801,"Vavassori, Andrea",Italy,ITA,VAV
-1,ATP,2024,27,men,207,2,288,sr:competitor:59304,"Novak, Dennis",Austria,AUT,NOV
-1,ATP,2024,27,men,208,2,288,sr:competitor:284801,"Boyer, Tristan",USA,USA,BOY
-1,ATP,2024,27,men,209,2,288,sr:competitor:80665,"Polmans, Marc",Australia,AUS,POL
-1,ATP,2024,27,men,210,-8,286,sr:competitor:49417,"Tu, Li",Australia,AUS,TUL
-1,ATP,2024,27,men,211,1,285,sr:competitor:49663,"Escoffier, Antoine",France,FRA,ESC
-1,ATP,2024,27,men,212,1,284,sr:competitor:57703,"Pouille, Lucas",France,FRA,POU
-1,ATP,2024,27,men,213,-5,284,sr:competitor:286541,"Zhukayev, Beibit",Kazakhstan,KAZ,ZHU
-1,ATP,2024,27,men,214,0,282,sr:competitor:82133,"Dellien, Murkel",Bolivia,BOL,DEV
-1,ATP,2024,27,men,215,1,280,sr:competitor:65606,"Agamenone, Franco",Italy,ITA,AGA
-1,ATP,2024,27,men,216,-1,277,sr:competitor:863319,"Fonseca, Joao",Brazil,BRA,FON
-1,ATP,2024,27,men,217,0,276,sr:competitor:240876,"Crawford, Oliver",Great Britain,GBR,CRA
-1,ATP,2024,27,men,218,3,274,sr:competitor:530317,"Rincon, Daniel",Spain,ESP,RIN
-1,ATP,2024,27,men,219,3,273,sr:competitor:113979,"Ficovich, Juan Pablo",Argentina,ARG,FIC
-1,ATP,2024,27,men,220,3,272,sr:competitor:90798,"Halys, Quentin",France,FRA,HAL
-1,ATP,2024,27,men,221,-3,271,sr:competitor:79467,"Jasika, Omar",Australia,AUS,JAS
-1,ATP,2024,27,men,222,2,271,sr:competitor:50901,"Popko, Dmitry",Kazakhstan,KAZ,POP
-1,ATP,2024,27,men,223,-3,270,sr:competitor:428657,"Shelbayh, Abdullah",Jordan,JOR,SHE
-1,ATP,2024,27,men,224,60,269,sr:competitor:146040,"Gomez, Federico Agustin",Argentina,ARG,GOM
-1,ATP,2024,27,men,225,0,269,sr:competitor:107625,"Janvier, Maxime",France,FRA,JAN
-1,ATP,2024,27,men,226,0,267,sr:competitor:220588,"Hsu, Yu Hsiou",Chinese Taipei,TPE,HSU
-1,ATP,2024,27,men,227,0,267,sr:competitor:16192,"Marchenko, Illya",Ukraine,UKR,MAR
-1,ATP,2024,27,men,228,0,266,sr:competitor:230468,"Andreev, Adrian",Bulgaria,BGR,AND
-1,ATP,2024,27,men,229,-25,264,sr:competitor:145112,"Huesler, Marc-Andrea",Switzerland,CHE,HUE
-1,ATP,2024,27,men,230,-1,257,sr:competitor:276685,"Skatov, Timofey",Kazakhstan,KAZ,SKA
-1,ATP,2024,27,men,231,-1,257,sr:competitor:55067,"Marie, Jules",France,FRA,MAR
-1,ATP,2024,27,men,232,-1,256,sr:competitor:172482,"Dougaz, Aziz",Tunisia,TUN,DOU
-1,ATP,2024,27,men,233,0,253,sr:competitor:250231,"Shimizu, Yuta",Japan,JPN,SHI
-1,ATP,2024,27,men,234,0,252,sr:competitor:58369,"Bolt, Alex",Australia,AUS,BOL
-1,ATP,2024,27,men,235,0,252,sr:competitor:121182,"Guinard, Manuel",France,FRA,GUI
-1,ATP,2024,27,men,236,0,252,sr:competitor:225052,"Tabur, Clement",France,FRA,TAB
-1,ATP,2024,27,men,237,0,250,sr:competitor:41857,"Vesely, Jiri",Czechia,CZE,VES
-1,ATP,2024,27,men,238,0,250,sr:competitor:287541,"Sweeny, Dane",Australia,AUS,SWE
-1,ATP,2024,27,men,239,0,250,sr:competitor:382058,"Jacquet, Kyrian",France,FRA,JAC
-1,ATP,2024,27,men,240,19,250,sr:competitor:389114,"Guillen Meza, Alvaro",Ecuador,ECU,GUI
-1,ATP,2024,27,men,241,0,249,sr:competitor:505466,"Sekulic, Philip",Australia,AUS,SEK
-1,ATP,2024,27,men,242,-2,249,sr:competitor:675173,"Neumayer, Lukas",Austria,AUT,NEU
-1,ATP,2024,27,men,243,-11,247,sr:competitor:36300,"Travaglia, Stefano",Italy,ITA,TRA
-1,ATP,2024,27,men,244,-25,245,sr:competitor:63090,"Fatic, Nerman",Bosnia & Herzegovina,BIH,FAT
-1,ATP,2024,27,men,245,4,245,sr:competitor:17080,"Tomic, Bernard",Australia,AUS,TOM
-1,ATP,2024,27,men,246,30,244,sr:competitor:279295,"Jianu, Filip Cristian",Romania,ROU,JIA
-1,ATP,2024,27,men,247,-4,243,sr:competitor:603098,"Fery, Arthur",Great Britain,GBR,FER
-1,ATP,2024,27,men,248,-3,242,sr:competitor:216502,"Broom, Charles",Great Britain,GBR,BRO
-1,ATP,2024,27,men,249,-7,241,sr:competitor:106153,"Dalla Valle, Enrico",Italy,ITA,DAL
-1,ATP,2024,27,men,250,-6,240,sr:competitor:169486,"Olivieri, Genaro Alberto",Argentina,ARG,OLI
-1,ATP,2024,27,men,251,-5,238,sr:competitor:247607,"Shimabukuro, Sho",Japan,JPN,SHI
-1,ATP,2024,27,men,252,-4,238,sr:competitor:226050,"Holt, Brandon",USA,USA,HOL
-1,ATP,2024,27,men,253,-6,235,sr:competitor:655845,"Quinn, Ethan",USA,USA,QUI
-1,ATP,2024,27,men,254,-4,231,sr:competitor:177686,"Barranco Cosano, Javier",Spain,ESP,BAR
-1,ATP,2024,27,men,255,-3,228,sr:competitor:355752,"Svrcina, Dalibor",Czechia,CZE,SVR
-1,ATP,2024,27,men,256,-3,225,sr:competitor:477182,"Kachmazov, Alibek",Neutral,,KAC
-1,ATP,2024,27,men,257,-3,222,sr:competitor:186629,"Kirkin, Ergi",Turkiye,TUR,KIR
-1,ATP,2024,27,men,258,-7,221,sr:competitor:263917,"Draxl, Liam",Canada,CAN,DRA
-1,ATP,2024,27,men,259,-2,221,sr:competitor:289105,"Onclin, Gauthier",Belgium,BEL,ONC
-1,ATP,2024,27,men,260,-5,220,sr:competitor:38493,"Johnson, Steve",USA,USA,JOH
-1,ATP,2024,27,men,261,21,219,sr:competitor:38180,"Mena, Facundo",Argentina,ARG,MEN
-1,ATP,2024,27,men,262,1,218,sr:competitor:617262,"Vincent Ruggeri, Samuel",Italy,ITA,VIN
-1,ATP,2024,27,men,263,-7,218,sr:competitor:359608,"Maestrelli, Francesco",Italy,ITA,MAE
-1,ATP,2024,27,men,264,1,216,sr:competitor:138528,"Mejia, Nicolas",Colombia,COL,MEJ
-1,ATP,2024,27,men,265,-7,215,sr:competitor:14486,"Nadal, Rafael",Spain,ESP,NAD
-1,ATP,2024,27,men,266,6,215,sr:competitor:604238,"Gaubas, Vilius",Lithuania,LTU,GAU
-1,ATP,2024,27,men,267,-7,213,sr:competitor:49283,"Gerasimov, Egor",Neutral,,GER
-1,ATP,2024,27,men,268,-7,213,sr:competitor:141882,"Blancaneaux, Geoffrey",France,FRA,BLA
-1,ATP,2024,27,men,269,-7,212,sr:competitor:801386,"Lajal, Mark",Estonia,EST,LAJ
-1,ATP,2024,27,men,270,-6,212,sr:competitor:57759,"Oliveira, Goncalo",Venezuela,VEN,OLI
-1,ATP,2024,27,men,271,-5,211,sr:competitor:91240,"Peniston, Ryan",Great Britain,GBR,PEN
-1,ATP,2024,27,men,272,1,211,sr:competitor:130436,"Habib, Hady",Lebanon,LBN,HAB
-1,ATP,2024,27,men,273,-6,210,sr:competitor:36678,"Sandgren, Tennys",USA,USA,SAN
-1,ATP,2024,27,men,274,-5,207,sr:competitor:145130,"Molcan, Alex",Slovakia,SVK,MOL
-1,ATP,2024,27,men,275,-5,207,sr:competitor:163996,"Wu, Tung-Lin",Chinese Taipei,TPE,TUN
-1,ATP,2024,27,men,276,5,207,sr:competitor:1084926,"Moeller, Elmer",Denmark,DNK,MOE
-1,ATP,2024,27,men,277,-6,206,sr:competitor:407783,"Fearnley, Jacob",Great Britain,GBR,FEA
-1,ATP,2024,27,men,278,5,206,sr:competitor:295508,"Vrbensky, Michael",Czechia,CZE,VRB
-1,ATP,2024,27,men,279,-5,204,sr:competitor:283759,"Chidekh, Clement",France,FRA,CHI
-1,ATP,2024,27,men,280,-5,204,sr:competitor:22956,"Berankis, Ricardas",Lithuania,LTU,BER
-1,ATP,2024,27,men,281,-3,201,sr:competitor:100069,"Sachko, Vitaliy",Ukraine,UKR,SAC
-1,ATP,2024,27,men,282,-14,200,sr:competitor:506300,"Bueno, Gonzalo",Peru,PER,BUE
-1,ATP,2024,27,men,283,-4,198,sr:competitor:342826,"Trotter, James Kent",Japan,JPN,TRO
-1,ATP,2024,27,men,284,1,193,sr:competitor:54955,"Coppejans, Kimmer",Belgium,BEL,COP
-1,ATP,2024,27,men,285,1,193,sr:competitor:63642,"Kwiatkowski, Thai-Son",USA,USA,KWI
-1,ATP,2024,27,men,286,-9,193,sr:competitor:185434,"Rodriguez Taverna, Santiago",Argentina,ARG,ROD
-1,ATP,2024,27,men,287,7,193,sr:competitor:175070,"Fonio, Giovanni",Italy,ITA,FON
-1,ATP,2024,27,men,288,13,192,sr:competitor:25683,"Bai, Yan (1989)",China,CHN,BAI
-1,ATP,2024,27,men,289,-2,192,sr:competitor:622876,"Vallejo, Daniel",Paraguay,PRY,VAL
-1,ATP,2024,27,men,290,-10,192,sr:competitor:47767,"Lamasine, Tristan",France,FRA,LAM
-1,ATP,2024,27,men,291,0,190,sr:competitor:226124,"Holmgren, August",Denmark,DNK,HOL
-1,ATP,2024,27,men,292,1,190,sr:competitor:43761,"Collarini, Andrea",Argentina,ARG,COL
-1,ATP,2024,27,men,293,2,189,sr:competitor:37785,"Sousa, Joao",Portugal,PRT,SOU
-1,ATP,2024,27,men,294,-6,189,sr:competitor:540271,"Mayo, Aidan",USA,USA,MAY
-1,ATP,2024,27,men,295,1,188,sr:competitor:539343,"Kym, Jerome",Switzerland,CHE,KYM
-1,ATP,2024,27,men,296,4,188,sr:competitor:53483,"Masur, Daniel",Germany,DEU,MAS
-1,ATP,2024,27,men,297,-5,187,sr:competitor:269571,"Moeller, Marvin",Germany,DEU,MOE
-1,ATP,2024,27,men,298,4,187,sr:competitor:199196,"Sanchez Izquierdo, Nikolas",Spain,ESP,SAI
-1,ATP,2024,27,men,299,-2,185,sr:competitor:144102,"Weis, Alexander",Italy,ITA,WEI
-1,ATP,2024,27,men,300,4,184,sr:competitor:69500,"Mager, Gianluca",Italy,ITA,MAG
-1,ATP,2024,27,men,301,-3,183,sr:competitor:829282,"Blockx, Alexander",Belgium,BEL,BLO
-1,ATP,2024,27,men,302,-12,183,sr:competitor:145108,"Bertola, Remy",Switzerland,CHE,BER
-1,ATP,2024,27,men,303,-4,183,sr:competitor:679699,"Bertrand, Robin",France,FRA,BER
-1,ATP,2024,27,men,304,-1,180,sr:competitor:903987,"Landaluce, Martin",Spain,ESP,LAN
-1,ATP,2024,27,men,305,0,176,sr:competitor:58371,"Bourgue, Mathias",France,FRA,BOU
-1,ATP,2024,27,men,306,1,176,sr:competitor:108559,"Taberner, Carlos",Spain,ESP,TAB
-1,ATP,2024,27,men,307,31,175,sr:competitor:210502,"Kopp, Sandro",Austria,AUT,KOP
-1,ATP,2024,27,men,308,-2,175,sr:competitor:501414,"Gill, Felix",Great Britain,GBR,GIL
-1,ATP,2024,27,men,309,21,173,sr:competitor:149100,"Sultanov, Khumoyun",Uzbekistan,UZB,SUL
-1,ATP,2024,27,men,310,49,172,sr:competitor:450343,"Hussey, Giles",Great Britain,GBR,HUS
-1,ATP,2024,27,men,311,-2,169,sr:competitor:202497,"Kuhn, Nicola",Germany,DEU,KUHN
-1,ATP,2024,27,men,312,3,167,sr:competitor:604344,"Buse, Ignacio",Peru,PER,BUS
-1,ATP,2024,27,men,313,-2,166,sr:competitor:103625,"Geerts, Michael",Belgium,BEL,GEE
-1,ATP,2024,27,men,314,-1,165,sr:competitor:16120,"Isner, John",USA,USA,ISN
-1,ATP,2024,27,men,315,-1,165,sr:competitor:57155,"Jorda Sanchis, David",Spain,ESP,JOR
-1,ATP,2024,27,men,316,0,164,sr:competitor:168420,"Andrade, Andres",Ecuador,ECU,AND
-1,ATP,2024,27,men,317,0,164,sr:competitor:915153,"Dodig, Matej",Croatia,HRV,DOD
-1,ATP,2024,27,men,318,1,164,sr:competitor:71950,"Fanselow, Sebastian",Germany,DEU,FAN
-1,ATP,2024,27,men,319,-11,163,sr:competitor:499100,"Kodat, Toby Alex",USA,USA,KOD
-1,ATP,2024,27,men,320,1,163,sr:competitor:251091,"Noguchi, Rio",Japan,JPN,NOG
-1,ATP,2024,27,men,321,1,162,sr:competitor:116616,"Clarke, Jay",Great Britain,GBR,CLA
-1,ATP,2024,27,men,322,1,161,sr:competitor:113859,"Bellier, Antoine",Switzerland,CHE,BEL
-1,ATP,2024,27,men,323,2,160,sr:competitor:51009,"Kuzmanov, Dimitar",Bulgaria,BGR,KUZ
-1,ATP,2024,27,men,324,7,159,sr:competitor:15858,"Elias, Gastao",Portugal,PRT,ELI
-1,ATP,2024,27,men,325,-5,159,sr:competitor:516848,"Bicknell, Blaise",Jamaica,JAM,BIC
-1,ATP,2024,27,men,326,0,159,sr:competitor:54975,"Casanova, Hernan",Argentina,ARG,CAS
-1,ATP,2024,27,men,327,0,159,sr:competitor:240264,"Reis Da Silva, Joao Lucas",Brazil,BRA,REI
-1,ATP,2024,27,men,328,0,159,sr:competitor:65576,"Sakamoto, Pedro",Brazil,BRA,SAK
-1,ATP,2024,27,men,329,-5,158,sr:competitor:55787,"Olivo, Renzo",Argentina,ARG,OLI
-1,ATP,2024,27,men,330,-1,157,sr:competitor:58877,"Ramanathan, Ramkumar",India,IND,RAM
-1,ATP,2024,27,men,331,3,157,sr:competitor:54733,"Bonadio, Riccardo",Italy,ITA,BON
-1,ATP,2024,27,men,332,17,157,sr:competitor:76515,"Gakhov, Ivan",Neutral,,GAK
-1,ATP,2024,27,men,333,0,156,sr:competitor:763110,"Nicod, Jakub",Czechia,CZE,NIC
-1,ATP,2024,27,men,334,8,156,sr:competitor:675175,"McCabe, James",Australia,AUS,MCC
-1,ATP,2024,27,men,335,2,156,sr:competitor:373348,"Pucinelli de Almeida, Matheus",Brazil,BRA,PDA
-1,ATP,2024,27,men,336,-1,153,sr:competitor:63446,"Jung, Jason",Chinese Taipei,TPE,JUN
-1,ATP,2024,27,men,337,-1,153,sr:competitor:739649,"Den Ouden, Guy",Netherlands,NLD,DEN
-1,ATP,2024,27,men,338,1,151,sr:competitor:39712,"Saville, Luke",Australia,AUS,SAV
-1,ATP,2024,27,men,339,1,151,sr:competitor:111857,"Ursu, Vadym",Ukraine,UKR,URS
-1,ATP,2024,27,men,340,-30,150,sr:competitor:405969,"Paulson, Andrew",Czechia,CZE,PAU
-1,ATP,2024,27,men,341,0,150,sr:competitor:240916,"Erhard, Mathys",France,FRA,ERH
-1,ATP,2024,27,men,342,29,149,sr:competitor:891669,"Tien, Learner",USA,USA,TIE
-1,ATP,2024,27,men,343,0,149,sr:competitor:48626,"Giustino, Lorenzo",Italy,ITA,GIU
-1,ATP,2024,27,men,344,0,147,sr:competitor:135778,"Poullain, Lucas",France,FRA,POU
-1,ATP,2024,27,men,345,15,147,sr:competitor:111609,"Barroso Campos, Alberto",Spain,ESP,BAR
-1,ATP,2024,27,men,346,0,147,sr:competitor:121178,"Gautier, Alexis",France,FRA,GAU
-1,ATP,2024,27,men,347,-35,145,sr:competitor:24418,"Pella, Guido",Argentina,ARG,PEL
-1,ATP,2024,27,men,348,-3,145,sr:competitor:206753,"Naw, Hazem",Syria,SYR,NAW
-1,ATP,2024,27,men,349,12,145,sr:competitor:214184,"Lopez Montagud, Carlos",Spain,ESP,LOP
-1,ATP,2024,27,men,350,-2,144,sr:competitor:215492,"Cui, Jie",China,CHN,CUI
-1,ATP,2024,27,men,351,-4,144,sr:competitor:441534,"Krumich, Martin",Czechia,CZE,KRU
-1,ATP,2024,27,men,352,-2,144,sr:competitor:387066,"Forejtek, Jonas",Czechia,CZE,FOR
-1,ATP,2024,27,men,353,-1,143,sr:competitor:54387,"Mott, Blake",Australia,AUS,MOT
-1,ATP,2024,27,men,354,44,143,sr:competitor:138712,"Oradini, Giovanni",Italy,ITA,ORA
-1,ATP,2024,27,men,355,-1,143,sr:competitor:132558,"Kolar, Zdenek",Czechia,CZE,KOL
-1,ATP,2024,27,men,356,9,142,sr:competitor:44549,"Cecchinato, Marco",Italy,ITA,CEC
-1,ATP,2024,27,men,357,-1,142,sr:competitor:202361,"Oliel, Yshai",Israel,ISR,OLI
-1,ATP,2024,27,men,358,-1,141,sr:competitor:739641,"Collignon, Raphael",Belgium,BEL,COL
-1,ATP,2024,27,men,359,-1,141,sr:competitor:722431,"Mikrut, Luka",Croatia,HRV,MIK
-1,ATP,2024,27,men,360,14,140,sr:competitor:574371,"Torres, Juan Bautista",Argentina,ARG,TOR
-1,ATP,2024,27,men,361,-43,140,sr:competitor:787154,"Campana Lee, Gerard",Republic of Korea,KOR,CAM
-1,ATP,2024,27,men,362,-9,140,sr:competitor:126402,"Denolly, Corentin",France,FRA,DEN
-1,ATP,2024,27,men,363,-8,139,sr:competitor:48225,"Dutra Da Silva, Daniel",Brazil,BRA,DUT
-1,ATP,2024,27,men,364,-1,138,sr:competitor:47295,"Andreozzi, Guido",Argentina,ARG,AND
-1,ATP,2024,27,men,365,-14,137,sr:competitor:242556,"McHugh, Aidan",Great Britain,GBR,MCH
-1,ATP,2024,27,men,366,0,136,sr:competitor:872497,"Basavareddy, Nishesh",USA,USA,BAS
-1,ATP,2024,27,men,367,0,135,sr:competitor:97647,"Kwon, Soonwoo",Republic of Korea,KOR,KWON
-1,ATP,2024,27,men,368,1,135,sr:competitor:15983,"Klizan, Martin",Slovakia,SVK,KLI
-1,ATP,2024,27,men,369,-7,134,sr:competitor:270137,"Klier Junior, Gilbert",Brazil,BRA,KIL
-1,ATP,2024,27,men,370,-6,134,sr:competitor:111195,"Luz, Orlando",Brazil,BRA,LUZ
-1,ATP,2024,27,men,371,2,133,sr:competitor:801374,"Gea, Arthur",France,FRA,GEA
-1,ATP,2024,27,men,372,0,133,sr:competitor:163438,"Sun, Fajing",China,CHN,SUN
-1,ATP,2024,27,men,373,4,133,sr:competitor:123694,"Brancaccio, Raul",Italy,ITA,BRA
-1,ATP,2024,27,men,374,5,132,sr:competitor:305776,"Soto, Matias",Chile,CHL,SOT
-1,ATP,2024,27,men,375,0,132,sr:competitor:119140,"Ellis, Blake",Australia,AUS,ELL
-1,ATP,2024,27,men,376,0,130,sr:competitor:205767,"Cretu, Cezar (2001)",Romania,ROU,CRE
-1,ATP,2024,27,men,377,60,130,sr:competitor:82579,"Uchida, Kaichi",Japan,JPN,UCH
-1,ATP,2024,27,men,378,27,130,sr:competitor:423131,"Picchione, Andrea",Italy,ITA,PIC
-1,ATP,2024,27,men,379,4,129,sr:competitor:106357,"Gerch, Lucas",Germany,DEU,GER
-1,ATP,2024,27,men,380,-48,129,sr:competitor:153826,"Echargui, Moez",Tunisia,TUN,ECH
-1,ATP,2024,27,men,381,-1,128,sr:competitor:179628,"Haliak, Mikalai",Neutral,,HAL
-1,ATP,2024,27,men,382,-4,128,sr:competitor:275393,"Boitan, Gabi Adrian",Romania,ROU,BOI
-1,ATP,2024,27,men,383,8,126,sr:competitor:376178,"Lingua Lavallen, Alejo Lorenzo",Argentina,ARG,LIN
-1,ATP,2024,27,men,384,4,126,sr:competitor:16833,"Giannessi, Alessandro",Italy,ITA,GIA
-1,ATP,2024,27,men,385,-3,125,sr:competitor:313891,"Weber, Arthur",France,FRA,WEB
-1,ATP,2024,27,men,386,-2,125,sr:competitor:85877,"Villanueva, Gonzalo",Argentina,ARG,VIL
-1,ATP,2024,27,men,387,-2,125,sr:competitor:156826,"van Wyk, Kris",South Africa,ZAF,VAN
-1,ATP,2024,27,men,388,20,124,sr:competitor:23664,"Gaio, Federico",Italy,ITA,GAI
-1,ATP,2024,27,men,389,-3,124,sr:competitor:72230,"Celikbilek, Altug",Turkiye,TUR,CEL
-1,ATP,2024,27,men,390,-3,124,sr:competitor:205773,"Sanchez Jover, Carlos",Spain,ESP,SAN
-1,ATP,2024,27,men,391,-2,124,sr:competitor:336423,"Ionel, Nicholas David",Romania,ROU,ION
-1,ATP,2024,27,men,392,-2,123,sr:competitor:938667,"Schwaerzler, Joel",Austria,AUT,SCH
-1,ATP,2024,27,men,393,1,123,sr:competitor:42029,"Safwat, Mohamed",Egypt,EGY,SAF
-1,ATP,2024,27,men,394,-2,123,sr:competitor:620338,"Sharipov, Marat",Neutral,,SHA
-1,ATP,2024,27,men,395,11,122,sr:competitor:498580,"Aboian, Valerio",Argentina,ARG,ABO
-1,ATP,2024,27,men,396,1,121,sr:competitor:115463,"Tiurnev, Evgenii",Neutral,,TIE
-1,ATP,2024,27,men,397,-1,121,sr:competitor:194668,"Wenger, Damien",Switzerland,CHE,WEN
-1,ATP,2024,27,men,398,33,121,sr:competitor:303808,"Nijboer, Ryan",Netherlands,NLD,NIJ
-1,ATP,2024,27,men,399,2,120,sr:competitor:834054,"Prado Angelo, Juan Carlos",Bolivia,BOL,PRA
-1,ATP,2024,27,men,400,2,119,sr:competitor:774476,"Debru, Gabriel",France,FRA,DEB
-1,ATP,2024,27,men,401,-2,118,sr:competitor:15733,"Nishikori, Kei",Japan,JPN,NIS
-1,ATP,2024,27,men,402,-2,117,sr:competitor:62404,"Otte, Oscar",Germany,DEU,OTT
-1,ATP,2024,27,men,403,42,116,sr:competitor:299818,"Henning, Philip",South Africa,ZAF,HEN
-1,ATP,2024,27,men,404,76,116,sr:competitor:17065,"Chazal, Maxime",France,FRA,CHA
-1,ATP,2024,27,men,405,-2,115,sr:competitor:163528,"Lavagno, Edoardo",Italy,ITA,LAV
-1,ATP,2024,27,men,406,1,114,sr:competitor:53183,"Ilkel, Cem",Turkiye,TUR,ILK
-1,ATP,2024,27,men,407,-12,114,sr:competitor:345576,"Michalski, Daniel",Poland,POL,MIC
-1,ATP,2024,27,men,408,-27,113,sr:competitor:284823,"Kumar, Omni",USA,USA,KUM
-1,ATP,2024,27,men,409,-16,113,sr:competitor:90110,"Serdarusic, Nino",Croatia,HRV,SER
-1,ATP,2024,27,men,410,10,113,sr:competitor:414501,"Houkes, Max",Netherlands,NLD,HOU
-1,ATP,2024,27,men,411,1,113,sr:competitor:196440,"Dellavedova, Matthew",Australia,AUS,DEL
-1,ATP,2024,27,men,412,27,112,sr:competitor:52069,"Nakagawa, Naoki",Japan,JPN,NAK
-1,ATP,2024,27,men,413,2,111,sr:competitor:32466,"Moriya, Hiroki",Japan,JPN,MOR
-1,ATP,2024,27,men,414,-3,111,sr:competitor:847592,"Midon, Lautaro",Argentina,ARG,MID
-1,ATP,2024,27,men,415,2,110,sr:competitor:17017,"Donskoy, Evgeny",Neutral,,DON
-1,ATP,2024,27,men,416,3,110,sr:competitor:56361,"Sels, Jelle",Netherlands,NLD,SEL
-1,ATP,2024,27,men,417,4,110,sr:competitor:628044,"Kuzuhara, Bruno",USA,USA,KUZ
-1,ATP,2024,27,men,418,10,109,sr:competitor:76251,"Bobrov, Bogdan",Neutral,,BOB
-1,ATP,2024,27,men,419,4,109,sr:competitor:233184,"Glinka, Daniil",Estonia,EST,GLI
-1,ATP,2024,27,men,420,4,108,sr:competitor:809320,"Butvilas, Edas",Lithuania,LTU,BUT
-1,ATP,2024,27,men,421,-7,108,sr:competitor:303862,"Johns, Garrett",USA,USA,JOH
-1,ATP,2024,27,men,422,-12,108,sr:competitor:112987,"Handel, Tim",Germany,DEU,HAN
-1,ATP,2024,27,men,423,2,108,sr:competitor:157394,"Rosenkranz, Mats",Germany,DEU,ROS
-1,ATP,2024,27,men,424,2,108,sr:competitor:863263,"Gulin, Svyatoslav",Neutral,,GUL
-1,ATP,2024,27,men,425,2,107,sr:competitor:211038,"Valkusz, Mate",Hungary,HUN,VAL
-1,ATP,2024,27,men,426,-4,107,sr:competitor:16327,"Copil, Marius",Romania,ROU,COP
-1,ATP,2024,27,men,427,-11,107,sr:competitor:345060,"Kingsley, Cannon",USA,USA,KIN
-1,ATP,2024,27,men,428,1,107,sr:competitor:52462,"Vatutin, Alexey",Neutral,,VAT
-1,ATP,2024,27,men,429,-25,107,sr:competitor:780648,"Serafini, Marcello",Italy,ITA,SER
-1,ATP,2024,27,men,430,0,107,sr:competitor:673479,"Merida, Daniel",Spain,ESP,MER
-1,ATP,2024,27,men,431,2,107,sr:competitor:180446,"Wessels, Louis",Germany,DEU,WES
-1,ATP,2024,27,men,432,6,107,sr:competitor:195458,"Added, Dan",France,FRA,ADD
-1,ATP,2024,27,men,433,1,106,sr:competitor:312438,"Matusevich, Anton",Great Britain,GBR,MAT
-1,ATP,2024,27,men,434,-25,106,sr:competitor:809324,"Pacheco Mendez, Rodrigo",Mexico,MEX,PAC
-1,ATP,2024,27,men,435,-17,106,sr:competitor:221556,"Alves, Mateus",Brazil,BRA,ALV
-1,ATP,2024,27,men,436,8,106,sr:competitor:51309,"Cid Subervi, Roberto",Dominican Republic,DOM,CID
-1,ATP,2024,27,men,437,-5,106,sr:competitor:635386,"Popovic, Stefan",Serbia,SRB,POP
-1,ATP,2024,27,men,438,-68,105,sr:competitor:96859,"Lock, Benjamin",Zimbabwe,ZWE,LOC
-1,ATP,2024,27,men,439,-4,104,sr:competitor:166198,"Stodder, Timo",Germany,DEU,STO
-1,ATP,2024,27,men,440,0,104,sr:competitor:36298,"Diez, Steven",Canada,CAN,DIE
-1,ATP,2024,27,men,441,0,103,sr:competitor:780796,"Feldbausch, Kilian",Switzerland,CHE,FEL
-1,ATP,2024,27,men,442,0,103,sr:competitor:77007,"Kozlov, Stefan",USA,USA,KOZ
-1,ATP,2024,27,men,443,11,102,sr:competitor:66002,"Lokoli, Laurent",France,FRA,LOK
-1,ATP,2024,27,men,444,-1,102,sr:competitor:382056,"Bouquier, Arthur",France,FRA,BOU
-1,ATP,2024,27,men,445,-9,102,sr:competitor:813476,"Artnak, Bor",Slovenia,SVN,ART
-1,ATP,2024,27,men,446,0,101,sr:competitor:26204,"Basilashvili, Nikoloz",Georgia,GEO,BAS
-1,ATP,2024,27,men,447,-34,101,sr:competitor:252239,"Forti, Francesco",Italy,ITA,FOR
-1,ATP,2024,27,men,448,0,100,sr:competitor:89320,"Ivashka, Ilya",Neutral,,IVA
-1,ATP,2024,27,men,449,1,100,sr:competitor:341218,"Colson, Tibo",Belgium,BEL,COL
-1,ATP,2024,27,men,450,1,100,sr:competitor:348318,"Pannu, Kiranpal",New Zealand,NZL,PAN
-1,ATP,2024,27,men,451,1,100,sr:competitor:197674,"Damas, Miguel",Spain,ESP,DAM
-1,ATP,2024,27,men,452,1,100,sr:competitor:369630,"Strombachs, Robert",Germany,DEU,STR
-1,ATP,2024,27,men,453,2,99,sr:competitor:508498,"Rehberg, Max Hans",Germany,DEU,REH
-1,ATP,2024,27,men,454,2,99,sr:competitor:80491,"Escobedo, Ernesto",Mexico,MEX,ESC
-1,ATP,2024,27,men,455,-6,99,sr:competitor:720613,"ToPo, Marko",Germany,DEU,TOP
-1,ATP,2024,27,men,456,2,99,sr:competitor:307112,"Erel, Yanki",Turkiye,TUR,ERE
-1,ATP,2024,27,men,457,9,98,sr:competitor:312088,"Ilagan, Andre",USA,USA,ILA
-1,ATP,2024,27,men,458,-1,98,sr:competitor:763106,"Barton, Hynek",Czechia,CZE,BAR
-1,ATP,2024,27,men,459,13,98,sr:competitor:265559,"Arnaboldi, Federico",Italy,ITA,ARN
-1,ATP,2024,27,men,460,42,98,sr:competitor:305558,"Roncadelli, Franco",Uruguay,URY,RON
-1,ATP,2024,27,men,461,-1,97,sr:competitor:645452,"Nesterov, Pyotr",Bulgaria,BGR,NES
-1,ATP,2024,27,men,462,-1,96,sr:competitor:39726,"Kubler, Jason",Australia,AUS,KUB
-1,ATP,2024,27,men,463,-1,96,sr:competitor:52057,"Sell, Karue",Brazil,BRA,SEL
-1,ATP,2024,27,men,464,6,96,sr:competitor:266711,"Pavlovic, Luka",France,FRA,PAV
-1,ATP,2024,27,men,465,3,96,sr:competitor:435758,"Vanshelboim, Eric",Ukraine,UKR,VAN
-1,ATP,2024,27,men,466,1,95,sr:competitor:252249,"Iannaccone, Federico",Italy,ITA,IAN
-1,ATP,2024,27,men,467,2,94,sr:competitor:681005,"Borg, Leo",Sweden,SWE,BOR
-1,ATP,2024,27,men,468,3,94,sr:competitor:251029,"Martin Tiffon, Pol",Spain,ESP,MAR
-1,ATP,2024,27,men,469,-22,94,sr:competitor:515478,"Sakellaridis, Stefanos",Greece,GRC,SAK
-1,ATP,2024,27,men,470,3,93,sr:competitor:310970,"Zakharov, Alexey",Neutral,,ZAK
-1,ATP,2024,27,men,471,4,93,sr:competitor:54903,"Karlovskiy, Evgeny",Neutral,,KAR
-1,ATP,2024,27,men,472,2,92,sr:competitor:675129,"Bielinskyi, Viacheslav",Ukraine,UKR,BIE
-1,ATP,2024,27,men,473,3,92,sr:competitor:283451,"Rodriguez, Lorenzo Joaquin",Argentina,ARG,ROD
-1,ATP,2024,27,men,474,4,91,sr:competitor:603106,"Samuel, Toby",Great Britain,GBR,SAM
-1,ATP,2024,27,men,475,-10,91,sr:competitor:287215,"Seggerman, Ryan",USA,USA,SEG
-1,ATP,2024,27,men,476,3,91,sr:competitor:117866,"Mukund, Sasikumar",India,IND,MUK
-1,ATP,2024,27,men,477,9,91,sr:competitor:644676,"Milev, Yanaki",Bulgaria,BGR,MIL
-1,ATP,2024,27,men,478,-110,90,sr:competitor:152048,"Ymer, Mikael",Sweden,SWE,YME
-1,ATP,2024,27,men,479,4,90,sr:competitor:65382,"Edmund, Kyle",Great Britain,GBR,EDM
-1,ATP,2024,27,men,480,4,90,sr:competitor:243522,"Paul, Jakub",Switzerland,CHE,PAU
-1,ATP,2024,27,men,481,-4,89,sr:competitor:793226,"Zanellato, Nicolas",Brazil,BRA,ZAN
-1,ATP,2024,27,men,482,3,88,sr:competitor:200261,"Wu, Yibing",China,CHN,YIB
-1,ATP,2024,27,men,483,4,88,sr:competitor:459201,"Palan, Dominik",Czechia,CZE,PAL
-1,ATP,2024,27,men,484,4,88,sr:competitor:103313,"Langmo, Christian",USA,USA,LAN
-1,ATP,2024,27,men,485,8,88,sr:competitor:170964,"Bittoun Kouzmine, Constantin",France,FRA,BIT
-1,ATP,2024,27,men,486,-22,87,sr:competitor:124708,"Cukierman, Daniel",Israel,ISR,CUK
-1,ATP,2024,27,men,487,2,87,sr:competitor:653487,"Ivanovski, Kalin",North Macedonia,MKD,IVA
-1,ATP,2024,27,men,488,2,87,sr:competitor:182967,"Ochi, Makoto",Japan,JPN,OCH
-1,ATP,2024,27,men,489,3,87,sr:competitor:152898,"Gengel, Marek",Czechia,CZE,GEN
-1,ATP,2024,27,men,490,6,87,sr:competitor:177644,"Takahashi, Yusuke",Japan,JPN,TAK
-1,ATP,2024,27,men,491,3,86,sr:competitor:251031,"Gimeno Valero, Carlos",Spain,ESP,GIM
-1,ATP,2024,27,men,492,5,85,sr:competitor:78879,"Pecotic, Matija",Croatia,HRV,PEC
-1,ATP,2024,27,men,493,5,85,sr:competitor:156664,"TE, Rigele",China,CHN,RIG
-1,ATP,2024,27,men,494,1,85,sr:competitor:312728,"Stewart, Hamish",Great Britain,GBR,STE
-1,ATP,2024,27,men,495,8,84,sr:competitor:221538,"Berrettini, Jacopo",Italy,ITA,BER
-1,ATP,2024,27,men,496,3,84,sr:competitor:603420,"Martin, Andres",USA,USA,MAR
-1,ATP,2024,27,men,497,-6,84,sr:competitor:222628,"Ayeni, Alafia",USA,USA,AVE
-1,ATP,2024,27,men,498,-17,84,sr:competitor:95259,"Kirchheimer, Strong",USA,USA,KIR
-1,ATP,2024,27,men,499,5,84,sr:competitor:242512,"Lopez Morillo, Imanol",Spain,ESP,LOP
-1,ATP,2024,27,men,500,25,84,sr:competitor:79223,"Delaney, Jake",Australia,AUS,DEL
-1,WTA,2024,27,women,1,0,11585,sr:competitor:274013,"Swiatek, Iga",Poland,POL,SWI
-1,WTA,2024,27,women,2,0,7943,sr:competitor:373352,"Gauff, Coco",USA,USA,GAU
-1,WTA,2024,27,women,3,0,7841,sr:competitor:157754,"Sabalenka, Aryna",Neutral,,SAB
-1,WTA,2024,27,women,4,0,6026,sr:competitor:186312,"Rybakina, Elena",Kazakhstan,KAZ,RYB
-1,WTA,2024,27,women,5,0,5025,sr:competitor:44834,"Pegula, Jessica",USA,USA,PEG
-1,WTA,2024,27,women,6,0,4463,sr:competitor:152804,"Vondrousova, Marketa",Czechia,CZE,VON
-1,WTA,2024,27,women,7,0,4228,sr:competitor:69208,"Paolini, Jasmine",Italy,ITA,PAO
-1,WTA,2024,27,women,8,0,4055,sr:competitor:348760,"Zheng, Qinwen",China,CHN,ZHE
-1,WTA,2024,27,women,9,0,3805,sr:competitor:65950,"Sakkari, Maria",Greece,GRC,SAK
-1,WTA,2024,27,women,10,0,3801,sr:competitor:55401,"Jabeur, Ons",Tunisia,TUN,JAB
-1,WTA,2024,27,women,11,0,3532,sr:competitor:58515,"Collins, Danielle",USA,USA,COL
-1,WTA,2024,27,women,12,2,3283,sr:competitor:132370,"Kasatkina, Daria",Neutral,,KAS
-1,WTA,2024,27,women,13,-1,3068,sr:competitor:35424,"Keys, Madison",USA,USA,KEY
-1,WTA,2024,27,women,14,-1,3058,sr:competitor:64496,"Ostapenko, Jelena",Latvia,LVA,OST
-1,WTA,2024,27,women,15,0,2830,sr:competitor:128584,"Samsonova, Liudmila",Neutral,,SAM
-1,WTA,2024,27,women,16,0,2399,sr:competitor:19017,"Azarenka, Victoria",Neutral,,AZA
-1,WTA,2024,27,women,17,2,2323,sr:competitor:228418,"Navarro, Emma",USA,USA,NAV
-1,WTA,2024,27,women,18,-1,2310,sr:competitor:179146,"Kalinskaya, Anna",Neutral,,KAL
-1,WTA,2024,27,women,19,-1,2240,sr:competitor:278887,"Kostyuk, Marta",Ukraine,UKR,KOS
-1,WTA,2024,27,women,20,0,2218,sr:competitor:59702,"Haddad Maia, Beatriz",Brazil,BRA,HAD
-1,WTA,2024,27,women,21,0,2100,sr:competitor:51293,"Svitolina, Elina",Ukraine,UKR,SVI
-1,WTA,2024,27,women,22,0,2053,sr:competitor:67759,"Alexandrova, Ekaterina",Neutral,,ALE
-1,WTA,2024,27,women,23,1,2018,sr:competitor:871583,"Andreeva, Mirra",Neutral,,AND
-1,WTA,2024,27,women,24,-1,1938,sr:competitor:42339,"Garcia, Caroline",France,FRA,GAR
-1,WTA,2024,27,women,25,5,1920,sr:competitor:289507,"Fernandez, Leylah Annie",Canada,CAN,FER
-1,WTA,2024,27,women,26,0,1775,sr:competitor:401055,"Noskova, Linda",Czechia,CZE,NOS
-1,WTA,2024,27,women,27,1,1760,sr:competitor:192108,"Yastremska, Dayana",Ukraine,UKR,YAS
-1,WTA,2024,27,women,28,-3,1756,sr:competitor:19546,"Pavlyuchenkova, Anastasia",Neutral,,PAV
-1,WTA,2024,27,women,29,3,1748,sr:competitor:62924,"Boulter, Katie",Great Britain,GBR,BOU
-1,WTA,2024,27,women,30,17,1690,sr:competitor:588071,"Shnaider, Diana",Neutral,,SHN
-1,WTA,2024,27,women,31,-2,1675,sr:competitor:19728,"Cirstea, Sorana",Romania,ROU,CIR
-1,WTA,2024,27,women,32,-1,1643,sr:competitor:60398,"Krejcikova, Barbora",Czechia,CZE,KRE
-1,WTA,2024,27,women,33,0,1629,sr:competitor:78551,"Mertens, Elise",Belgium,BEL,MER
-1,WTA,2024,27,women,34,1,1618,sr:competitor:85077,"Muchova, Karolina",Czechia,CZE,MUC
-1,WTA,2024,27,women,35,-1,1553,sr:competitor:45545,"Putintseva, Yulia",Kazakhstan,KAZ,PUT
-1,WTA,2024,27,women,36,-9,1546,sr:competitor:72376,"Siniakova, Katerina",Czechia,CZE,SIN
-1,WTA,2024,27,women,37,12,1488,sr:competitor:50641,"Vekic, Donna",Croatia,HRV,VEK
-1,WTA,2024,27,women,38,-2,1488,sr:competitor:66968,"Kudermetova, Veronika",Neutral,,KUD
-1,WTA,2024,27,women,39,-1,1452,sr:competitor:41877,"Yuan, Yue",China,CHN,YUA
-1,WTA,2024,27,women,40,-3,1445,sr:competitor:105463,"Bouzkova, Marie",Czechia,CZE,BOU
-1,WTA,2024,27,women,41,-2,1415,sr:competitor:234150,"Potapova, Anastasia",Neutral,,POT
-1,WTA,2024,27,women,42,-2,1411,sr:competitor:272217,"Wang, Xinyu",China,CHN,WAN
-1,WTA,2024,27,women,43,-2,1328,sr:competitor:373354,"Cocciaretto, Elisabetta",Italy,ITA,COC
-1,WTA,2024,27,women,44,2,1291,sr:competitor:42289,"Linette, Magda",Poland,POL,LIN
-1,WTA,2024,27,women,45,-2,1288,sr:competitor:225046,"Burel, Clara",France,FRA,BUR
-1,WTA,2024,27,women,46,-4,1255,sr:competitor:20732,"Pliskova, Karolina",Czechia,CZE,PLI
-1,WTA,2024,27,women,47,-3,1246,sr:competitor:90664,"Kalinina, Anhelina",Ukraine,UKR,KAL
-1,WTA,2024,27,women,48,10,1235,sr:competitor:41374,"Tomova, Viktoriya",Bulgaria,BGR,TOM
-1,WTA,2024,27,women,49,-1,1221,sr:competitor:91960,"Kenin, Sofia",USA,USA,KEN
-1,WTA,2024,27,women,50,-5,1217,sr:competitor:23158,"Stephens, Sloane",USA,USA,STE
-1,WTA,2024,27,women,51,1,1100,sr:competitor:123824,"Dolehide, Caroline",USA,USA,DOL
-1,WTA,2024,27,women,52,7,1082,sr:competitor:360038,"Stearns, Peyton",USA,USA,STE
-1,WTA,2024,27,women,53,0,1077,sr:competitor:318195,"Parry, Diane",France,FRA,PAR
-1,WTA,2024,27,women,54,-3,1075,sr:competitor:262759,"Wang, Xiyu",China,CHN,WAN
-1,WTA,2024,27,women,55,-1,1055,sr:competitor:60392,"Sorribes Tormo, Sara",Spain,ESP,SOR
-1,WTA,2024,27,women,56,-1,1054,sr:competitor:19847,"Rus, Arantxa",Netherlands,NLD,RUS
-1,WTA,2024,27,women,57,-7,1053,sr:competitor:41355,"Bogdan, Ana",Romania,ROU,BOG
-1,WTA,2024,27,women,58,-2,1049,sr:competitor:71250,"Frech, Magdalena",Poland,POL,FRE
-1,WTA,2024,27,women,59,-2,1048,sr:competitor:36067,"Tsurenko, Lesia",Ukraine,UKR,TSU
-1,WTA,2024,27,women,60,6,1030,sr:competitor:192130,"Blinkova, Anna",Neutral,,BLI
-1,WTA,2024,27,women,61,-1,997,sr:competitor:45584,"Zhu, Lin",China,CHN,ZHU
-1,WTA,2024,27,women,62,0,996,sr:competitor:72758,"Cristian, Jaqueline Adina",Romania,ROU,CRI
-1,WTA,2024,27,women,63,-2,994,sr:competitor:19520,"Maria, Tatjana",Germany,DEU,MAR
-1,WTA,2024,27,women,64,-1,984,sr:competitor:99131,"Bucsa, Cristina",Spain,ESP,BUC
-1,WTA,2024,27,women,65,0,983,sr:competitor:60276,"Podoroska, Nadia",Argentina,ARG,POD
-1,WTA,2024,27,women,66,1,981,sr:competitor:329535,"Tauson, Clara",Denmark,DNK,TAU
-1,WTA,2024,27,women,67,2,964,sr:competitor:48455,"Golubic, Viktorija",Switzerland,CHE,GOL
-1,WTA,2024,27,women,68,2,940,sr:competitor:335171,"Uchijima, Moyuka",Japan,JPN,UCH
-1,WTA,2024,27,women,69,2,927,sr:competitor:343160,"Volynets, Katie",USA,USA,VOL
-1,WTA,2024,27,women,70,-2,920,sr:competitor:246905,"Gracheva, Varvara",France,FRA,GRA
-1,WTA,2024,27,women,71,1,919,sr:competitor:52025,"Wang, Yafan",China,CHN,WAN
-1,WTA,2024,27,women,72,1,917,sr:competitor:37508,"Siegemund, Laura",Germany,DEU,SIE
-1,WTA,2024,27,women,73,2,895,sr:competitor:69988,"Korpatsch, Tamara",Germany,DEU,KOR
-1,WTA,2024,27,women,74,3,880,sr:competitor:46304,"Schmiedlova, Anna-Karolina",Slovakia,SVK,SCH
-1,WTA,2024,27,women,75,12,869,sr:competitor:549759,"Krueger, Ashlyn",USA,USA,KRU
-1,WTA,2024,27,women,76,3,864,sr:competitor:51387,"Townsend, Taylor",USA,USA,TOW
-1,WTA,2024,27,women,77,4,855,sr:competitor:366114,"Avanesyan, Elina",Neutral,,AVA
-1,WTA,2024,27,women,78,-2,855,sr:competitor:88310,"Sherif, Mayar",Egypt,EGY,SHE
-1,WTA,2024,27,women,79,1,849,sr:competitor:64968,"Dodin, Oceane",France,FRA,DOD
-1,WTA,2024,27,women,80,5,848,sr:competitor:110803,"Minnen, Greet",Belgium,BEL,MIN
-1,WTA,2024,27,women,81,-17,833,sr:competitor:110055,"Bronzetti, Lucia",Italy,ITA,BRO
-1,WTA,2024,27,women,82,0,830,sr:competitor:40994,"Saville, Daria",Australia,AUS,SAV
-1,WTA,2024,27,women,83,0,828,sr:competitor:405057,"Bouzas Maneiro, Jessica",Spain,ESP,BOU
-1,WTA,2024,27,women,84,-6,815,sr:competitor:242630,"Osorio, Camila",Colombia,COL,OSO
-1,WTA,2024,27,women,85,-11,811,sr:competitor:19704,"Martic, Petra",Croatia,HRV,MAR
-1,WTA,2024,27,women,86,-2,810,sr:competitor:19202,"Errani, Sara",Italy,ITA,ERR
-1,WTA,2024,27,women,87,-1,809,sr:competitor:141892,"Carle, Maria",Argentina,ARG,CAR
-1,WTA,2024,27,women,88,0,801,sr:competitor:667155,"Fruhvirtova, Brenda",Czechia,CZE,FRU
-1,WTA,2024,27,women,89,0,793,sr:competitor:153860,"Trevisan, Martina",Italy,ITA,TRE
-1,WTA,2024,27,women,90,6,790,sr:competitor:255031,"Niemeier, Jule",Germany,DEU,NIE
-1,WTA,2024,27,women,91,21,774,sr:competitor:18910,"Wozniacki, Caroline",Denmark,DNK,WOZ
-1,WTA,2024,27,women,92,-2,772,sr:competitor:63957,"Bencic, Belinda",Switzerland,CHE,BEN
-1,WTA,2024,27,women,93,20,770,sr:competitor:133662,"Badosa, Paula",Spain,ESP,BAS
-1,WTA,2024,27,women,94,-3,770,sr:competitor:72450,"Hibino, Nao",Japan,JPN,HIB
-1,WTA,2024,27,women,95,-3,756,sr:competitor:588069,"Bai, Zhuoxuan",China,CHN,BAI
-1,WTA,2024,27,women,96,-3,756,sr:competitor:150574,"Bondar, Anna",Hungary,HUN,BON
-1,WTA,2024,27,women,97,-3,752,sr:competitor:67757,"Pera, Bernarda",USA,USA,PER
-1,WTA,2024,27,women,98,-3,750,sr:competitor:111189,"Zarazua, Renata",Mexico,MEX,ZAR
-1,WTA,2024,27,women,99,-1,739,sr:competitor:319455,"Baptiste, Hailey",USA,USA,BAP
-1,WTA,2024,27,women,100,5,739,sr:competitor:53789,"Dart, Harriet",Great Britain,GBR,DAR
-1,WTA,2024,27,women,101,-2,729,sr:competitor:662273,"Andreeva, Erika",Neutral,,AND
-1,WTA,2024,27,women,102,-2,722,sr:competitor:467035,"Timofeeva, Maria",Neutral,,TIM
-1,WTA,2024,27,women,103,-2,712,sr:competitor:23082,"Rodionova, Arina",Australia,AUS,ROD
-1,WTA,2024,27,women,104,-2,696,sr:competitor:252223,"Rakhimova, Kamilla",Neutral,,RAK
-1,WTA,2024,27,women,105,-2,695,sr:competitor:71034,"Sramkova, Rebecca",Slovakia,SVK,SRA
-1,WTA,2024,27,women,106,-2,687,sr:competitor:337813,"Riera, Julia",Argentina,ARG,RIE
-1,WTA,2024,27,women,107,-1,686,sr:competitor:75825,"Bektas, Emina",USA,USA,BEK
-1,WTA,2024,27,women,108,-1,683,sr:competitor:568715,"Semenistaja, Darja",Latvia,LVA,SEM
-1,WTA,2024,27,women,109,-12,682,sr:competitor:124804,"Masarova, Rebeka",Spain,ESP,MAS
-1,WTA,2024,27,women,110,-2,681,sr:competitor:64085,"Pigossi, Laura",Brazil,BRA,PIG
-1,WTA,2024,27,women,111,-2,677,sr:competitor:206949,"Hontama, Mai",Japan,JPN,HON
-1,WTA,2024,27,women,112,-2,674,sr:competitor:110299,"Zidansek, Tamara",Slovenia,SVN,ZID
-1,WTA,2024,27,women,113,-2,669,sr:competitor:66476,"Osaka, Naomi",Japan,JPN,OSA
-1,WTA,2024,27,women,114,0,655,sr:competitor:179300,"Liu, Claire",USA,USA,LIU
-1,WTA,2024,27,women,115,0,654,sr:competitor:46591,"Paquet, Chloe",France,FRA,PAQ
-1,WTA,2024,27,women,116,0,641,sr:competitor:211262,"Danilovic, Olga",Serbia,SRB,DAN
-1,WTA,2024,27,women,117,0,640,sr:competitor:92442,"Fett, Jana",Croatia,HRV,FET
-1,WTA,2024,27,women,118,1,634,sr:competitor:741433,"Bejlek, Sara",Czechia,CZE,BEJ
-1,WTA,2024,27,women,119,-1,631,sr:competitor:287769,"Kessler, McCartney",USA,USA,KES
-1,WTA,2024,27,women,120,0,625,sr:competitor:183861,"Bassols Ribera, Marina",Spain,ESP,BAS
-1,WTA,2024,27,women,121,0,624,sr:competitor:256547,"Parks, Alycia",USA,USA,PAR
-1,WTA,2024,27,women,122,0,619,sr:competitor:208105,"Arango, Emiliana",Colombia,COL,ARA
-1,WTA,2024,27,women,123,0,616,sr:competitor:202363,"Sun, Lulu",New Zealand,NZL,SUN
-1,WTA,2024,27,women,124,0,614,sr:competitor:45902,"Sasnovich, Aliaksandra",Neutral,,SAS
-1,WTA,2024,27,women,125,1,600,sr:competitor:19836,"Kvitova, Petra",Czechia,CZE,KVI
-1,WTA,2024,27,women,126,1,596,sr:competitor:35838,"Begu, Irina-Camelia",Romania,ROU,BEG
-1,WTA,2024,27,women,127,1,595,sr:competitor:97995,"Galfi, Dalma",Hungary,HUN,GAL
-1,WTA,2024,27,women,128,1,594,sr:competitor:137962,"Day, Kayla",USA,USA,DAY
-1,WTA,2024,27,women,129,1,592,sr:competitor:246941,"Lys, Eva",Germany,DEU,LYS
-1,WTA,2024,27,women,130,1,592,sr:competitor:380704,"Snigur, Daria",Ukraine,UKR,SNI
-1,WTA,2024,27,women,131,-6,584,sr:competitor:18808,"Cornet, Alize",France,FRA,COR
-1,WTA,2024,27,women,132,0,579,sr:competitor:105099,"Birrell, Kimberly",Australia,AUS,BIR
-1,WTA,2024,27,women,133,0,578,sr:competitor:63220,"Ponchet, Jessika",France,FRA,PON
-1,WTA,2024,27,women,134,0,562,sr:competitor:254551,"Udvardy, Panna",Hungary,HUN,UDV
-1,WTA,2024,27,women,135,33,559,sr:competitor:352782,"Raducanu, Emma",Great Britain,GBR,RAD
-1,WTA,2024,27,women,136,-1,556,sr:competitor:34486,"Tomljanovic, Ajla",Australia,AUS,TOM
-1,WTA,2024,27,women,137,-1,556,sr:competitor:299310,"Sonmez, Zeynep",Turkiye,TUR,SON
-1,WTA,2024,27,women,138,-1,549,sr:competitor:210716,"Lamens, Suzan",Netherlands,NLD,LAM
-1,WTA,2024,27,women,139,-1,546,sr:competitor:51392,"Vickery, Sachia",USA,USA,VIC
-1,WTA,2024,27,women,140,-1,543,sr:competitor:58053,"Sharma, Astra",Australia,AUS,SHA
-1,WTA,2024,27,women,141,-1,542,sr:competitor:26120,"Marino, Rebecca",Canada,CAN,MAR
-1,WTA,2024,27,women,142,-1,541,sr:competitor:755469,"Todoni, Anca Alexia",Romania,ROU,TOD
-1,WTA,2024,27,women,143,0,531,sr:competitor:261583,"Li, Ann",USA,USA,ANN
-1,WTA,2024,27,women,144,0,530,sr:competitor:45835,"Hunter, Storm",Australia,AUS,HUN
-1,WTA,2024,27,women,145,0,521,sr:competitor:205633,"Juvan, Kaja",Slovenia,SVN,JUV
-1,WTA,2024,27,women,146,0,519,sr:competitor:675189,"Preston, Taylah",Australia,AUS,PRE
-1,WTA,2024,27,women,147,0,514,sr:competitor:526975,"Fruhvirtova, Linda",Czechia,CZE,FRU
-1,WTA,2024,27,women,148,0,512,sr:competitor:165866,"Miyazaki, Yuriko Lily",Great Britain,GBR,MIY
-1,WTA,2024,27,women,149,0,510,sr:competitor:662615,"Salkova, Dominika",Czechia,CZE,SAL
-1,WTA,2024,27,women,150,0,506,sr:competitor:155890,"Stefanini, Lucrezia",Italy,ITA,STE
-1,WTA,2024,27,women,151,0,503,sr:competitor:406199,"Jacquemot, Elsa",France,FRA,JAC
-1,WTA,2024,27,women,152,0,491,sr:competitor:103901,"Ruse, Elena-Gabriela",Romania,ROU,RUS
-1,WTA,2024,27,women,153,0,490,sr:competitor:225130,"Starodubtseva, Yuliia",Ukraine,UKR,STA
-1,WTA,2024,27,women,154,0,478,sr:competitor:466689,"Boisson, Lois",France,FRA,BOI
-1,WTA,2024,27,women,155,0,477,sr:competitor:112957,"Jeanjean, Leolia",France,FRA,JEA
-1,WTA,2024,27,women,156,0,476,sr:competitor:65656,"Ferro, Fiona",France,FRA,FER
-1,WTA,2024,27,women,157,0,470,sr:competitor:762762,"Seidel, Ella",Germany,DEU,SEI
-1,WTA,2024,27,women,158,0,468,sr:competitor:160190,"Hartono, Arianne",Netherlands,NLD,HAR
-1,WTA,2024,27,women,159,-17,466,sr:competitor:172590,"Burrage, Jodie Anna",Great Britain,GBR,BUR
-1,WTA,2024,27,women,160,-1,465,sr:competitor:341112,"Zakharova, Anastasia",Neutral,,ZAK
-1,WTA,2024,27,women,161,-1,464,sr:competitor:499484,"Montgomery, Robin",USA,USA,MON
-1,WTA,2024,27,women,162,0,460,sr:competitor:627278,"Eala, Alexandra",Philippines,PHL,EAL
-1,WTA,2024,27,women,163,0,459,sr:competitor:845268,"Korneeva, Alina",Neutral,,KOR
-1,WTA,2024,27,women,164,0,456,sr:competitor:595220,"Stakusic, Marina",Canada,CAN,STA
-1,WTA,2024,27,women,165,1,454,sr:competitor:49171,"Parrizas Diaz, Nuria",Spain,ESP,PAR
-1,WTA,2024,27,women,166,1,451,sr:competitor:19876,"Wickmayer, Yanina",Belgium,BEL,WIC
-1,WTA,2024,27,women,167,3,450,sr:competitor:722877,"Ciric-Bagaric, Lucija",Croatia,HRV,CIR
-1,WTA,2024,27,women,168,4,445,sr:competitor:776340,"Joint, Maya",Australia,AUS,JOI
-1,WTA,2024,27,women,169,0,444,sr:competitor:870983,"Saito, Sara",Japan,JPN,SAI
-1,WTA,2024,27,women,170,3,438,sr:competitor:771430,"Naef, Celine",Switzerland,CHE,NAE
-1,WTA,2024,27,women,171,3,436,sr:competitor:273017,"Mandlik, Elizabeth",USA,USA,MAN
-1,WTA,2024,27,women,172,4,433,sr:competitor:369524,"Erjavec, Veronika",Slovenia,SVN,ERJ
-1,WTA,2024,27,women,173,4,432,sr:competitor:286435,"Gadecki, Olivia",Australia,AUS,GAD
-1,WTA,2024,27,women,174,5,429,sr:competitor:448081,"Noha Akugue, Noma",Germany,DEU,NOH
-1,WTA,2024,27,women,175,5,429,sr:competitor:504238,"Sierra, Solana",Argentina,ARG,SIE
-1,WTA,2024,27,women,176,-11,426,sr:competitor:217912,"Andreescu, Bianca",Canada,CAN,AND
-1,WTA,2024,27,women,177,4,426,sr:competitor:432605,"Makarova, Ekaterina",Neutral,,MAK
-1,WTA,2024,27,women,178,0,425,sr:competitor:534045,"Gibson, Talia",Australia,AUS,GIB
-1,WTA,2024,27,women,179,3,425,sr:competitor:19957,"Hercog, Polona",Slovenia,SVN,HER
-1,WTA,2024,27,women,180,3,424,sr:competitor:467037,"Kudermetova, Polina",Neutral,,KUD
-1,WTA,2024,27,women,181,4,423,sr:competitor:210558,"Jorge, Francisca",Portugal,PRT,JOR
-1,WTA,2024,27,women,182,4,419,sr:competitor:517296,"Falei, Aliona",Neutral,,FAL
-1,WTA,2024,27,women,183,4,418,sr:competitor:297588,"Romero Gormaz, Leyre",Spain,ESP,ROM
-1,WTA,2024,27,women,184,-9,416,sr:competitor:48583,"Baindl, Kateryna",Ukraine,UKR,BAI
-1,WTA,2024,27,women,185,-24,415,sr:competitor:83607,"Capurro Taborda, Martina",Argentina,ARG,CAP
-1,WTA,2024,27,women,186,2,399,sr:competitor:42492,"Kawa, Katarzyna",Poland,POL,KAW
-1,WTA,2024,27,women,187,-3,398,sr:competitor:150130,"Gao, Xinyu",China,CHN,GAO
-1,WTA,2024,27,women,188,2,397,sr:competitor:303814,"Tikhonova, Anastasia",Neutral,,TIK
-1,WTA,2024,27,women,189,2,393,sr:competitor:281189,"Anisimova, Amanda",USA,USA,ANI
-1,WTA,2024,27,women,190,2,389,sr:competitor:129534,"Hruncakova, Viktoria",Slovakia,SVK,HRU
-1,WTA,2024,27,women,191,3,388,sr:competitor:604388,"Tararudee, Lanlana",Thailand,THA,TAR
-1,WTA,2024,27,women,192,3,386,sr:competitor:58423,"Stevanovic, Natalija",Serbia,SRB,STE
-1,WTA,2024,27,women,193,0,385,sr:competitor:190882,"Aiava, Destanee",Australia,AUS,AIA
-1,WTA,2024,27,women,194,-23,382,sr:competitor:39425,"Savinykh, Valeria",Neutral,,SAV
-1,WTA,2024,27,women,195,3,375,sr:competitor:433758,"Wei, Sijia",China,CHN,WEI
-1,WTA,2024,27,women,196,3,374,sr:competitor:157150,"Boskovic, Lea",Croatia,HRV,BOS
-1,WTA,2024,27,women,197,3,372,sr:competitor:202623,"Zavatska, Katarina",Ukraine,UKR,ZAV
-1,WTA,2024,27,women,198,3,366,sr:competitor:655811,"Avdeeva, Julia",Neutral,,AVD
-1,WTA,2024,27,women,199,-3,366,sr:competitor:41404,"Watson, Heather",Great Britain,GBR,WAT
-1,WTA,2024,27,women,200,2,365,sr:competitor:87834,"Hon, Priscilla",Australia,AUS,HON
-1,WTA,2024,27,women,201,2,364,sr:competitor:577513,"Ruzic, Antonia",Croatia,HRV,RUZ
-1,WTA,2024,27,women,202,2,363,sr:competitor:256447,"Monnet, Carole",France,FRA,MON
-1,WTA,2024,27,women,203,2,362,sr:competitor:132988,"MA, Yexin",China,CHN,YEX
-1,WTA,2024,27,women,204,2,361,sr:competitor:18919,"Lepchenko, Varvara",USA,USA,LEP
-1,WTA,2024,27,women,205,2,360,sr:competitor:103375,"Serban, Raluca Georgiana",Cyprus,CYP,SER
-1,WTA,2024,27,women,206,2,359,sr:competitor:300496,"Sawangkaew, Mananchaya",Thailand,THA,SAW
-1,WTA,2024,27,women,207,-18,357,sr:competitor:67322,"Tan, Harmony",France,FRA,TAN
-1,WTA,2024,27,women,208,1,357,sr:competitor:42839,"Barthel, Mona",Germany,DEU,BAR
-1,WTA,2024,27,women,209,1,355,sr:competitor:45139,"Papamichail, Despina",Greece,GRC,PAP
-1,WTA,2024,27,women,210,1,355,sr:competitor:134532,"You, Xiaodi",China,CHN,YOU
-1,WTA,2024,27,women,211,1,353,sr:competitor:51477,"Mitu, Andreea",Romania,ROU,MIT
-1,WTA,2024,27,women,212,1,352,sr:competitor:52533,"Jakupovic, Dalila",Slovenia,SVN,JAK
-1,WTA,2024,27,women,213,2,348,sr:competitor:33593,"Mladenovic, Kristina",France,FRA,MLA
-1,WTA,2024,27,women,214,2,346,sr:competitor:137948,"Chang, Hanna",USA,USA,CHA
-1,WTA,2024,27,women,215,2,345,sr:competitor:198488,"Jones, Francesca",Great Britain,GBR,JON
-1,WTA,2024,27,women,216,2,344,sr:competitor:71484,"Chirico, Louisa",USA,USA,CHI
-1,WTA,2024,27,women,217,15,341,sr:competitor:41737,"Jang, Su Jeong",Republic of Korea,KOR,JAN
-1,WTA,2024,27,women,218,1,340,sr:competitor:155556,"Bulgaru, Miriam Bianca",Romania,ROU,BUL
-1,WTA,2024,27,women,219,-5,340,sr:competitor:48318,"Martincova, Tereza",Czechia,CZE,MAR
-1,WTA,2024,27,women,220,0,339,sr:competitor:52183,"Bara, Irina Maria",Romania,ROU,BARA
-1,WTA,2024,27,women,221,0,334,sr:competitor:19578,"Kerber, Angelique",Germany,DEU,KER
-1,WTA,2024,27,women,222,0,333,sr:competitor:128638,"Sebov, Katherine",Canada,CAN,SEB
-1,WTA,2024,27,women,223,-26,328,sr:competitor:90814,"Teichmann, Jil",Switzerland,CHE,TEI
-1,WTA,2024,27,women,224,21,328,sr:competitor:501140,"Klimovicova, Linda",Czechia,CZE,KLI
-1,WTA,2024,27,women,225,-2,327,sr:competitor:505970,"Janicijevic, Selena",France,FRA,JAN
-1,WTA,2024,27,women,226,-2,327,sr:competitor:50643,"Lukas, Tena",Croatia,HRV,LUK
-1,WTA,2024,27,women,227,-2,325,sr:competitor:54171,"Benoit, Marie",Belgium,BEL,BEN
-1,WTA,2024,27,women,228,-2,324,sr:competitor:52273,"Brady, Jennifer",USA,USA,BRA
-1,WTA,2024,27,women,229,-2,321,sr:competitor:245295,"Waltert, Simona",Switzerland,CHE,WAL
-1,WTA,2024,27,women,230,-2,320,sr:competitor:628190,"Soboleva, Anastasiya",Ukraine,UKR,SOB
-1,WTA,2024,27,women,231,-1,319,sr:competitor:67743,"Gjorcheska, Lina",North Macedonia,MKD,GJO
-1,WTA,2024,27,women,232,-1,318,sr:competitor:106341,"Knutson, Gabriela",Czechia,CZE,KNU
-1,WTA,2024,27,women,233,-4,316,sr:competitor:226644,"Topalova, Gergana",Bulgaria,BGR,TOP
-1,WTA,2024,27,women,234,19,312,sr:competitor:208017,"Maristany Zuleta de Reales, Guiomar",Spain,ESP,MAR
-1,WTA,2024,27,women,235,-2,308,sr:competitor:46273,"Dinu, Cristina",Romania,ROU,DIN
-1,WTA,2024,27,women,236,11,307,sr:competitor:675191,"Jimenez Kasintseva, Victoria",Andorra,AND,JIM
-1,WTA,2024,27,women,237,-3,307,sr:competitor:801414,"Vandewinkel, Hanne",Belgium,BEL,VAN
-1,WTA,2024,27,women,238,-3,305,sr:competitor:92879,"Shymanovich, Iryna",Neutral,,SHY
-1,WTA,2024,27,women,239,0,303,sr:competitor:82307,"von Deichmann, Kathinka",Liechtenstein,LIE,VON
-1,WTA,2024,27,women,240,-3,302,sr:competitor:278943,"Lansere, Sofya",Neutral,,LAN
-1,WTA,2024,27,women,241,7,302,sr:competitor:235260,"Chwalinska, Maja",Poland,POL,CHW
-1,WTA,2024,27,women,242,-4,301,sr:competitor:499098,"Ito, Aoi",Japan,JPN,ITO
-1,WTA,2024,27,women,243,-3,300,sr:competitor:245711,"Leonard, Manon",France,FRA,LEO
-1,WTA,2024,27,women,244,-3,297,sr:competitor:319349,"Rouvroy, Margaux",France,FRA,ROU
-1,WTA,2024,27,women,245,-3,297,sr:competitor:52388,"Hesse, Amandine",France,FRA,HES
-1,WTA,2024,27,women,246,22,296,sr:competitor:282219,"Sakatsume, Himeno",Japan,JPN,SAK
-1,WTA,2024,27,women,247,4,296,sr:competitor:47876,"Shinikova, Isabella",Bulgaria,BGR,SHI
-1,WTA,2024,27,women,248,-5,295,sr:competitor:99405,"Inglis, Maddison",Australia,AUS,ING
-1,WTA,2024,27,women,249,-13,294,sr:competitor:329009,"Ryser, Valentina",Switzerland,CHE,RYS
-1,WTA,2024,27,women,250,-4,293,sr:competitor:315609,"Kraus, Sinja",Austria,AUT,KRA
-1,WTA,2024,27,women,251,-2,291,sr:competitor:58267,"Radanovic, Dejana",Serbia,SRB,RAD
-1,WTA,2024,27,women,252,-2,289,sr:competitor:134342,"Cengiz, Berfu",Turkiye,TUR,CEN
-1,WTA,2024,27,women,253,1,284,sr:competitor:194690,"Mateas, Maria",USA,USA,MAT
-1,WTA,2024,27,women,254,-2,284,sr:competitor:50687,"van Uytvanck, Alison",Belgium,BEL,VAN
-1,WTA,2024,27,women,255,0,281,sr:competitor:43102,"Babos, Timea",Hungary,HUN,BAB
-1,WTA,2024,27,women,256,0,281,sr:competitor:137932,"Mikulskyte, Justina",Lithuania,LTU,MIK
-1,WTA,2024,27,women,257,0,278,sr:competitor:98733,"Burillo Escorihuela, Irene",Spain,ESP,BUR
-1,WTA,2024,27,women,258,0,278,sr:competitor:603102,"Banks, Amarni",Great Britain,GBR,BAN
-1,WTA,2024,27,women,259,0,276,sr:competitor:138452,"Shibahara, Ena",Japan,JPN,SHI
-1,WTA,2024,27,women,260,0,276,sr:competitor:118052,"Oz, Ipek",Turkiye,TUR,IPE
-1,WTA,2024,27,women,261,0,275,sr:competitor:46625,"Raina, Ankita",India,IND,RAI
-1,WTA,2024,27,women,262,0,275,sr:competitor:728547,"Palicova, Barbora",Czechia,CZE,PAL
-1,WTA,2024,27,women,263,0,274,sr:competitor:52691,"Zhao, Carol",Canada,CAN,ZHA
-1,WTA,2024,27,women,264,3,274,sr:competitor:799304,"Pridankina, Elena",Neutral,,PRI
-1,WTA,2024,27,women,265,0,270,sr:competitor:790640,"Marcinko, Petra",Croatia,HRV,MAR
-1,WTA,2024,27,women,266,0,270,sr:competitor:325837,"Sakellaridi, Sapfo",Greece,GRC,SAK
-1,WTA,2024,27,women,267,2,267,sr:competitor:87090,"Chong, Eudice Wong","Hong Kong, China",HKG,CHO
-1,WTA,2024,27,women,268,3,265,sr:competitor:43502,"Lu, Jia-Jing",China,CHN,JIA
-1,WTA,2024,27,women,269,1,263,sr:competitor:779706,"Hovde, Liv",USA,USA,HOV
-1,WTA,2024,27,women,270,2,261,sr:competitor:299270,"Martinez Cirez, Carlota",Spain,ESP,MAR
-1,WTA,2024,27,women,271,2,261,sr:competitor:227390,"Brancaccio, Nuria",Italy,ITA,BRA
-1,WTA,2024,27,women,272,2,260,sr:competitor:51943,"Strakhova, Valeriya",Ukraine,UKR,STR
-1,WTA,2024,27,women,273,12,258,sr:competitor:319461,"Hu, Victoria",USA,USA,VIC
-1,WTA,2024,27,women,274,2,254,sr:competitor:721779,"Bartunkova, Nikola",Czechia,CZE,BAR
-1,WTA,2024,27,women,275,2,252,sr:competitor:720625,"Radivojevic, Lola",Serbia,SRB,RAD
-1,WTA,2024,27,women,276,2,251,sr:competitor:18298,"Zvonareva, Vera",Neutral,,ZVO
-1,WTA,2024,27,women,277,5,251,sr:competitor:100341,"Bolkvadze, Mariam",Georgia,GEO,BOL
-1,WTA,2024,27,women,278,-14,248,sr:competitor:19610,"Brengle, Madison",USA,USA,BRE
-1,WTA,2024,27,women,279,0,248,sr:competitor:763112,"Struplova, Julie",Czechia,CZE,STR
-1,WTA,2024,27,women,280,0,247,sr:competitor:50655,"Friedsam, Anna-Lena",Germany,DEU,FRI
-1,WTA,2024,27,women,281,0,247,sr:competitor:96061,"Bandecchi, Susan",Switzerland,CHE,BAN
-1,WTA,2024,27,women,282,-38,245,sr:competitor:518838,"Yang, Ya Yi",Chinese Taipei,TPE,YAN
-1,WTA,2024,27,women,283,0,242,sr:competitor:18977,"Kanepi, Kaia",Estonia,EST,KAN
-1,WTA,2024,27,women,284,4,241,sr:competitor:49358,"Pattinama Kerkhove, Lesley",Netherlands,NLD,PAK
-1,WTA,2024,27,women,285,-10,241,sr:competitor:59662,"Sanchez, Ana Sofia",Mexico,MEX,SAN
-1,WTA,2024,27,women,286,-2,239,sr:competitor:82609,"Grammatikopoulou, Valentini",Greece,GRC,GRA
-1,WTA,2024,27,women,287,48,239,sr:competitor:728549,"Valentova, Tereza",Czechia,CZE,VAL
-1,WTA,2024,27,women,288,24,236,sr:competitor:78785,"Rodriguez, Victoria",Mexico,MEX,ROD
-1,WTA,2024,27,women,289,2,235,sr:competitor:181062,"Kung, Leonie",Switzerland,CHE,KUN
-1,WTA,2024,27,women,290,-3,234,sr:competitor:675193,"Costoulas, Sofia",Belgium,BEL,COS
-1,WTA,2024,27,women,291,-2,232,sr:competitor:80535,"Kaji, Haruka",Japan,JPN,KAJ
-1,WTA,2024,27,women,292,6,232,sr:competitor:51651,"Rosatello, Camilla",Italy,ITA,ROS
-1,WTA,2024,27,women,293,-3,232,sr:competitor:157672,"Stollar, Fanny",Hungary,HUN,STO
-1,WTA,2024,27,women,294,-2,231,sr:competitor:25831,"Abduraimova, Nigina",Uzbekistan,UZB,ABD
-1,WTA,2024,27,women,295,-2,231,sr:competitor:341216,"Charaeva, Alina",Neutral,,CHA
-1,WTA,2024,27,women,296,15,231,sr:competitor:496372,"Koevermans, Anouk",Netherlands,NLD,KOE
-1,WTA,2024,27,women,297,-3,230,sr:competitor:739667,"Pedone, Giorgia",Italy,ITA,PED
-1,WTA,2024,27,women,298,-3,228,sr:competitor:459013,"Kartal, Sonay",Great Britain,GBR,KAR
-1,WTA,2024,27,women,299,-2,227,sr:competitor:445291,"Astakhova, Darya",Neutral,,AST
-1,WTA,2024,27,women,300,-14,225,sr:competitor:41372,"Davis, Lauren",USA,USA,DAV
-1,WTA,2024,27,women,301,-2,225,sr:competitor:380396,"Kalieva, Elvina",USA,USA,KAL
-1,WTA,2024,27,women,302,-2,222,sr:competitor:88318,"Albie, Audrey",France,FRA,ALB
-1,WTA,2024,27,women,303,11,221,sr:competitor:50361,"Kiick, Allie",USA,USA,KII
-1,WTA,2024,27,women,304,-1,219,sr:competitor:720629,"Ristic, Mia",Serbia,SRB,RIS
-1,WTA,2024,27,women,305,15,218,sr:competitor:831262,"Yamalapalli, Sahaja",India,IND,YAM
-1,WTA,2024,27,women,306,-1,218,sr:competitor:280657,"Garland, Joanna",Chinese Taipei,TPE,GAR
-1,WTA,2024,27,women,307,-1,217,sr:competitor:136302,"Spiteri, Dalila",Italy,ITA,SPI
-1,WTA,2024,27,women,308,7,217,sr:competitor:208125,"Liang, En-Shuo",Chinese Taipei,TPE,LIA
-1,WTA,2024,27,women,309,-2,217,sr:competitor:813176,"Mboko, Victoria",Canada,CAN,MBO
-1,WTA,2024,27,women,310,-2,216,sr:competitor:473609,"Kubka, Martyna",Poland,POL,KUB
-1,WTA,2024,27,women,311,-9,216,sr:competitor:73500,"Loeb, Jamie",USA,USA,LOE
-1,WTA,2024,27,women,312,-2,215,sr:competitor:132186,"Mendez, Seone",Australia,AUS,MEN
-1,WTA,2024,27,women,313,-4,214,sr:competitor:113079,"Grabher, Julia",Austria,AUT,GRA
-1,WTA,2024,27,women,314,-10,214,sr:competitor:624838,"Shi, Han",China,CHN,SHI
-1,WTA,2024,27,women,315,-19,212,sr:competitor:445651,"Kolodynska, Jana",Neutral,,KOL
-1,WTA,2024,27,women,316,-3,212,sr:competitor:102191,"Aksu, Ayla",Turkiye,TUR,AKS
-1,WTA,2024,27,women,317,-1,208,sr:competitor:41524,"Krunic, Aleksandra",Serbia,SRB,KA
-1,WTA,2024,27,women,318,-1,208,sr:competitor:227490,"Tubello, Alice",France,FRA,TUB
-1,WTA,2024,27,women,319,4,207,sr:competitor:896765,"Ishii, Sayaka",Japan,JPN,ISH
-1,WTA,2024,27,women,320,7,203,sr:competitor:153736,"Glushko, Lina",Israel,ISR,GLU
-1,WTA,2024,27,women,321,0,203,sr:competitor:104929,"Tona, Miriana",Italy,ITA,TON
-1,WTA,2024,27,women,322,-4,203,sr:competitor:47985,"Marcinkevica, Diana",Latvia,LVA,MAR
-1,WTA,2024,27,women,323,3,202,sr:competitor:750327,"Iatcenko, Polina",Neutral,,IAT
-1,WTA,2024,27,women,324,0,200,sr:competitor:586739,"Ambrosio, Silvia",Italy,ITA,AMB
-1,WTA,2024,27,women,325,0,198,sr:competitor:881847,"Urhobo, Akasha",USA,USA,URH
-1,WTA,2024,27,women,326,10,197,sr:competitor:18742,"Volodko, Kateryna",Ukraine,UKR,VOL
-1,WTA,2024,27,women,327,1,197,sr:competitor:299308,"Smith, Tina Nadine",Australia,AUS,SMI
-1,WTA,2024,27,women,328,2,196,sr:competitor:98607,"Chang, Sophie",USA,USA,CHA
-1,WTA,2024,27,women,329,2,195,sr:competitor:50064,"Dunne, Katy",Great Britain,GBR,DUN
-1,WTA,2024,27,women,330,2,194,sr:competitor:107327,"In-Albon, Ylena",Switzerland,CHE,IN-
-1,WTA,2024,27,women,331,2,194,sr:competitor:813490,"Hobgarski, Katharina",Germany,DEU,HOB
-1,WTA,2024,27,women,332,-31,194,sr:competitor:18731,"Paszek, Tamira",Austria,AUT,PAS
-1,WTA,2024,27,women,333,-11,194,sr:competitor:310984,"Sato, Naho",Japan,JPN,SAT
-1,WTA,2024,27,women,334,27,193,sr:competitor:849553,"Yao, Xinxin",China,CHN,YAO
-1,WTA,2024,27,women,335,17,192,sr:competitor:310982,"Naklo, Thasaporn",Thailand,THA,NAK
-1,WTA,2024,27,women,336,-7,191,sr:competitor:51315,"Anderson, Robin",USA,USA,AND
-1,WTA,2024,27,women,337,30,191,sr:competitor:130690,"Okamura, Kyoka",Japan,JPN,OKA
-1,WTA,2024,27,women,338,-4,189,sr:competitor:119496,"McPhee, Kaylah",Australia,AUS,MCP
-1,WTA,2024,27,women,339,-2,189,sr:competitor:195048,"Branstine, Carson",Canada,CAN,BRA
-1,WTA,2024,27,women,340,-2,188,sr:competitor:342788,"Curmi, Francesca",Malta,MLT,CUR
-1,WTA,2024,27,women,341,0,188,sr:competitor:418447,"Sieg, Madison",USA,USA,SIE
-1,WTA,2024,27,women,342,-3,187,sr:competitor:265553,"Naito, Yuki",Japan,JPN,NAI
-1,WTA,2024,27,women,343,-1,186,sr:competitor:165006,"Kulikova, Anastasia",Finland,FIN,KUL
-1,WTA,2024,27,women,344,-1,184,sr:competitor:98105,"Matoula, Martha",Greece,GRC,MAT
-1,WTA,2024,27,women,345,-1,183,sr:competitor:97415,"Rinaldo Persson, Kajsa",Sweden,SWE,RIN
-1,WTA,2024,27,women,346,90,183,sr:competitor:203893,"Kucmova, Aneta",Czechia,CZE,KUC
-1,WTA,2024,27,women,347,9,182,sr:competitor:215598,"Vedder, Eva",Netherlands,NLD,VED
-1,WTA,2024,27,women,348,-2,182,sr:competitor:95853,"Pieri, Tatiana",Italy,ITA,PIE
-1,WTA,2024,27,women,349,-2,181,sr:competitor:341196,"Back, Dayeon",Republic of Korea,KOR,BAC
-1,WTA,2024,27,women,350,-1,180,sr:competitor:412817,"Pigato, Lisa",Italy,ITA,PIG
-1,WTA,2024,27,women,351,0,180,sr:competitor:49118,"Harrison, Catherine",USA,USA,HAR
-1,WTA,2024,27,women,352,14,179,sr:competitor:801396,"Gureva, Anastasiia",Neutral,,GUR
-1,WTA,2024,27,women,353,-13,179,sr:competitor:195408,"Shimizu, Ayano",Japan,JPN,SHI
-1,WTA,2024,27,women,354,-1,178,sr:competitor:168526,"Appleton, Emily",Great Britain,GBR,APP
-1,WTA,2024,27,women,355,-1,178,sr:competitor:118526,"Wolff, Vivian",USA,USA,WOL
-1,WTA,2024,27,women,356,-1,177,sr:competitor:234398,"Nahimana, Sada",Burundi,BDI,NAH
-1,WTA,2024,27,women,357,2,175,sr:competitor:784280,"Prozorova, Tatiana",Neutral,,PRO
-1,WTA,2024,27,women,358,-1,175,sr:competitor:91916,"Grey, Sarah Beth",Great Britain,GBR,GRE
-1,WTA,2024,27,women,359,81,174,sr:competitor:653839,"Ercan, Melisa",Australia,AUS,ERC
-1,WTA,2024,27,women,360,-2,174,sr:competitor:69964,"Estable, Julieta",Argentina,ARG,EST
-1,WTA,2024,27,women,361,-11,172,sr:competitor:78431,"Lodikova, Daria",Neutral,,LOD
-1,WTA,2024,27,women,362,-2,172,sr:competitor:257691,"Hennemann, Caijsa Wilda",Sweden,SWE,HEN
-1,WTA,2024,27,women,363,0,170,sr:competitor:75281,"Peterson, Rebecca",Sweden,SWE,PET
-1,WTA,2024,27,women,364,1,170,sr:competitor:235252,"Kozyreva, Maria",Neutral,,KOZ
-1,WTA,2024,27,women,365,-3,169,sr:competitor:42459,"Rogers, Shelby",USA,USA,ROG
-1,WTA,2024,27,women,366,2,168,sr:competitor:99429,"Hule, Petra",Australia,AUS,HUL
-1,WTA,2024,27,women,367,4,167,sr:competitor:63682,"Lazaro Garcia, Andrea",Spain,ESP,LAZ
-1,WTA,2024,27,women,368,4,167,sr:competitor:567285,"Hietaranta, Laura",Finland,FIN,HIE
-1,WTA,2024,27,women,369,4,166,sr:competitor:19788,"Sevastova, Anastasija",Latvia,LVA,SEV
-1,WTA,2024,27,women,370,-6,166,sr:competitor:842594,"Li, Zongyu",China,CHN,ZON
-1,WTA,2024,27,women,371,-26,165,sr:competitor:55309,"Lee, Gabriela",Romania,ROU,LEE
-1,WTA,2024,27,women,372,3,165,sr:competitor:79315,"Colmegna, Martina",Italy,ITA,COL
-1,WTA,2024,27,women,373,3,164,sr:competitor:348196,"Amariei, Ilinca Dalina",Romania,ROU,AMA
-1,WTA,2024,27,women,374,3,163,sr:competitor:144084,"Cakarevic, Sara",France,FRA,CAK
-1,WTA,2024,27,women,375,3,163,sr:competitor:831284,"Kuramochi, Miho",Japan,JPN,KUR
-1,WTA,2024,27,women,376,17,162,sr:competitor:282597,"Park, Sohyun",Republic of Korea,KOR,PAR
-1,WTA,2024,27,women,377,2,162,sr:competitor:152766,"Helgo, Malene",Norway,NOR,HEL
-1,WTA,2024,27,women,378,-8,161,sr:competitor:46528,"Perrin, Conny",Switzerland,CHE,PER
-1,WTA,2024,27,women,379,2,161,sr:competitor:132412,"Fita Boluda, Angela",Spain,ESP,FIT
-1,WTA,2024,27,women,380,3,160,sr:competitor:385206,"Radisic, Nika",Slovenia,SVN,RAD
-1,WTA,2024,27,women,381,29,159,sr:competitor:499486,"Scott, Katrina",USA,USA,SCO
-1,WTA,2024,27,women,382,2,159,sr:competitor:789688,"Ngounoue, Clervie",USA,USA,NGO
-1,WTA,2024,27,women,383,2,159,sr:competitor:208181,"Hatouka, Yuliya",Neutral,,HAT
-1,WTA,2024,27,women,384,2,159,sr:competitor:148264,"Gabric, Anna",Germany,DEU,GAB
-1,WTA,2024,27,women,385,2,158,sr:competitor:227486,"Zantedeschi, Aurora",Italy,ITA,ZAN
-1,WTA,2024,27,women,386,2,158,sr:competitor:904005,"Ibragimova, Alevtina",Neutral,,IBR
-1,WTA,2024,27,women,387,18,157,sr:competitor:54397,"Tig, Patricia Maria",Romania,ROU,TIG
-1,WTA,2024,27,women,388,1,157,sr:competitor:403329,"Toth, Amarissa Kiara",Hungary,HUN,TOT
-1,WTA,2024,27,women,389,5,157,sr:competitor:202795,"Vismane, Daniela",Latvia,LVA,VIS
-1,WTA,2024,27,women,390,-16,156,sr:competitor:47775,"Min, Grace",USA,USA,MIN
-1,WTA,2024,27,women,391,-72,156,sr:competitor:111879,"Fung, Stacey",Canada,CAN,FUN
-1,WTA,2024,27,women,392,-10,156,sr:competitor:161038,"Kozarov, Katarina",Serbia,SRB,KOZ
-1,WTA,2024,27,women,393,-2,155,sr:competitor:51839,"Alves, Carolina",Brazil,BRA,ALV
-1,WTA,2024,27,women,394,-2,155,sr:competitor:914135,"Jovic, Iva",USA,USA,JOV
-1,WTA,2024,27,women,395,22,154,sr:competitor:74875,"Wagner, Stephanie",Germany,DEU,WAG
-1,WTA,2024,27,women,396,30,154,sr:competitor:72868,"Liu, Fangzhou",China,CHN,LIU
-1,WTA,2024,27,women,397,-2,153,sr:competitor:182056,"Robbe, Alice",France,FRA,ROB
-1,WTA,2024,27,women,398,-29,153,sr:competitor:153748,"Jones, Makenna",USA,USA,JON
-1,WTA,2024,27,women,399,3,153,sr:competitor:395740,"Bhamidipaty, Shrivalli Rashmikaa",India,IND,BHA
-1,WTA,2024,27,women,400,-4,152,sr:competitor:46651,"Melnikova, Marina",Neutral,,MEL
-1,WTA,2024,27,women,401,-21,152,sr:competitor:130628,"Miroshnichenko, Veronica",Neutral,,MIR
-1,WTA,2024,27,women,402,-5,152,sr:competitor:522848,"Rocchetti, Sofia",Italy,ITA,ROC
-1,WTA,2024,27,women,403,-5,152,sr:competitor:325729,"Oliynykova, Oleksandra",Ukraine,UKR,OLI
-1,WTA,2024,27,women,404,-5,152,sr:competitor:97413,"Ostlund, Fanny",Sweden,SWE,OST
-1,WTA,2024,27,women,405,-4,150,sr:competitor:115507,"Bolsova, Aliona",Spain,ESP,BOL
-1,WTA,2024,27,women,406,17,150,sr:competitor:586741,"Berecoechea, Nahia",France,FRA,BER
-1,WTA,2024,27,women,407,-4,150,sr:competitor:433844,"Middendorf, Julia",Germany,DEU,MID
-1,WTA,2024,27,women,408,-60,149,sr:competitor:378226,"Crawley, Fiona",USA,USA,CRA
-1,WTA,2024,27,women,409,-3,149,sr:competitor:160364,"Ghioroaie, Ilona Georgiana",Romania,ROU,GHI
-1,WTA,2024,27,women,410,-3,149,sr:competitor:222546,"Kuzmova, Katarina",Slovakia,SVK,KUZ
-1,WTA,2024,27,women,411,11,148,sr:competitor:217056,"Cortez Llorca, Lucia",Spain,ESP,COR
-1,WTA,2024,27,women,412,22,148,sr:competitor:906635,"Shubladze, Alexandra",Neutral,,SHU
-1,WTA,2024,27,women,413,-5,148,sr:competitor:135192,"Rame, Alice",France,FRA,RAM
-1,WTA,2024,27,women,414,-5,148,sr:competitor:686597,"Pavlova, Kira",Neutral,,PAV
-1,WTA,2024,27,women,415,-4,147,sr:competitor:445421,"Selekhmeteva, Oksana",Neutral,,SEL
-1,WTA,2024,27,women,416,-4,145,sr:competitor:652052,"PoPa, Maria Sara",Romania,ROU,POP
-1,WTA,2024,27,women,417,-2,144,sr:competitor:215476,"Siskova, Anna",Czechia,CZE,SIS
-1,WTA,2024,27,women,418,2,144,sr:competitor:230112,"Yamaguchi, Mei",Japan,JPN,YAM
-1,WTA,2024,27,women,419,-3,144,sr:competitor:46465,"Cadantu-Ignatik, Alexandra",Romania,ROU,CIA
-1,WTA,2024,27,women,420,69,144,sr:competitor:751899,"Brace, Cadence",Canada,CAN,BRA
-1,WTA,2024,27,women,421,61,142,sr:competitor:545583,"Tian, Fangran",China,CHN,TIA
-1,WTA,2024,27,women,422,-18,142,sr:competitor:675185,"Bondarenko, Maria",Neutral,,BON
-1,WTA,2024,27,women,423,-5,142,sr:competitor:420829,"Inoue, Hina",USA,USA,INO
-1,WTA,2024,27,women,424,-5,141,sr:competitor:260987,"Osuigwe, Whitney",USA,USA,OSU
-1,WTA,2024,27,women,425,-4,140,sr:competitor:59522,"Lee, Ya-Hsuan",Chinese Taipei,TPE,LEE
-1,WTA,2024,27,women,426,5,140,sr:competitor:64606,"Cabaj Awad, Jacqueline",Sweden,SWE,CAB
-1,WTA,2024,27,women,427,-3,140,sr:competitor:19329,"Radwanska, Urszula",Poland,POL,RAD
-1,WTA,2024,27,women,428,-3,140,sr:competitor:588449,"Laskevich, Evialina",Neutral,,LAS
-1,WTA,2024,27,women,429,0,137,sr:competitor:565020,"Maklakova, Ekaterina",Neutral,,MAK
-1,WTA,2024,27,women,430,-16,137,sr:competitor:154806,"Laskutova, Ksenia",Neutral,,LAS
-1,WTA,2024,27,women,431,-4,136,sr:competitor:215806,"Hewitt, Dalayna",USA,USA,HEW
-1,WTA,2024,27,women,432,-19,136,sr:competitor:762932,"Kuhl, Carolina",Germany,DEU,KUH
-1,WTA,2024,27,women,433,-3,135,sr:competitor:960137,"Ren, Yufei",China,CHN,REN
-1,WTA,2024,27,women,434,-6,134,sr:competitor:262023,"Wang, Meiling",China,CHN,WAN
-1,WTA,2024,27,women,435,-3,134,sr:competitor:67659,"Primorac, Iva",Croatia,HRV,PRI
-1,WTA,2024,27,women,436,-1,133,sr:competitor:731441,"Vargova, Nina",Slovakia,SVK,VAR
-1,WTA,2024,27,women,437,0,132,sr:competitor:50915,"Plipuech, Peangtarn",Thailand,THA,PLI
-1,WTA,2024,27,women,438,0,132,sr:competitor:20354,"Buyukakcay, Cagla",Turkiye,TUR,BUY
-1,WTA,2024,27,women,439,4,132,sr:competitor:378144,"Karatancheva, Lia",Bulgaria,BGR,KAR
-1,WTA,2024,27,women,440,36,131,sr:competitor:137990,"Failla, Jessica",USA,USA,FAI
-1,WTA,2024,27,women,441,-2,131,sr:competitor:835864,"Podrez, Veronika",Ukraine,UKR,POD
-1,WTA,2024,27,women,442,8,131,sr:competitor:283489,"Imamura, Saki",Japan,JPN,IMA
-1,WTA,2024,27,women,443,-2,130,sr:competitor:158636,"Prisacariu, Andreea",Romania,ROU,PRI
-1,WTA,2024,27,women,444,-2,130,sr:competitor:812476,"Zaytseva, Ksenia",Neutral,,ZAY
-1,WTA,2024,27,women,445,4,130,sr:competitor:143140,"Aney, Jessie",USA,USA,ANE
-1,WTA,2024,27,women,446,0,129,sr:competitor:448613,"Falkner, Ziva",Slovenia,SVN,FAL
-1,WTA,2024,27,women,447,-14,129,sr:competitor:226092,"Shimizu, Eri",Japan,JPN,SHI
-1,WTA,2024,27,women,448,-1,128,sr:competitor:99415,"Kingsley, Raveena",USA,USA,KIN
-1,WTA,2024,27,women,449,-1,128,sr:competitor:515432,"Ruggeri, Jennifer",Italy,ITA,RUG
-1,WTA,2024,27,women,450,-50,128,sr:competitor:143146,"Smith, Alana",USA,USA,SMI
-1,WTA,2024,27,women,451,-6,128,sr:competitor:19237,"Lisicki, Sabine",Germany,DEU,LIS
-1,WTA,2024,27,women,452,20,128,sr:competitor:292540,"Matsuda, Misaki",Japan,JPN,MAT
-1,WTA,2024,27,women,453,-2,127,sr:competitor:147506,"Fourlis, Jaimee",Australia,AUS,FOU
-1,WTA,2024,27,women,454,-2,127,sr:competitor:228436,"Beck, Chloe",USA,USA,BEC
-1,WTA,2024,27,women,455,-2,127,sr:competitor:93661,"Fetecau, Irina",Romania,ROU,FET
-1,WTA,2024,27,women,456,-1,126,sr:competitor:258753,"Saigo, Rina",Japan,JPN,SAI
-1,WTA,2024,27,women,457,-67,126,sr:competitor:132414,"Guerrero Alvarez, Eva",Spain,ESP,GUE
-1,WTA,2024,27,women,458,-1,126,sr:competitor:217036,"Malygina, Elena",Estonia,EST,MAL
-1,WTA,2024,27,women,459,-1,125,sr:competitor:247471,"Popovic, Ivana",Australia,AUS,POP
-1,WTA,2024,27,women,460,-1,125,sr:competitor:414533,"Abbagnato, Anastasia",Italy,ITA,ABB
-1,WTA,2024,27,women,461,-17,125,sr:competitor:37638,"Sema, Erika",Japan,JPN,SEM
-1,WTA,2024,27,women,462,-2,124,sr:competitor:108621,"Kempen, Magali",Belgium,BEL,KEM
-1,WTA,2024,27,women,463,-2,124,sr:competitor:55793,"Chiesa, Deborah",Italy,ITA,CHI
-1,WTA,2024,27,women,464,-2,124,sr:competitor:194572,"Dartron, Emeline",France,FRA,DAR
-1,WTA,2024,27,women,465,-2,124,sr:competitor:511932,"Kovaleva, Anastasia",Neutral,,KOV
-1,WTA,2024,27,women,466,-2,123,sr:competitor:48486,"Gorgodze, Ekaterine",Georgia,GEO,GOR
-1,WTA,2024,27,women,467,-2,123,sr:competitor:46428,"Maleckova, Jesika",Czechia,CZE,MAL
-1,WTA,2024,27,women,468,-2,123,sr:competitor:335165,"Ku, Yeon Woo",Republic of Korea,KOR,YEO
-1,WTA,2024,27,women,469,-15,123,sr:competitor:83635,"Naya, Guillermina",Argentina,ARG,NAY
-1,WTA,2024,27,women,470,-3,122,sr:competitor:676251,"Wurth, Tara",Croatia,HRV,WUR
-1,WTA,2024,27,women,471,-3,122,sr:competitor:453301,"Jorge, Matilde",Portugal,PRT,JOR
-1,WTA,2024,27,women,472,-3,122,sr:competitor:189384,"Kulambayeva, Zhibek",Kazakhstan,KAZ,KUL
-1,WTA,2024,27,women,473,6,122,sr:competitor:246945,"Da Silva Fick, Gabriella",Australia,AUS,DA
-1,WTA,2024,27,women,474,1,121,sr:competitor:244216,"Giavara, Haley",USA,USA,GIA
-1,WTA,2024,27,women,475,-5,121,sr:competitor:213140,"Lene, Emma",France,FRA,LEN
-1,WTA,2024,27,women,476,-3,119,sr:competitor:662257,"Havlickova, Lucie",Czechia,CZE,HAV
-1,WTA,2024,27,women,477,16,119,sr:competitor:70728,"Bhosale, Rutuja",India,IND,BHO
-1,WTA,2024,27,women,478,-4,118,sr:competitor:110281,"Contreras, Fernanda",Mexico,MEX,CON
-1,WTA,2024,27,women,479,-2,118,sr:competitor:45846,"Wang, Qiang",China,CHN,WAN
-1,WTA,2024,27,women,480,-2,118,sr:competitor:92877,"Fossa Huergo, Nicole",Italy,ITA,FOS
-1,WTA,2024,27,women,481,10,118,sr:competitor:64315,"Kuwata, Hiroko",Japan,JPN,KUW
-1,WTA,2024,27,women,482,-2,117,sr:competitor:836764,"Lim, Jenny",France,FRA,LIM
-1,WTA,2024,27,women,483,-2,117,sr:competitor:447703,"Sato, Hikaru",Japan,JPN,SAT
-1,WTA,2024,27,women,484,-1,116,sr:competitor:218572,"Schmidt, Lara",Germany,DEU,SCH
-1,WTA,2024,27,women,485,0,115,sr:competitor:343066,"Hosogi, Sakura",Japan,JPN,HOS
-1,WTA,2024,27,women,486,85,115,sr:competitor:435794,"Zolotareva, Anastasia",Neutral,,ZOL
-1,WTA,2024,27,women,487,-3,114,sr:competitor:213144,"Lemaitre, Tiphanie",France,FRA,LEM
-1,WTA,2024,27,women,488,-17,114,sr:competitor:842634,"Feistel, Gina",Poland,POL,FEI
-1,WTA,2024,27,women,489,-2,114,sr:competitor:403489,"Vlasselaer, Clara",Belgium,BEL,VLA
-1,WTA,2024,27,women,490,-2,114,sr:competitor:280635,"Schmidt, Antonia",Germany,DEU,SCH
-1,WTA,2024,27,women,491,-1,112,sr:competitor:588067,"Lovric, Pia",Slovenia,SVN,LOV
-1,WTA,2024,27,women,492,26,111,sr:competitor:726033,"Kostic, Tamara",Austria,AUT,KOS
-1,WTA,2024,27,women,493,1,110,sr:competitor:416473,"Reyngold, Ekaterina",Neutral,,REY
-1,WTA,2024,27,women,494,1,110,sr:competitor:138654,"Duerst, Jenny",Switzerland,CHE,DUE
-1,WTA,2024,27,women,495,1,110,sr:competitor:431743,"Okutoyi, Angella",Kenya,KEN,OKU
-1,WTA,2024,27,women,496,1,110,sr:competitor:192572,"Portillo Ramirez, Maria Jose",Mexico,MEX,POR
-1,WTA,2024,27,women,497,1,109,sr:competitor:71284,"Bains, Naiktha",Great Britain,GBR,BAI
-1,WTA,2024,27,women,498,1,109,sr:competitor:448093,"Martynov, Diana",France,FRA,MAR
-1,WTA,2024,27,women,499,-7,109,sr:competitor:337811,"Ortenzi, Jazmin",Argentina,ARG,ORT
-1,WTA,2024,27,women,500,0,109,sr:competitor:200615,"Berberovic, Nefisa",Bosnia & Herzegovina,BIH,BER
+Rank,Movement,Points,Name,Country,Country Code,Abbreviation
+1,0,9890,"Sinner, Jannik",Italy,ITA,SIN
+2,0,8360,"Djokovic, Novak",Serbia,SRB,DJO
+3,0,8130,"Alcaraz, Carlos",Spain,ESP,ALC
+4,0,6905,"Zverev, Alexander",Germany,DEU,ZVE
+5,0,6445,"Medvedev, Daniil",Neutral,,MED
+6,0,4420,"Rublev, Andrey",Neutral,,RUB
+7,0,4235,"Hurkacz, Hubert",Poland,POL,HUR
+8,0,4025,"Ruud, Casper",Norway,NOR,RUU
+9,0,3830,"de Minaur, Alex",Australia,AUS,DE
+10,0,3750,"Dimitrov, Grigor",Bulgaria,BGR,DIM
+11,0,3745,"Tsitsipas, Stefanos",Greece,GRC,TSI
+12,1,3350,"Fritz, Taylor",USA,USA,FRI
+13,-1,3100,"Paul, Tommy",USA,USA,PAU
+14,0,2595,"Shelton, Ben",USA,USA,SHE
+15,0,2370,"Rune, Holger",Denmark,DNK,RUN
+16,0,2300,"Humbert, Ugo",France,FRA,HUM
+17,0,2075,"Auger-Aliassime, Felix",Canada,CAN,AUG
+18,0,2020,"Baez, Sebastian",Argentina,ARG,BAE
+19,5,1904,"Tabilo, Alejandro",Chile,CHL,TAB
+20,-1,1825,"Jarry, Nicolas",Chile,CHL,JAR
+21,-1,1795,"Korda, Sebastian",USA,USA,KOR
+22,-1,1780,"Khachanov, Karen",Neutral,,KHA
+23,0,1730,"Bublik, Alexander",Kazakhstan,KAZ,BUB
+24,-2,1625,"Mannarino, Adrian",France,FRA,MAN
+25,0,1620,"Musetti, Lorenzo",Italy,ITA,MUS
+26,0,1585,"Lehecka, Jiri",Czechia,CZE,LEH
+27,1,1470,"Griekspoor, Tallon",Netherlands,NLD,GRI
+28,1,1461,"Draper, Jack",Great Britain,GBR,DRA
+29,1,1355,"Tiafoe, Frances",USA,USA,TIA
+30,-3,1315,"Cerundolo, Francisco",Argentina,ARG,CER
+31,0,1290,"Etcheverry, Tomas Martin",Argentina,ARG,ETC
+32,0,1282,"Navone, Mariano",Argentina,ARG,NAV
+33,7,1260,"Monfils, Gael",France,FRA,MON
+34,0,1250,"Fils, Arthur",France,FRA,FIL
+35,0,1245,"Arnaldi, Matteo",Italy,ITA,ARN
+36,0,1240,"Davidovich Fokina, Alejandro",Spain,ESP,DAV
+37,0,1236,"Darderi, Luciano",Italy,ITA,DAR
+38,-5,1221,"Zhang, Zhizhen",China,CHN,ZHA
+39,-1,1214,"Machac, Tomas",Czechia,CZE,MAC
+40,-1,1206,"Thompson, Jordan",Australia,AUS,THO
+41,0,1135,"Struff, Jan-Lennard",Germany,DEU,STR
+42,2,1070,"Norrie, Cameron",Great Britain,GBR,NOR
+43,2,1047,"Marozsan, Fabian",Hungary,HUN,MAR
+44,-1,1045,"Safiullin, Roman",Neutral,,SAF
+45,9,1038,"Ofner, Sebastian",Austria,AUT,OFN
+46,0,1020,"Giron, Marcos",USA,USA,GIR
+47,0,981,"Popyrin, Alexei",Australia,AUS,POP
+48,1,980,"Cobolli, Flavio",Italy,ITA,COB
+49,-1,975,"Martinez, Pedro",Spain,ESP,MAR
+50,1,936,"Borges, Nuno",Portugal,PRT,BOR
+51,1,936,"Djere, Laslo",Serbia,SRB,DJE
+52,1,925,"Kecmanovic, Miomir",Serbia,SRB,KEC
+53,-3,893,"Kotov, Pavel",Neutral,,KOT
+54,3,881,"Sonego, Lorenzo",Italy,ITA,SON
+55,7,881,"Michelsen, Alex",USA,USA,MIC
+56,0,871,"Lajovic, Dusan",Serbia,SRB,LAJ
+57,1,860,"Shevchenko, Alexander",Kazakhstan,KAZ,SHE
+58,1,853,"Mpetshi Perricard, Giovanni",France,FRA,MPE
+59,1,845,"Berrettini, Matteo",Italy,ITA,BER
+60,1,844,"Evans, Daniel",Great Britain,GBR,EVA
+61,-6,843,"Moutet, Corentin",France,FRA,MOU
+62,-20,835,"Eubanks, Christopher",USA,USA,EUB
+63,0,835,"Munar, Jaume",Spain,ESP,MUN
+64,1,826,"Carballes Baena, Roberto",Spain,ESP,CAR
+65,-1,825,"Nakashima, Brandon",USA,USA,NAK
+66,0,821,"Koepfer, Dominik",Germany,DEU,KOE
+67,0,808,"Diaz Acosta, Facundo",Argentina,ARG,DIA
+68,26,795,"Purcell, Max",Australia,AUS,PUR
+69,12,789,"Vukic, Aleksandar",Australia,AUS,VUK
+70,-1,785,"Fucsovics, Marton",Hungary,HUN,FUC
+71,-1,783,"Gaston, Hugo",France,FRA,GAS
+72,-1,776,"Coria, Federico",Argentina,ARG,COR
+73,-1,768,"Nagal, Sumit",India,IND,NAG
+74,0,767,"Seyboth Wild, Thiago",Brazil,BRA,SEY
+75,-2,760,"Nardi, Luca",Italy,ITA,NAR
+76,-8,754,"Rinderknech, Arthur",France,FRA,RIN
+77,-2,751,"Hijikata, Rinky",Australia,AUS,HIJ
+78,7,738,"Mensik, Jakub",Czechia,CZE,MEN
+79,-3,733,"O'Connell, Christopher",Australia,AUS,OCO
+80,-3,731,"Altmaier, Daniel",Germany,DEU,ALT
+81,-3,728,"Duckworth, James",Australia,AUS,DUC
+82,-3,722,"Bergs, Zizou",Belgium,BEL,BER
+83,-1,694,"Goffin, David",Belgium,BEL,GOF
+84,-1,692,"Daniel, Taro",Japan,JPN,DAN
+85,2,692,"Marterer, Maximilian",Germany,DEU,MAR
+86,-2,690,"Monteiro, Thiago",Brazil,BRA,MON
+87,1,683,"Ruusuvuori, Emil",Finland,FIN,RUU
+88,-2,681,"Kovacevic, Aleksandar",USA,USA,KOV
+89,0,664,"Coric, Borna",Croatia,HRV,COR
+90,12,659,"Nishioka, Yoshihito",Japan,JPN,NIS
+91,13,658,"Shang, Juncheng",China,CHN,SHA
+92,-2,650,"Lestienne, Constant",France,FRA,LES
+93,-1,639,"Kokkinakis, Thanasi",Australia,AUS,KOK
+94,3,635,"Fognini, Fabio",Italy,ITA,FOG
+95,-2,633,"Wawrinka, Stan",Switzerland,CHE,WAW
+96,-16,626,"McDonald, Mackenzie",USA,USA,MCD
+97,-1,618,"Van de Zandschulp, Botic",Netherlands,NLD,VAN
+98,0,616,"Cazaux, Arthur",France,FRA,CAZ
+99,0,615,"Karatsev, Aslan",Neutral,,KAR
+100,0,608,"Ugo Carabelli, Camilo",Argentina,ARG,UGO
+101,6,607,"Walton, Adam",Australia,AUS,WAL
+102,1,601,"Muller, Alexandre",France,FRA,MUL
+103,3,592,"Galan, Daniel Elahi",Colombia,COL,GAL
+104,-3,585,"van Assche, Luca",France,FRA,VAN
+105,4,580,"Dzumhur, Damir",Bosnia & Herzegovina,BIH,DZU
+106,5,570,"Garin, Cristian",Chile,CHL,GAR
+107,5,570,"Ramos-Vinolas, Albert",Spain,ESP,RAM
+108,5,562,"Mayot, Harold",France,FRA,MAY
+109,5,557,"Kovalik, Jozef",Slovakia,SVK,KOV
+110,-15,556,"Hanfmann, Yannick",Germany,DEU,HAN
+111,-1,556,"Vacherot, Valentin",Monaco,MCO,VAC
+112,10,555,"Bautista Agut, Roberto",Spain,ESP,BAU
+113,2,548,"Murray, Andy",Great Britain,GBR,MUR
+114,2,547,"Mmoh, Michael",USA,USA,MMO
+115,-7,546,"Wolf, Jeffrey John",USA,USA,WOL
+116,23,545,"Harris, Billy",Great Britain,GBR,HAR
+117,0,543,"Cachin, Pedro",Argentina,ARG,CAC
+118,-27,541,"Harris, Lloyd",South Africa,ZAF,HAR
+119,-1,541,"Svajda, Zachary",USA,USA,SVA
+120,-1,533,"De Jong, Jesper",Netherlands,NLD,DEJ
+121,-1,530,"Shapovalov, Denis",Canada,CAN,SHA
+122,-1,529,"Comesana, Francisco",Argentina,ARG,COM
+123,0,523,"Kopriva, Vit",Czechia,CZE,KOP
+124,0,522,"Bagnis, Facundo",Argentina,ARG,BAG
+125,1,520,"Gasquet, Richard",France,FRA,GAS
+126,1,517,"Medjedovic, Hamad",Serbia,SRB,MED
+127,1,517,"Tirante, Thiago Agustin",Argentina,ARG,TIR
+128,1,514,"Klein, Lukas",Slovakia,SVK,KLE
+129,1,514,"Napolitano, Stefano",Italy,ITA,NAP
+130,-25,513,"Barrere, Gregoire",France,FRA,BAR
+131,-6,513,"Atmane, Terence",France,FRA,ATM
+132,-1,506,"Passaro, Francesco",Italy,ITA,PAS
+133,-1,498,"Kukushkin, Mikhail",Kazakhstan,KAZ,KUK
+134,0,483,"Thiem, Dominic",Austria,AUT,THI
+135,0,483,"Gigante, Matteo",Italy,ITA,GIG
+136,1,482,"Ajdukovic, Duje",Croatia,HRV,AJD
+137,1,481,"Riedi, Leandro",Switzerland,CHE,RIE
+138,2,455,"Herbert, Pierre-Hugues",France,FRA,HER
+139,2,434,"Cerundolo, Juan Manuel",Argentina,ARG,CER
+140,-7,423,"Droguet, Titouan",France,FRA,DRO
+141,2,420,"Mochizuki, Shintaro",Japan,JPN,MOC
+142,2,419,"Burruchaga, Roman Andres",Argentina,ARG,BUR
+143,-7,414,"Nava, Emilio",USA,USA,NAV
+144,1,406,"Albot, Radu",Moldova,MDA,ALB
+145,2,403,"Meligeni Alves, Felipe",Brazil,BRA,MEL
+146,2,402,"Moreno de Alboran, Nicolas",USA,USA,MAN
+147,2,401,"Virtanen, Otto",Finland,FIN,VIR
+148,2,401,"Bellucci, Mattia",Italy,ITA,BEL
+149,2,400,"Stricker, Dominic",Switzerland,CHE,STR
+150,2,397,"Bonzi, Benjamin",France,FRA,BON
+151,2,396,"Trungelliti, Marco",Argentina,ARG,TRU
+152,2,393,"Rodionov, Jurij",Austria,AUT,ROD
+153,2,392,"Zeppieri, Giulio",Italy,ITA,ZEP
+154,2,392,"Hassan, Benjamin",Germany,DEU,HAS
+155,2,385,"Raonic, Milos",Canada,CAN,RAO
+156,-10,384,"Broady, Liam",Great Britain,GBR,BRO
+157,-15,377,"Kypson, Patrick",USA,USA,KYP
+158,0,377,"Pellegrino, Andrea",Italy,ITA,PEL
+159,3,368,"Varillas, Juan Pablo",Peru,PER,VAR
+160,-1,368,"Paire, Benoit",France,FRA,PAI
+161,7,366,"Tseng, Chun Hsin",Chinese Taipei,TPE,TSE
+162,-2,366,"Blanchet, Ugo",France,FRA,BLA
+163,-2,363,"Watanuki, Yosuke",Japan,JPN,WAT
+164,-1,359,"Yevseyev, Denis",Kazakhstan,KAZ,YEV
+165,-1,358,"Roca Batalla, Oriol",Spain,ESP,ROC
+166,0,355,"Diallo, Gabriel",Canada,CAN,DIA
+167,0,355,"Kudla, Denis",USA,USA,KUD
+168,1,354,"Llamas Ruiz, Pablo",Spain,ESP,LLA
+169,1,354,"Galarneau, Alexis",Canada,CAN,GAL
+170,1,353,"Martineau, Matteo",France,FRA,MAR
+171,2,352,"Dellien, Hugo",Bolivia,BOL,DEL
+172,-7,350,"Gojo, Borna",Croatia,HRV,GOJ
+173,2,349,"Faria, Jaime",Portugal,PRT,FAR
+174,0,344,"Choinski, Jan",Great Britain,GBR,CHO
+175,3,341,"Ritschard, Alexander",Switzerland,CHE,RIT
+176,3,341,"Schoolkate, Tristan",Australia,AUS,SCH
+177,3,340,"Damm Jr, Martin",USA,USA,DAMM
+178,3,337,"Squire, Henri",Germany,DEU,SQU
+179,-7,337,"Wong, Coleman","Hong Kong, China",HKG,WON
+180,2,333,"Misolic, Filip",Austria,AUT,MIS
+181,2,333,"Piros, Zsombor",Hungary,HUN,PIR
+182,3,332,"Schwartzman, Diego",Argentina,ARG,SWM
+183,3,332,"Grenier, Hugo",France,FRA,GRE
+184,4,331,"Hong, Seongchan",Republic of Korea,KOR,HON
+185,2,328,"Heide, Gustavo",Brazil,BRA,HEI
+186,-10,327,"Cressy, Maxime",USA,USA,CRE
+187,-10,322,"Rocha, Henrique",Portugal,PRT,ROC
+188,1,321,"Moro Canas, Alejandro",Spain,ESP,MOR
+189,1,318,"Brouwer, Gijs",Netherlands,NLD,BRO
+190,4,317,"Krueger, Mitchell",USA,USA,KRU
+191,0,316,"de Loore, Joris",Belgium,BEL,DE
+192,0,315,"Majchrzak, Kamil",Poland,POL,MAJ
+193,-9,315,"Kasnikowski, Maks",Poland,POL,KAS
+194,-1,314,"Zapata Miralles, Bernabe",Spain,ESP,ZAP
+195,0,308,"Couacaud, Enzo",France,FRA,COU
+196,0,306,"Barrios Vera, Marcelo Tomas",Chile,CHL,BAR
+197,0,306,"Yunchaokete, Bu",China,CHN,YUN
+198,0,305,"Hardt, Nick",Dominican Republic,DOM,HAR
+199,0,303,"Prizmic, Dino",Croatia,HRV,PRI
+200,0,301,"Hemery, Calvin",France,FRA,HEM
+201,88,301,"Jubb, Paul",Great Britain,GBR,JUB
+202,-1,301,"Molleker, Rudolf",Germany,DEU,MOL
+203,0,297,"Uchiyama, Yasutaka",Japan,JPN,UCH
+204,1,294,"Royer, Valentin",France,FRA,ROY
+205,1,293,"Ymer, Elias",Sweden,SWE,YME
+206,1,291,"Vavassori, Andrea",Italy,ITA,VAV
+207,2,288,"Novak, Dennis",Austria,AUT,NOV
+208,2,288,"Boyer, Tristan",USA,USA,BOY
+209,2,288,"Polmans, Marc",Australia,AUS,POL
+210,-8,286,"Tu, Li",Australia,AUS,TUL
+211,1,285,"Escoffier, Antoine",France,FRA,ESC
+212,1,284,"Pouille, Lucas",France,FRA,POU
+213,-5,284,"Zhukayev, Beibit",Kazakhstan,KAZ,ZHU
+214,0,282,"Dellien, Murkel",Bolivia,BOL,DEV
+215,1,280,"Agamenone, Franco",Italy,ITA,AGA
+216,-1,277,"Fonseca, Joao",Brazil,BRA,FON
+217,0,276,"Crawford, Oliver",Great Britain,GBR,CRA
+218,3,274,"Rincon, Daniel",Spain,ESP,RIN
+219,3,273,"Ficovich, Juan Pablo",Argentina,ARG,FIC
+220,3,272,"Halys, Quentin",France,FRA,HAL
+221,-3,271,"Jasika, Omar",Australia,AUS,JAS
+222,2,271,"Popko, Dmitry",Kazakhstan,KAZ,POP
+223,-3,270,"Shelbayh, Abdullah",Jordan,JOR,SHE
+224,60,269,"Gomez, Federico Agustin",Argentina,ARG,GOM
+225,0,269,"Janvier, Maxime",France,FRA,JAN
+226,0,267,"Hsu, Yu Hsiou",Chinese Taipei,TPE,HSU
+227,0,267,"Marchenko, Illya",Ukraine,UKR,MAR
+228,0,266,"Andreev, Adrian",Bulgaria,BGR,AND
+229,-25,264,"Huesler, Marc-Andrea",Switzerland,CHE,HUE
+230,-1,257,"Skatov, Timofey",Kazakhstan,KAZ,SKA
+231,-1,257,"Marie, Jules",France,FRA,MAR
+232,-1,256,"Dougaz, Aziz",Tunisia,TUN,DOU
+233,0,253,"Shimizu, Yuta",Japan,JPN,SHI
+234,0,252,"Bolt, Alex",Australia,AUS,BOL
+235,0,252,"Guinard, Manuel",France,FRA,GUI
+236,0,252,"Tabur, Clement",France,FRA,TAB
+237,0,250,"Vesely, Jiri",Czechia,CZE,VES
+238,0,250,"Sweeny, Dane",Australia,AUS,SWE
+239,0,250,"Jacquet, Kyrian",France,FRA,JAC
+240,19,250,"Guillen Meza, Alvaro",Ecuador,ECU,GUI
+241,0,249,"Sekulic, Philip",Australia,AUS,SEK
+242,-2,249,"Neumayer, Lukas",Austria,AUT,NEU
+243,-11,247,"Travaglia, Stefano",Italy,ITA,TRA
+244,-25,245,"Fatic, Nerman",Bosnia & Herzegovina,BIH,FAT
+245,4,245,"Tomic, Bernard",Australia,AUS,TOM
+246,30,244,"Jianu, Filip Cristian",Romania,ROU,JIA
+247,-4,243,"Fery, Arthur",Great Britain,GBR,FER
+248,-3,242,"Broom, Charles",Great Britain,GBR,BRO
+249,-7,241,"Dalla Valle, Enrico",Italy,ITA,DAL
+250,-6,240,"Olivieri, Genaro Alberto",Argentina,ARG,OLI
+251,-5,238,"Shimabukuro, Sho",Japan,JPN,SHI
+252,-4,238,"Holt, Brandon",USA,USA,HOL
+253,-6,235,"Quinn, Ethan",USA,USA,QUI
+254,-4,231,"Barranco Cosano, Javier",Spain,ESP,BAR
+255,-3,228,"Svrcina, Dalibor",Czechia,CZE,SVR
+256,-3,225,"Kachmazov, Alibek",Neutral,,KAC
+257,-3,222,"Kirkin, Ergi",Turkiye,TUR,KIR
+258,-7,221,"Draxl, Liam",Canada,CAN,DRA
+259,-2,221,"Onclin, Gauthier",Belgium,BEL,ONC
+260,-5,220,"Johnson, Steve",USA,USA,JOH
+261,21,219,"Mena, Facundo",Argentina,ARG,MEN
+262,1,218,"Vincent Ruggeri, Samuel",Italy,ITA,VIN
+263,-7,218,"Maestrelli, Francesco",Italy,ITA,MAE
+264,1,216,"Mejia, Nicolas",Colombia,COL,MEJ
+265,-7,215,"Nadal, Rafael",Spain,ESP,NAD
+266,6,215,"Gaubas, Vilius",Lithuania,LTU,GAU
+267,-7,213,"Gerasimov, Egor",Neutral,,GER
+268,-7,213,"Blancaneaux, Geoffrey",France,FRA,BLA
+269,-7,212,"Lajal, Mark",Estonia,EST,LAJ
+270,-6,212,"Oliveira, Goncalo",Venezuela,VEN,OLI
+271,-5,211,"Peniston, Ryan",Great Britain,GBR,PEN
+272,1,211,"Habib, Hady",Lebanon,LBN,HAB
+273,-6,210,"Sandgren, Tennys",USA,USA,SAN
+274,-5,207,"Molcan, Alex",Slovakia,SVK,MOL
+275,-5,207,"Wu, Tung-Lin",Chinese Taipei,TPE,TUN
+276,5,207,"Moeller, Elmer",Denmark,DNK,MOE
+277,-6,206,"Fearnley, Jacob",Great Britain,GBR,FEA
+278,5,206,"Vrbensky, Michael",Czechia,CZE,VRB
+279,-5,204,"Chidekh, Clement",France,FRA,CHI
+280,-5,204,"Berankis, Ricardas",Lithuania,LTU,BER
+281,-3,201,"Sachko, Vitaliy",Ukraine,UKR,SAC
+282,-14,200,"Bueno, Gonzalo",Peru,PER,BUE
+283,-4,198,"Trotter, James Kent",Japan,JPN,TRO
+284,1,193,"Coppejans, Kimmer",Belgium,BEL,COP
+285,1,193,"Kwiatkowski, Thai-Son",USA,USA,KWI
+286,-9,193,"Rodriguez Taverna, Santiago",Argentina,ARG,ROD
+287,7,193,"Fonio, Giovanni",Italy,ITA,FON
+288,13,192,"Bai, Yan (1989)",China,CHN,BAI
+289,-2,192,"Vallejo, Daniel",Paraguay,PRY,VAL
+290,-10,192,"Lamasine, Tristan",France,FRA,LAM
+291,0,190,"Holmgren, August",Denmark,DNK,HOL
+292,1,190,"Collarini, Andrea",Argentina,ARG,COL
+293,2,189,"Sousa, Joao",Portugal,PRT,SOU
+294,-6,189,"Mayo, Aidan",USA,USA,MAY
+295,1,188,"Kym, Jerome",Switzerland,CHE,KYM
+296,4,188,"Masur, Daniel",Germany,DEU,MAS
+297,-5,187,"Moeller, Marvin",Germany,DEU,MOE
+298,4,187,"Sanchez Izquierdo, Nikolas",Spain,ESP,SAI
+299,-2,185,"Weis, Alexander",Italy,ITA,WEI
+300,4,184,"Mager, Gianluca",Italy,ITA,MAG
+301,-3,183,"Blockx, Alexander",Belgium,BEL,BLO
+302,-12,183,"Bertola, Remy",Switzerland,CHE,BER
+303,-4,183,"Bertrand, Robin",France,FRA,BER
+304,-1,180,"Landaluce, Martin",Spain,ESP,LAN
+305,0,176,"Bourgue, Mathias",France,FRA,BOU
+306,1,176,"Taberner, Carlos",Spain,ESP,TAB
+307,31,175,"Kopp, Sandro",Austria,AUT,KOP
+308,-2,175,"Gill, Felix",Great Britain,GBR,GIL
+309,21,173,"Sultanov, Khumoyun",Uzbekistan,UZB,SUL
+310,49,172,"Hussey, Giles",Great Britain,GBR,HUS
+311,-2,169,"Kuhn, Nicola",Germany,DEU,KUHN
+312,3,167,"Buse, Ignacio",Peru,PER,BUS
+313,-2,166,"Geerts, Michael",Belgium,BEL,GEE
+314,-1,165,"Isner, John",USA,USA,ISN
+315,-1,165,"Jorda Sanchis, David",Spain,ESP,JOR
+316,0,164,"Andrade, Andres",Ecuador,ECU,AND
+317,0,164,"Dodig, Matej",Croatia,HRV,DOD
+318,1,164,"Fanselow, Sebastian",Germany,DEU,FAN
+319,-11,163,"Kodat, Toby Alex",USA,USA,KOD
+320,1,163,"Noguchi, Rio",Japan,JPN,NOG
+321,1,162,"Clarke, Jay",Great Britain,GBR,CLA
+322,1,161,"Bellier, Antoine",Switzerland,CHE,BEL
+323,2,160,"Kuzmanov, Dimitar",Bulgaria,BGR,KUZ
+324,7,159,"Elias, Gastao",Portugal,PRT,ELI
+325,-5,159,"Bicknell, Blaise",Jamaica,JAM,BIC
+326,0,159,"Casanova, Hernan",Argentina,ARG,CAS
+327,0,159,"Reis Da Silva, Joao Lucas",Brazil,BRA,REI
+328,0,159,"Sakamoto, Pedro",Brazil,BRA,SAK
+329,-5,158,"Olivo, Renzo",Argentina,ARG,OLI
+330,-1,157,"Ramanathan, Ramkumar",India,IND,RAM
+331,3,157,"Bonadio, Riccardo",Italy,ITA,BON
+332,17,157,"Gakhov, Ivan",Neutral,,GAK
+333,0,156,"Nicod, Jakub",Czechia,CZE,NIC
+334,8,156,"McCabe, James",Australia,AUS,MCC
+335,2,156,"Pucinelli de Almeida, Matheus",Brazil,BRA,PDA
+336,-1,153,"Jung, Jason",Chinese Taipei,TPE,JUN
+337,-1,153,"Den Ouden, Guy",Netherlands,NLD,DEN
+338,1,151,"Saville, Luke",Australia,AUS,SAV
+339,1,151,"Ursu, Vadym",Ukraine,UKR,URS
+340,-30,150,"Paulson, Andrew",Czechia,CZE,PAU
+341,0,150,"Erhard, Mathys",France,FRA,ERH
+342,29,149,"Tien, Learner",USA,USA,TIE
+343,0,149,"Giustino, Lorenzo",Italy,ITA,GIU
+344,0,147,"Poullain, Lucas",France,FRA,POU
+345,15,147,"Barroso Campos, Alberto",Spain,ESP,BAR
+346,0,147,"Gautier, Alexis",France,FRA,GAU
+347,-35,145,"Pella, Guido",Argentina,ARG,PEL
+348,-3,145,"Naw, Hazem",Syria,SYR,NAW
+349,12,145,"Lopez Montagud, Carlos",Spain,ESP,LOP
+350,-2,144,"Cui, Jie",China,CHN,CUI
+351,-4,144,"Krumich, Martin",Czechia,CZE,KRU
+352,-2,144,"Forejtek, Jonas",Czechia,CZE,FOR
+353,-1,143,"Mott, Blake",Australia,AUS,MOT
+354,44,143,"Oradini, Giovanni",Italy,ITA,ORA
+355,-1,143,"Kolar, Zdenek",Czechia,CZE,KOL
+356,9,142,"Cecchinato, Marco",Italy,ITA,CEC
+357,-1,142,"Oliel, Yshai",Israel,ISR,OLI
+358,-1,141,"Collignon, Raphael",Belgium,BEL,COL
+359,-1,141,"Mikrut, Luka",Croatia,HRV,MIK
+360,14,140,"Torres, Juan Bautista",Argentina,ARG,TOR
+361,-43,140,"Campana Lee, Gerard",Republic of Korea,KOR,CAM
+362,-9,140,"Denolly, Corentin",France,FRA,DEN
+363,-8,139,"Dutra Da Silva, Daniel",Brazil,BRA,DUT
+364,-1,138,"Andreozzi, Guido",Argentina,ARG,AND
+365,-14,137,"McHugh, Aidan",Great Britain,GBR,MCH
+366,0,136,"Basavareddy, Nishesh",USA,USA,BAS
+367,0,135,"Kwon, Soonwoo",Republic of Korea,KOR,KWON
+368,1,135,"Klizan, Martin",Slovakia,SVK,KLI
+369,-7,134,"Klier Junior, Gilbert",Brazil,BRA,KIL
+370,-6,134,"Luz, Orlando",Brazil,BRA,LUZ
+371,2,133,"Gea, Arthur",France,FRA,GEA
+372,0,133,"Sun, Fajing",China,CHN,SUN
+373,4,133,"Brancaccio, Raul",Italy,ITA,BRA
+374,5,132,"Soto, Matias",Chile,CHL,SOT
+375,0,132,"Ellis, Blake",Australia,AUS,ELL
+376,0,130,"Cretu, Cezar (2001)",Romania,ROU,CRE
+377,60,130,"Uchida, Kaichi",Japan,JPN,UCH
+378,27,130,"Picchione, Andrea",Italy,ITA,PIC
+379,4,129,"Gerch, Lucas",Germany,DEU,GER
+380,-48,129,"Echargui, Moez",Tunisia,TUN,ECH
+381,-1,128,"Haliak, Mikalai",Neutral,,HAL
+382,-4,128,"Boitan, Gabi Adrian",Romania,ROU,BOI
+383,8,126,"Lingua Lavallen, Alejo Lorenzo",Argentina,ARG,LIN
+384,4,126,"Giannessi, Alessandro",Italy,ITA,GIA
+385,-3,125,"Weber, Arthur",France,FRA,WEB
+386,-2,125,"Villanueva, Gonzalo",Argentina,ARG,VIL
+387,-2,125,"van Wyk, Kris",South Africa,ZAF,VAN
+388,20,124,"Gaio, Federico",Italy,ITA,GAI
+389,-3,124,"Celikbilek, Altug",Turkiye,TUR,CEL
+390,-3,124,"Sanchez Jover, Carlos",Spain,ESP,SAN
+391,-2,124,"Ionel, Nicholas David",Romania,ROU,ION
+392,-2,123,"Schwaerzler, Joel",Austria,AUT,SCH
+393,1,123,"Safwat, Mohamed",Egypt,EGY,SAF
+394,-2,123,"Sharipov, Marat",Neutral,,SHA
+395,11,122,"Aboian, Valerio",Argentina,ARG,ABO
+396,1,121,"Tiurnev, Evgenii",Neutral,,TIE
+397,-1,121,"Wenger, Damien",Switzerland,CHE,WEN
+398,33,121,"Nijboer, Ryan",Netherlands,NLD,NIJ
+399,2,120,"Prado Angelo, Juan Carlos",Bolivia,BOL,PRA
+400,2,119,"Debru, Gabriel",France,FRA,DEB
+401,-2,118,"Nishikori, Kei",Japan,JPN,NIS
+402,-2,117,"Otte, Oscar",Germany,DEU,OTT
+403,42,116,"Henning, Philip",South Africa,ZAF,HEN
+404,76,116,"Chazal, Maxime",France,FRA,CHA
+405,-2,115,"Lavagno, Edoardo",Italy,ITA,LAV
+406,1,114,"Ilkel, Cem",Turkiye,TUR,ILK
+407,-12,114,"Michalski, Daniel",Poland,POL,MIC
+408,-27,113,"Kumar, Omni",USA,USA,KUM
+409,-16,113,"Serdarusic, Nino",Croatia,HRV,SER
+410,10,113,"Houkes, Max",Netherlands,NLD,HOU
+411,1,113,"Dellavedova, Matthew",Australia,AUS,DEL
+412,27,112,"Nakagawa, Naoki",Japan,JPN,NAK
+413,2,111,"Moriya, Hiroki",Japan,JPN,MOR
+414,-3,111,"Midon, Lautaro",Argentina,ARG,MID
+415,2,110,"Donskoy, Evgeny",Neutral,,DON
+416,3,110,"Sels, Jelle",Netherlands,NLD,SEL
+417,4,110,"Kuzuhara, Bruno",USA,USA,KUZ
+418,10,109,"Bobrov, Bogdan",Neutral,,BOB
+419,4,109,"Glinka, Daniil",Estonia,EST,GLI
+420,4,108,"Butvilas, Edas",Lithuania,LTU,BUT
+421,-7,108,"Johns, Garrett",USA,USA,JOH
+422,-12,108,"Handel, Tim",Germany,DEU,HAN
+423,2,108,"Rosenkranz, Mats",Germany,DEU,ROS
+424,2,108,"Gulin, Svyatoslav",Neutral,,GUL
+425,2,107,"Valkusz, Mate",Hungary,HUN,VAL
+426,-4,107,"Copil, Marius",Romania,ROU,COP
+427,-11,107,"Kingsley, Cannon",USA,USA,KIN
+428,1,107,"Vatutin, Alexey",Neutral,,VAT
+429,-25,107,"Serafini, Marcello",Italy,ITA,SER
+430,0,107,"Merida, Daniel",Spain,ESP,MER
+431,2,107,"Wessels, Louis",Germany,DEU,WES
+432,6,107,"Added, Dan",France,FRA,ADD
+433,1,106,"Matusevich, Anton",Great Britain,GBR,MAT
+434,-25,106,"Pacheco Mendez, Rodrigo",Mexico,MEX,PAC
+435,-17,106,"Alves, Mateus",Brazil,BRA,ALV
+436,8,106,"Cid Subervi, Roberto",Dominican Republic,DOM,CID
+437,-5,106,"Popovic, Stefan",Serbia,SRB,POP
+438,-68,105,"Lock, Benjamin",Zimbabwe,ZWE,LOC
+439,-4,104,"Stodder, Timo",Germany,DEU,STO
+440,0,104,"Diez, Steven",Canada,CAN,DIE
+441,0,103,"Feldbausch, Kilian",Switzerland,CHE,FEL
+442,0,103,"Kozlov, Stefan",USA,USA,KOZ
+443,11,102,"Lokoli, Laurent",France,FRA,LOK
+444,-1,102,"Bouquier, Arthur",France,FRA,BOU
+445,-9,102,"Artnak, Bor",Slovenia,SVN,ART
+446,0,101,"Basilashvili, Nikoloz",Georgia,GEO,BAS
+447,-34,101,"Forti, Francesco",Italy,ITA,FOR
+448,0,100,"Ivashka, Ilya",Neutral,,IVA
+449,1,100,"Colson, Tibo",Belgium,BEL,COL
+450,1,100,"Pannu, Kiranpal",New Zealand,NZL,PAN
+451,1,100,"Damas, Miguel",Spain,ESP,DAM
+452,1,100,"Strombachs, Robert",Germany,DEU,STR
+453,2,99,"Rehberg, Max Hans",Germany,DEU,REH
+454,2,99,"Escobedo, Ernesto",Mexico,MEX,ESC
+455,-6,99,"ToPo, Marko",Germany,DEU,TOP
+456,2,99,"Erel, Yanki",Turkiye,TUR,ERE
+457,9,98,"Ilagan, Andre",USA,USA,ILA
+458,-1,98,"Barton, Hynek",Czechia,CZE,BAR
+459,13,98,"Arnaboldi, Federico",Italy,ITA,ARN
+460,42,98,"Roncadelli, Franco",Uruguay,URY,RON
+461,-1,97,"Nesterov, Pyotr",Bulgaria,BGR,NES
+462,-1,96,"Kubler, Jason",Australia,AUS,KUB
+463,-1,96,"Sell, Karue",Brazil,BRA,SEL
+464,6,96,"Pavlovic, Luka",France,FRA,PAV
+465,3,96,"Vanshelboim, Eric",Ukraine,UKR,VAN
+466,1,95,"Iannaccone, Federico",Italy,ITA,IAN
+467,2,94,"Borg, Leo",Sweden,SWE,BOR
+468,3,94,"Martin Tiffon, Pol",Spain,ESP,MAR
+469,-22,94,"Sakellaridis, Stefanos",Greece,GRC,SAK
+470,3,93,"Zakharov, Alexey",Neutral,,ZAK
+471,4,93,"Karlovskiy, Evgeny",Neutral,,KAR
+472,2,92,"Bielinskyi, Viacheslav",Ukraine,UKR,BIE
+473,3,92,"Rodriguez, Lorenzo Joaquin",Argentina,ARG,ROD
+474,4,91,"Samuel, Toby",Great Britain,GBR,SAM
+475,-10,91,"Seggerman, Ryan",USA,USA,SEG
+476,3,91,"Mukund, Sasikumar",India,IND,MUK
+477,9,91,"Milev, Yanaki",Bulgaria,BGR,MIL
+478,-110,90,"Ymer, Mikael",Sweden,SWE,YME
+479,4,90,"Edmund, Kyle",Great Britain,GBR,EDM
+480,4,90,"Paul, Jakub",Switzerland,CHE,PAU
+481,-4,89,"Zanellato, Nicolas",Brazil,BRA,ZAN
+482,3,88,"Wu, Yibing",China,CHN,YIB
+483,4,88,"Palan, Dominik",Czechia,CZE,PAL
+484,4,88,"Langmo, Christian",USA,USA,LAN
+485,8,88,"Bittoun Kouzmine, Constantin",France,FRA,BIT
+486,-22,87,"Cukierman, Daniel",Israel,ISR,CUK
+487,2,87,"Ivanovski, Kalin",North Macedonia,MKD,IVA
+488,2,87,"Ochi, Makoto",Japan,JPN,OCH
+489,3,87,"Gengel, Marek",Czechia,CZE,GEN
+490,6,87,"Takahashi, Yusuke",Japan,JPN,TAK
+491,3,86,"Gimeno Valero, Carlos",Spain,ESP,GIM
+492,5,85,"Pecotic, Matija",Croatia,HRV,PEC
+493,5,85,"TE, Rigele",China,CHN,RIG
+494,1,85,"Stewart, Hamish",Great Britain,GBR,STE
+495,8,84,"Berrettini, Jacopo",Italy,ITA,BER
+496,3,84,"Martin, Andres",USA,USA,MAR
+497,-6,84,"Ayeni, Alafia",USA,USA,AVE
+498,-17,84,"Kirchheimer, Strong",USA,USA,KIR
+499,5,84,"Lopez Morillo, Imanol",Spain,ESP,LOP
+500,25,84,"Delaney, Jake",Australia,AUS,DEL

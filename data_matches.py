@@ -15,8 +15,12 @@ api_key = os.getenv("SPORTRADAR_API_KEY")
 if not api_key:
     raise ValueError("No API key provided. Please set the SPORTRADAR_API_KEY environment variable.")
 
-# URL with hidden API key
-url = f"https://api.sportradar.com/tennis/trial/v3/en/competitors/sr%3Acompetitor%3A14882/summaries.json?api_key={api_key}"
+# Define the start and end dates
+start_date = '2023-01-01'  # Example start date
+end_date = '2023-12-31'    # Example end date
+
+# URL with hidden API key and date parameters
+url = f"https://api.sportradar.com/tennis/production/v3/en/competitors/sr%3Acompetitor%3A407573/summaries.json?api_key={api_key}&start_date={start_date}&end_date={end_date}"
 headers = {"accept": "application/json"}
 response = requests.get(url, headers=headers)
 

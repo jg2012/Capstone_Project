@@ -16,7 +16,7 @@ def extract_id(full_id):
     return full_id.split(':')[-1] if full_id else ''
 
 # URL with hidden API key
-url = f"https://api.sportradar.com/tennis/trial/v3/en/competitors/sr%3Acompetitor%3A407573/profile.json?api_key={api_key}"
+url = f"https://api.sportradar.com/tennis/production/v3/en/competitors/sr%3Acompetitor%3A407573/profile.json?api_key={api_key}"
 
 headers = {"accept": "application/json"}
 response = requests.get(url, headers=headers)
