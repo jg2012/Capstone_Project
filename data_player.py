@@ -1,74 +1,57 @@
-import csv
-import requests
-import os
-from dotenv import load_dotenv
+import pandas as pd
 
-# Load environment variables from .env file
-load_dotenv()
-
-# Get API key from environment variable
-api_key = os.getenv("SPORTRADAR_API_KEY")
-if not api_key:
-    raise ValueError("No API key provided. Please set the SPORTRADAR_API_KEY environment variable.")
-
-# Function to extract ID segments
-def extract_id(full_id):
-    return full_id.split(':')[-1] if full_id else ''
-
-# URL with hidden API key
-url = f"https://api.sportradar.com/tennis/production/v3/en/competitors/sr%3Acompetitor%3A407573/profile.json?api_key={api_key}"
-
-headers = {"accept": "application/json"}
-response = requests.get(url, headers=headers)
-data = response.json()
-
-# Define the CSV file name
-csv_file = "tennis_competitor_profile.csv"
-
-# Extract the data
-competitor = data["competitor"]
-info = data["info"]
-competitor_rankings = data["competitor_rankings"][0]
-
-# Write data to CSV
-with open(csv_file, mode='w', newline='') as file:
-    writer = csv.writer(file)
+def split_player_name(df, player_column):
+    # Check if the specified column exists
+    if player_column not in df.columns:
+        print(f"Column '{player_column}' not found in DataFrame. Available columns:", df.columns)
+        return df
     
-    # Write headers
-    headers = [
-        "ID", "Name", "Country", "Abbreviation", "Gender",
-        "Pro Year", "Handedness", "Highest Singles Ranking", "Highest Doubles Ranking",
-        "Weight", "Height", "Date of Birth", "Highest Singles Ranking Date", "Highest Doubles Ranking Date",
-        "Current Singles Rank", "Rank Movement", "Rank Points", "Competitor ID", "Rank Name", "Rank Type", "Race Ranking",
-        "Year", "Surface Type", "Competitions Played (Surface)", "Competitions Won (Surface)", "Matches Played (Surface)", "Matches Won (Surface)",
-        "Competitions Played (Overall)", "Competitions Won (Overall)", "Matches Played (Overall)", "Matches Won (Overall)"
-    ]
-    writer.writerow(headers)
-    
-    # Write general data
-    general_data = [
-        extract_id(competitor["id"]), competitor["name"], competitor["country"], competitor["abbreviation"], competitor["gender"],
-        info["pro_year"], info["handedness"], info["highest_singles_ranking"], info.get("highest_doubles_ranking"),
-        info["weight"], info["height"], info["date_of_birth"], info["highest_singles_ranking_date"], info.get("highest_doubles_ranking_date"),
-        competitor_rankings["rank"], competitor_rankings["movement"], competitor_rankings["points"], extract_id(competitor_rankings["competitor_id"]), competitor_rankings["name"], competitor_rankings["type"], competitor_rankings["race_ranking"]
-    ]
-    
-    # Iterate through periods
-    for period in data["periods"]:
-        year = period["year"]
-        overall_stats = period["statistics"]
-        
-        # Iterate through surfaces
-        for surface in period["surfaces"]:
-            surface_type = surface["type"]
-            surface_stats = surface["statistics"]
-            
-            # Combine general data with specific year and surface data
-            row = general_data + [
-                year, surface_type, surface_stats["competitions_played"], surface_stats["competitions_won"], surface_stats["matches_played"], surface_stats["matches_won"],
-                overall_stats["competitions_played"], overall_stats["competitions_won"], overall_stats["matches_played"], overall_stats["matches_won"]
-            ]
-            
-            writer.writerow(row)
+    # Split the specified player column into 'Last Name' and 'First Initial'
+    names = df[player_column].str.split(' ', n=1, expand=True)
+    last_name_col = f"{player_column}_Last_Name"
+    first_initial_col = f"{player_column}_First_Initial"
+    df[last_name_col] = names[0]
+    df[first_initial_col] = names[1].str[0]
+    df.drop(columns=[player_column], inplace=True)
+    return df
 
-print(f"Data written to {csv_file}")
+def process_atp_file(input_file, output_file):
+    # Read the CSV file
+    df = pd.read_csv(input_file)
+    
+    # Print column names for debugging
+    print(f"Processing file: {input_file}")
+    print("Columns in DataFrame:", df.columns)
+    
+    # Split the player names for Player_1 and Player_2
+    if 'Player_1' in df.columns and 'Player_2' in df.columns:
+        df = split_player_name(df, 'Player_1')
+        df = split_player_name(df, 'Player_2')
+    else:
+        print("Required columns 'Player_1' and 'Player_2' are not present in the DataFrame.")
+    
+    # Convert 'Date' to datetime if the column exists
+    if 'Date' in df.columns:
+        try:
+            df['Date'] = pd.to_datetime(df['Date'])
+        except Exception as e:
+            print(f"Error converting 'Date' column: {e}")
+    
+    # Convert 'Score' to float if the column exists
+    if 'Score' in df.columns:
+        try:
+            df['Score'] = df['Score'].astype(float)
+        except Exception as e:
+            print(f"Error converting 'Score' column: {e}")
+    
+    # Save the modified DataFrame to a new CSV file
+    df.to_csv(output_file, index=False)
+
+# File paths
+input_file = 'data/atp_tennis.csv'
+output_file = 'data/atp_tennis_modified.csv'
+
+# Process the file
+process_atp_file(input_file, output_file)
+
+print("ATP Tennis file has been processed and saved successfully.")

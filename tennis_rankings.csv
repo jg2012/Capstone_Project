@@ -1,0 +1,501 @@
+Rank,Movement,Points,Name,Country,Country Code,Abbreviation
+1,0,9890,"Sinner, Jannik",Italy,ITA,SIN
+2,0,8360,"Djokovic, Novak",Serbia,SRB,DJO
+3,0,8130,"Alcaraz, Carlos",Spain,ESP,ALC
+4,0,6905,"Zverev, Alexander",Germany,DEU,ZVE
+5,0,6445,"Medvedev, Daniil",Neutral,,MED
+6,0,4420,"Rublev, Andrey",Neutral,,RUB
+7,0,4235,"Hurkacz, Hubert",Poland,POL,HUR
+8,0,4025,"Ruud, Casper",Norway,NOR,RUU
+9,0,3830,"de Minaur, Alex",Australia,AUS,DE
+10,0,3750,"Dimitrov, Grigor",Bulgaria,BGR,DIM
+11,0,3745,"Tsitsipas, Stefanos",Greece,GRC,TSI
+12,1,3350,"Fritz, Taylor",USA,USA,FRI
+13,-1,3100,"Paul, Tommy",USA,USA,PAU
+14,0,2595,"Shelton, Ben",USA,USA,SHE
+15,0,2370,"Rune, Holger",Denmark,DNK,RUN
+16,0,2300,"Humbert, Ugo",France,FRA,HUM
+17,0,2075,"Auger-Aliassime, Felix",Canada,CAN,AUG
+18,0,2020,"Baez, Sebastian",Argentina,ARG,BAE
+19,5,1904,"Tabilo, Alejandro",Chile,CHL,TAB
+20,-1,1825,"Jarry, Nicolas",Chile,CHL,JAR
+21,-1,1795,"Korda, Sebastian",USA,USA,KOR
+22,-1,1780,"Khachanov, Karen",Neutral,,KHA
+23,0,1730,"Bublik, Alexander",Kazakhstan,KAZ,BUB
+24,-2,1625,"Mannarino, Adrian",France,FRA,MAN
+25,0,1620,"Musetti, Lorenzo",Italy,ITA,MUS
+26,0,1585,"Lehecka, Jiri",Czechia,CZE,LEH
+27,1,1470,"Griekspoor, Tallon",Netherlands,NLD,GRI
+28,1,1461,"Draper, Jack",Great Britain,GBR,DRA
+29,1,1355,"Tiafoe, Frances",USA,USA,TIA
+30,-3,1315,"Cerundolo, Francisco",Argentina,ARG,CER
+31,0,1290,"Etcheverry, Tomas Martin",Argentina,ARG,ETC
+32,0,1282,"Navone, Mariano",Argentina,ARG,NAV
+33,7,1260,"Monfils, Gael",France,FRA,MON
+34,0,1250,"Fils, Arthur",France,FRA,FIL
+35,0,1245,"Arnaldi, Matteo",Italy,ITA,ARN
+36,0,1240,"Davidovich Fokina, Alejandro",Spain,ESP,DAV
+37,0,1236,"Darderi, Luciano",Italy,ITA,DAR
+38,-5,1221,"Zhang, Zhizhen",China,CHN,ZHA
+39,-1,1214,"Machac, Tomas",Czechia,CZE,MAC
+40,-1,1206,"Thompson, Jordan",Australia,AUS,THO
+41,0,1135,"Struff, Jan-Lennard",Germany,DEU,STR
+42,2,1070,"Norrie, Cameron",Great Britain,GBR,NOR
+43,2,1047,"Marozsan, Fabian",Hungary,HUN,MAR
+44,-1,1045,"Safiullin, Roman",Neutral,,SAF
+45,9,1038,"Ofner, Sebastian",Austria,AUT,OFN
+46,0,1020,"Giron, Marcos",USA,USA,GIR
+47,0,981,"Popyrin, Alexei",Australia,AUS,POP
+48,1,980,"Cobolli, Flavio",Italy,ITA,COB
+49,-1,975,"Martinez, Pedro",Spain,ESP,MAR
+50,1,936,"Borges, Nuno",Portugal,PRT,BOR
+51,1,936,"Djere, Laslo",Serbia,SRB,DJE
+52,1,925,"Kecmanovic, Miomir",Serbia,SRB,KEC
+53,-3,893,"Kotov, Pavel",Neutral,,KOT
+54,3,881,"Sonego, Lorenzo",Italy,ITA,SON
+55,7,881,"Michelsen, Alex",USA,USA,MIC
+56,0,871,"Lajovic, Dusan",Serbia,SRB,LAJ
+57,1,860,"Shevchenko, Alexander",Kazakhstan,KAZ,SHE
+58,1,853,"Mpetshi Perricard, Giovanni",France,FRA,MPE
+59,1,845,"Berrettini, Matteo",Italy,ITA,BER
+60,1,844,"Evans, Daniel",Great Britain,GBR,EVA
+61,-6,843,"Moutet, Corentin",France,FRA,MOU
+62,-20,835,"Eubanks, Christopher",USA,USA,EUB
+63,0,835,"Munar, Jaume",Spain,ESP,MUN
+64,1,826,"Carballes Baena, Roberto",Spain,ESP,CAR
+65,-1,825,"Nakashima, Brandon",USA,USA,NAK
+66,0,821,"Koepfer, Dominik",Germany,DEU,KOE
+67,0,808,"Diaz Acosta, Facundo",Argentina,ARG,DIA
+68,26,795,"Purcell, Max",Australia,AUS,PUR
+69,12,789,"Vukic, Aleksandar",Australia,AUS,VUK
+70,-1,785,"Fucsovics, Marton",Hungary,HUN,FUC
+71,-1,783,"Gaston, Hugo",France,FRA,GAS
+72,-1,776,"Coria, Federico",Argentina,ARG,COR
+73,-1,768,"Nagal, Sumit",India,IND,NAG
+74,0,767,"Seyboth Wild, Thiago",Brazil,BRA,SEY
+75,-2,760,"Nardi, Luca",Italy,ITA,NAR
+76,-8,754,"Rinderknech, Arthur",France,FRA,RIN
+77,-2,751,"Hijikata, Rinky",Australia,AUS,HIJ
+78,7,738,"Mensik, Jakub",Czechia,CZE,MEN
+79,-3,733,"O'Connell, Christopher",Australia,AUS,OCO
+80,-3,731,"Altmaier, Daniel",Germany,DEU,ALT
+81,-3,728,"Duckworth, James",Australia,AUS,DUC
+82,-3,722,"Bergs, Zizou",Belgium,BEL,BER
+83,-1,694,"Goffin, David",Belgium,BEL,GOF
+84,-1,692,"Daniel, Taro",Japan,JPN,DAN
+85,2,692,"Marterer, Maximilian",Germany,DEU,MAR
+86,-2,690,"Monteiro, Thiago",Brazil,BRA,MON
+87,1,683,"Ruusuvuori, Emil",Finland,FIN,RUU
+88,-2,681,"Kovacevic, Aleksandar",USA,USA,KOV
+89,0,664,"Coric, Borna",Croatia,HRV,COR
+90,12,659,"Nishioka, Yoshihito",Japan,JPN,NIS
+91,13,658,"Shang, Juncheng",China,CHN,SHA
+92,-2,650,"Lestienne, Constant",France,FRA,LES
+93,-1,639,"Kokkinakis, Thanasi",Australia,AUS,KOK
+94,3,635,"Fognini, Fabio",Italy,ITA,FOG
+95,-2,633,"Wawrinka, Stan",Switzerland,CHE,WAW
+96,-16,626,"McDonald, Mackenzie",USA,USA,MCD
+97,-1,618,"Van de Zandschulp, Botic",Netherlands,NLD,VAN
+98,0,616,"Cazaux, Arthur",France,FRA,CAZ
+99,0,615,"Karatsev, Aslan",Neutral,,KAR
+100,0,608,"Ugo Carabelli, Camilo",Argentina,ARG,UGO
+101,6,607,"Walton, Adam",Australia,AUS,WAL
+102,1,601,"Muller, Alexandre",France,FRA,MUL
+103,3,592,"Galan, Daniel Elahi",Colombia,COL,GAL
+104,-3,585,"van Assche, Luca",France,FRA,VAN
+105,4,580,"Dzumhur, Damir",Bosnia & Herzegovina,BIH,DZU
+106,5,570,"Garin, Cristian",Chile,CHL,GAR
+107,5,570,"Ramos-Vinolas, Albert",Spain,ESP,RAM
+108,5,562,"Mayot, Harold",France,FRA,MAY
+109,5,557,"Kovalik, Jozef",Slovakia,SVK,KOV
+110,-15,556,"Hanfmann, Yannick",Germany,DEU,HAN
+111,-1,556,"Vacherot, Valentin",Monaco,MCO,VAC
+112,10,555,"Bautista Agut, Roberto",Spain,ESP,BAU
+113,2,548,"Murray, Andy",Great Britain,GBR,MUR
+114,2,547,"Mmoh, Michael",USA,USA,MMO
+115,-7,546,"Wolf, Jeffrey John",USA,USA,WOL
+116,23,545,"Harris, Billy",Great Britain,GBR,HAR
+117,0,543,"Cachin, Pedro",Argentina,ARG,CAC
+118,-27,541,"Harris, Lloyd",South Africa,ZAF,HAR
+119,-1,541,"Svajda, Zachary",USA,USA,SVA
+120,-1,533,"De Jong, Jesper",Netherlands,NLD,DEJ
+121,-1,530,"Shapovalov, Denis",Canada,CAN,SHA
+122,-1,529,"Comesana, Francisco",Argentina,ARG,COM
+123,0,523,"Kopriva, Vit",Czechia,CZE,KOP
+124,0,522,"Bagnis, Facundo",Argentina,ARG,BAG
+125,1,520,"Gasquet, Richard",France,FRA,GAS
+126,1,517,"Medjedovic, Hamad",Serbia,SRB,MED
+127,1,517,"Tirante, Thiago Agustin",Argentina,ARG,TIR
+128,1,514,"Klein, Lukas",Slovakia,SVK,KLE
+129,1,514,"Napolitano, Stefano",Italy,ITA,NAP
+130,-25,513,"Barrere, Gregoire",France,FRA,BAR
+131,-6,513,"Atmane, Terence",France,FRA,ATM
+132,-1,506,"Passaro, Francesco",Italy,ITA,PAS
+133,-1,498,"Kukushkin, Mikhail",Kazakhstan,KAZ,KUK
+134,0,483,"Thiem, Dominic",Austria,AUT,THI
+135,0,483,"Gigante, Matteo",Italy,ITA,GIG
+136,1,482,"Ajdukovic, Duje",Croatia,HRV,AJD
+137,1,481,"Riedi, Leandro",Switzerland,CHE,RIE
+138,2,455,"Herbert, Pierre-Hugues",France,FRA,HER
+139,2,434,"Cerundolo, Juan Manuel",Argentina,ARG,CER
+140,-7,423,"Droguet, Titouan",France,FRA,DRO
+141,2,420,"Mochizuki, Shintaro",Japan,JPN,MOC
+142,2,419,"Burruchaga, Roman Andres",Argentina,ARG,BUR
+143,-7,414,"Nava, Emilio",USA,USA,NAV
+144,1,406,"Albot, Radu",Moldova,MDA,ALB
+145,2,403,"Meligeni Alves, Felipe",Brazil,BRA,MEL
+146,2,402,"Moreno de Alboran, Nicolas",USA,USA,MAN
+147,2,401,"Virtanen, Otto",Finland,FIN,VIR
+148,2,401,"Bellucci, Mattia",Italy,ITA,BEL
+149,2,400,"Stricker, Dominic",Switzerland,CHE,STR
+150,2,397,"Bonzi, Benjamin",France,FRA,BON
+151,2,396,"Trungelliti, Marco",Argentina,ARG,TRU
+152,2,393,"Rodionov, Jurij",Austria,AUT,ROD
+153,2,392,"Zeppieri, Giulio",Italy,ITA,ZEP
+154,2,392,"Hassan, Benjamin",Germany,DEU,HAS
+155,2,385,"Raonic, Milos",Canada,CAN,RAO
+156,-10,384,"Broady, Liam",Great Britain,GBR,BRO
+157,-15,377,"Kypson, Patrick",USA,USA,KYP
+158,0,377,"Pellegrino, Andrea",Italy,ITA,PEL
+159,3,368,"Varillas, Juan Pablo",Peru,PER,VAR
+160,-1,368,"Paire, Benoit",France,FRA,PAI
+161,7,366,"Tseng, Chun Hsin",Chinese Taipei,TPE,TSE
+162,-2,366,"Blanchet, Ugo",France,FRA,BLA
+163,-2,363,"Watanuki, Yosuke",Japan,JPN,WAT
+164,-1,359,"Yevseyev, Denis",Kazakhstan,KAZ,YEV
+165,-1,358,"Roca Batalla, Oriol",Spain,ESP,ROC
+166,0,355,"Diallo, Gabriel",Canada,CAN,DIA
+167,0,355,"Kudla, Denis",USA,USA,KUD
+168,1,354,"Llamas Ruiz, Pablo",Spain,ESP,LLA
+169,1,354,"Galarneau, Alexis",Canada,CAN,GAL
+170,1,353,"Martineau, Matteo",France,FRA,MAR
+171,2,352,"Dellien, Hugo",Bolivia,BOL,DEL
+172,-7,350,"Gojo, Borna",Croatia,HRV,GOJ
+173,2,349,"Faria, Jaime",Portugal,PRT,FAR
+174,0,344,"Choinski, Jan",Great Britain,GBR,CHO
+175,3,341,"Ritschard, Alexander",Switzerland,CHE,RIT
+176,3,341,"Schoolkate, Tristan",Australia,AUS,SCH
+177,3,340,"Damm Jr, Martin",USA,USA,DAMM
+178,3,337,"Squire, Henri",Germany,DEU,SQU
+179,-7,337,"Wong, Coleman","Hong Kong, China",HKG,WON
+180,2,333,"Misolic, Filip",Austria,AUT,MIS
+181,2,333,"Piros, Zsombor",Hungary,HUN,PIR
+182,3,332,"Schwartzman, Diego",Argentina,ARG,SWM
+183,3,332,"Grenier, Hugo",France,FRA,GRE
+184,4,331,"Hong, Seongchan",Republic of Korea,KOR,HON
+185,2,328,"Heide, Gustavo",Brazil,BRA,HEI
+186,-10,327,"Cressy, Maxime",USA,USA,CRE
+187,-10,322,"Rocha, Henrique",Portugal,PRT,ROC
+188,1,321,"Moro Canas, Alejandro",Spain,ESP,MOR
+189,1,318,"Brouwer, Gijs",Netherlands,NLD,BRO
+190,4,317,"Krueger, Mitchell",USA,USA,KRU
+191,0,316,"de Loore, Joris",Belgium,BEL,DE
+192,0,315,"Majchrzak, Kamil",Poland,POL,MAJ
+193,-9,315,"Kasnikowski, Maks",Poland,POL,KAS
+194,-1,314,"Zapata Miralles, Bernabe",Spain,ESP,ZAP
+195,0,308,"Couacaud, Enzo",France,FRA,COU
+196,0,306,"Barrios Vera, Marcelo Tomas",Chile,CHL,BAR
+197,0,306,"Yunchaokete, Bu",China,CHN,YUN
+198,0,305,"Hardt, Nick",Dominican Republic,DOM,HAR
+199,0,303,"Prizmic, Dino",Croatia,HRV,PRI
+200,0,301,"Hemery, Calvin",France,FRA,HEM
+201,88,301,"Jubb, Paul",Great Britain,GBR,JUB
+202,-1,301,"Molleker, Rudolf",Germany,DEU,MOL
+203,0,297,"Uchiyama, Yasutaka",Japan,JPN,UCH
+204,1,294,"Royer, Valentin",France,FRA,ROY
+205,1,293,"Ymer, Elias",Sweden,SWE,YME
+206,1,291,"Vavassori, Andrea",Italy,ITA,VAV
+207,2,288,"Novak, Dennis",Austria,AUT,NOV
+208,2,288,"Boyer, Tristan",USA,USA,BOY
+209,2,288,"Polmans, Marc",Australia,AUS,POL
+210,-8,286,"Tu, Li",Australia,AUS,TUL
+211,1,285,"Escoffier, Antoine",France,FRA,ESC
+212,1,284,"Pouille, Lucas",France,FRA,POU
+213,-5,284,"Zhukayev, Beibit",Kazakhstan,KAZ,ZHU
+214,0,282,"Dellien, Murkel",Bolivia,BOL,DEV
+215,1,280,"Agamenone, Franco",Italy,ITA,AGA
+216,-1,277,"Fonseca, Joao",Brazil,BRA,FON
+217,0,276,"Crawford, Oliver",Great Britain,GBR,CRA
+218,3,274,"Rincon, Daniel",Spain,ESP,RIN
+219,3,273,"Ficovich, Juan Pablo",Argentina,ARG,FIC
+220,3,272,"Halys, Quentin",France,FRA,HAL
+221,-3,271,"Jasika, Omar",Australia,AUS,JAS
+222,2,271,"Popko, Dmitry",Kazakhstan,KAZ,POP
+223,-3,270,"Shelbayh, Abdullah",Jordan,JOR,SHE
+224,60,269,"Gomez, Federico Agustin",Argentina,ARG,GOM
+225,0,269,"Janvier, Maxime",France,FRA,JAN
+226,0,267,"Hsu, Yu Hsiou",Chinese Taipei,TPE,HSU
+227,0,267,"Marchenko, Illya",Ukraine,UKR,MAR
+228,0,266,"Andreev, Adrian",Bulgaria,BGR,AND
+229,-25,264,"Huesler, Marc-Andrea",Switzerland,CHE,HUE
+230,-1,257,"Skatov, Timofey",Kazakhstan,KAZ,SKA
+231,-1,257,"Marie, Jules",France,FRA,MAR
+232,-1,256,"Dougaz, Aziz",Tunisia,TUN,DOU
+233,0,253,"Shimizu, Yuta",Japan,JPN,SHI
+234,0,252,"Bolt, Alex",Australia,AUS,BOL
+235,0,252,"Guinard, Manuel",France,FRA,GUI
+236,0,252,"Tabur, Clement",France,FRA,TAB
+237,0,250,"Vesely, Jiri",Czechia,CZE,VES
+238,0,250,"Sweeny, Dane",Australia,AUS,SWE
+239,0,250,"Jacquet, Kyrian",France,FRA,JAC
+240,19,250,"Guillen Meza, Alvaro",Ecuador,ECU,GUI
+241,0,249,"Sekulic, Philip",Australia,AUS,SEK
+242,-2,249,"Neumayer, Lukas",Austria,AUT,NEU
+243,-11,247,"Travaglia, Stefano",Italy,ITA,TRA
+244,-25,245,"Fatic, Nerman",Bosnia & Herzegovina,BIH,FAT
+245,4,245,"Tomic, Bernard",Australia,AUS,TOM
+246,30,244,"Jianu, Filip Cristian",Romania,ROU,JIA
+247,-4,243,"Fery, Arthur",Great Britain,GBR,FER
+248,-3,242,"Broom, Charles",Great Britain,GBR,BRO
+249,-7,241,"Dalla Valle, Enrico",Italy,ITA,DAL
+250,-6,240,"Olivieri, Genaro Alberto",Argentina,ARG,OLI
+251,-5,238,"Shimabukuro, Sho",Japan,JPN,SHI
+252,-4,238,"Holt, Brandon",USA,USA,HOL
+253,-6,235,"Quinn, Ethan",USA,USA,QUI
+254,-4,231,"Barranco Cosano, Javier",Spain,ESP,BAR
+255,-3,228,"Svrcina, Dalibor",Czechia,CZE,SVR
+256,-3,225,"Kachmazov, Alibek",Neutral,,KAC
+257,-3,222,"Kirkin, Ergi",Turkiye,TUR,KIR
+258,-7,221,"Draxl, Liam",Canada,CAN,DRA
+259,-2,221,"Onclin, Gauthier",Belgium,BEL,ONC
+260,-5,220,"Johnson, Steve",USA,USA,JOH
+261,21,219,"Mena, Facundo",Argentina,ARG,MEN
+262,1,218,"Vincent Ruggeri, Samuel",Italy,ITA,VIN
+263,-7,218,"Maestrelli, Francesco",Italy,ITA,MAE
+264,1,216,"Mejia, Nicolas",Colombia,COL,MEJ
+265,-7,215,"Nadal, Rafael",Spain,ESP,NAD
+266,6,215,"Gaubas, Vilius",Lithuania,LTU,GAU
+267,-7,213,"Gerasimov, Egor",Neutral,,GER
+268,-7,213,"Blancaneaux, Geoffrey",France,FRA,BLA
+269,-7,212,"Lajal, Mark",Estonia,EST,LAJ
+270,-6,212,"Oliveira, Goncalo",Venezuela,VEN,OLI
+271,-5,211,"Peniston, Ryan",Great Britain,GBR,PEN
+272,1,211,"Habib, Hady",Lebanon,LBN,HAB
+273,-6,210,"Sandgren, Tennys",USA,USA,SAN
+274,-5,207,"Molcan, Alex",Slovakia,SVK,MOL
+275,-5,207,"Wu, Tung-Lin",Chinese Taipei,TPE,TUN
+276,5,207,"Moeller, Elmer",Denmark,DNK,MOE
+277,-6,206,"Fearnley, Jacob",Great Britain,GBR,FEA
+278,5,206,"Vrbensky, Michael",Czechia,CZE,VRB
+279,-5,204,"Chidekh, Clement",France,FRA,CHI
+280,-5,204,"Berankis, Ricardas",Lithuania,LTU,BER
+281,-3,201,"Sachko, Vitaliy",Ukraine,UKR,SAC
+282,-14,200,"Bueno, Gonzalo",Peru,PER,BUE
+283,-4,198,"Trotter, James Kent",Japan,JPN,TRO
+284,1,193,"Coppejans, Kimmer",Belgium,BEL,COP
+285,1,193,"Kwiatkowski, Thai-Son",USA,USA,KWI
+286,-9,193,"Rodriguez Taverna, Santiago",Argentina,ARG,ROD
+287,7,193,"Fonio, Giovanni",Italy,ITA,FON
+288,13,192,"Bai, Yan (1989)",China,CHN,BAI
+289,-2,192,"Vallejo, Daniel",Paraguay,PRY,VAL
+290,-10,192,"Lamasine, Tristan",France,FRA,LAM
+291,0,190,"Holmgren, August",Denmark,DNK,HOL
+292,1,190,"Collarini, Andrea",Argentina,ARG,COL
+293,2,189,"Sousa, Joao",Portugal,PRT,SOU
+294,-6,189,"Mayo, Aidan",USA,USA,MAY
+295,1,188,"Kym, Jerome",Switzerland,CHE,KYM
+296,4,188,"Masur, Daniel",Germany,DEU,MAS
+297,-5,187,"Moeller, Marvin",Germany,DEU,MOE
+298,4,187,"Sanchez Izquierdo, Nikolas",Spain,ESP,SAI
+299,-2,185,"Weis, Alexander",Italy,ITA,WEI
+300,4,184,"Mager, Gianluca",Italy,ITA,MAG
+301,-3,183,"Blockx, Alexander",Belgium,BEL,BLO
+302,-12,183,"Bertola, Remy",Switzerland,CHE,BER
+303,-4,183,"Bertrand, Robin",France,FRA,BER
+304,-1,180,"Landaluce, Martin",Spain,ESP,LAN
+305,0,176,"Bourgue, Mathias",France,FRA,BOU
+306,1,176,"Taberner, Carlos",Spain,ESP,TAB
+307,31,175,"Kopp, Sandro",Austria,AUT,KOP
+308,-2,175,"Gill, Felix",Great Britain,GBR,GIL
+309,21,173,"Sultanov, Khumoyun",Uzbekistan,UZB,SUL
+310,49,172,"Hussey, Giles",Great Britain,GBR,HUS
+311,-2,169,"Kuhn, Nicola",Germany,DEU,KUHN
+312,3,167,"Buse, Ignacio",Peru,PER,BUS
+313,-2,166,"Geerts, Michael",Belgium,BEL,GEE
+314,-1,165,"Isner, John",USA,USA,ISN
+315,-1,165,"Jorda Sanchis, David",Spain,ESP,JOR
+316,0,164,"Andrade, Andres",Ecuador,ECU,AND
+317,0,164,"Dodig, Matej",Croatia,HRV,DOD
+318,1,164,"Fanselow, Sebastian",Germany,DEU,FAN
+319,-11,163,"Kodat, Toby Alex",USA,USA,KOD
+320,1,163,"Noguchi, Rio",Japan,JPN,NOG
+321,1,162,"Clarke, Jay",Great Britain,GBR,CLA
+322,1,161,"Bellier, Antoine",Switzerland,CHE,BEL
+323,2,160,"Kuzmanov, Dimitar",Bulgaria,BGR,KUZ
+324,7,159,"Elias, Gastao",Portugal,PRT,ELI
+325,-5,159,"Bicknell, Blaise",Jamaica,JAM,BIC
+326,0,159,"Casanova, Hernan",Argentina,ARG,CAS
+327,0,159,"Reis Da Silva, Joao Lucas",Brazil,BRA,REI
+328,0,159,"Sakamoto, Pedro",Brazil,BRA,SAK
+329,-5,158,"Olivo, Renzo",Argentina,ARG,OLI
+330,-1,157,"Ramanathan, Ramkumar",India,IND,RAM
+331,3,157,"Bonadio, Riccardo",Italy,ITA,BON
+332,17,157,"Gakhov, Ivan",Neutral,,GAK
+333,0,156,"Nicod, Jakub",Czechia,CZE,NIC
+334,8,156,"McCabe, James",Australia,AUS,MCC
+335,2,156,"Pucinelli de Almeida, Matheus",Brazil,BRA,PDA
+336,-1,153,"Jung, Jason",Chinese Taipei,TPE,JUN
+337,-1,153,"Den Ouden, Guy",Netherlands,NLD,DEN
+338,1,151,"Saville, Luke",Australia,AUS,SAV
+339,1,151,"Ursu, Vadym",Ukraine,UKR,URS
+340,-30,150,"Paulson, Andrew",Czechia,CZE,PAU
+341,0,150,"Erhard, Mathys",France,FRA,ERH
+342,29,149,"Tien, Learner",USA,USA,TIE
+343,0,149,"Giustino, Lorenzo",Italy,ITA,GIU
+344,0,147,"Poullain, Lucas",France,FRA,POU
+345,15,147,"Barroso Campos, Alberto",Spain,ESP,BAR
+346,0,147,"Gautier, Alexis",France,FRA,GAU
+347,-35,145,"Pella, Guido",Argentina,ARG,PEL
+348,-3,145,"Naw, Hazem",Syria,SYR,NAW
+349,12,145,"Lopez Montagud, Carlos",Spain,ESP,LOP
+350,-2,144,"Cui, Jie",China,CHN,CUI
+351,-4,144,"Krumich, Martin",Czechia,CZE,KRU
+352,-2,144,"Forejtek, Jonas",Czechia,CZE,FOR
+353,-1,143,"Mott, Blake",Australia,AUS,MOT
+354,44,143,"Oradini, Giovanni",Italy,ITA,ORA
+355,-1,143,"Kolar, Zdenek",Czechia,CZE,KOL
+356,9,142,"Cecchinato, Marco",Italy,ITA,CEC
+357,-1,142,"Oliel, Yshai",Israel,ISR,OLI
+358,-1,141,"Collignon, Raphael",Belgium,BEL,COL
+359,-1,141,"Mikrut, Luka",Croatia,HRV,MIK
+360,14,140,"Torres, Juan Bautista",Argentina,ARG,TOR
+361,-43,140,"Campana Lee, Gerard",Republic of Korea,KOR,CAM
+362,-9,140,"Denolly, Corentin",France,FRA,DEN
+363,-8,139,"Dutra Da Silva, Daniel",Brazil,BRA,DUT
+364,-1,138,"Andreozzi, Guido",Argentina,ARG,AND
+365,-14,137,"McHugh, Aidan",Great Britain,GBR,MCH
+366,0,136,"Basavareddy, Nishesh",USA,USA,BAS
+367,0,135,"Kwon, Soonwoo",Republic of Korea,KOR,KWON
+368,1,135,"Klizan, Martin",Slovakia,SVK,KLI
+369,-7,134,"Klier Junior, Gilbert",Brazil,BRA,KIL
+370,-6,134,"Luz, Orlando",Brazil,BRA,LUZ
+371,2,133,"Gea, Arthur",France,FRA,GEA
+372,0,133,"Sun, Fajing",China,CHN,SUN
+373,4,133,"Brancaccio, Raul",Italy,ITA,BRA
+374,5,132,"Soto, Matias",Chile,CHL,SOT
+375,0,132,"Ellis, Blake",Australia,AUS,ELL
+376,0,130,"Cretu, Cezar (2001)",Romania,ROU,CRE
+377,60,130,"Uchida, Kaichi",Japan,JPN,UCH
+378,27,130,"Picchione, Andrea",Italy,ITA,PIC
+379,4,129,"Gerch, Lucas",Germany,DEU,GER
+380,-48,129,"Echargui, Moez",Tunisia,TUN,ECH
+381,-1,128,"Haliak, Mikalai",Neutral,,HAL
+382,-4,128,"Boitan, Gabi Adrian",Romania,ROU,BOI
+383,8,126,"Lingua Lavallen, Alejo Lorenzo",Argentina,ARG,LIN
+384,4,126,"Giannessi, Alessandro",Italy,ITA,GIA
+385,-3,125,"Weber, Arthur",France,FRA,WEB
+386,-2,125,"Villanueva, Gonzalo",Argentina,ARG,VIL
+387,-2,125,"van Wyk, Kris",South Africa,ZAF,VAN
+388,20,124,"Gaio, Federico",Italy,ITA,GAI
+389,-3,124,"Celikbilek, Altug",Turkiye,TUR,CEL
+390,-3,124,"Sanchez Jover, Carlos",Spain,ESP,SAN
+391,-2,124,"Ionel, Nicholas David",Romania,ROU,ION
+392,-2,123,"Schwaerzler, Joel",Austria,AUT,SCH
+393,1,123,"Safwat, Mohamed",Egypt,EGY,SAF
+394,-2,123,"Sharipov, Marat",Neutral,,SHA
+395,11,122,"Aboian, Valerio",Argentina,ARG,ABO
+396,1,121,"Tiurnev, Evgenii",Neutral,,TIE
+397,-1,121,"Wenger, Damien",Switzerland,CHE,WEN
+398,33,121,"Nijboer, Ryan",Netherlands,NLD,NIJ
+399,2,120,"Prado Angelo, Juan Carlos",Bolivia,BOL,PRA
+400,2,119,"Debru, Gabriel",France,FRA,DEB
+401,-2,118,"Nishikori, Kei",Japan,JPN,NIS
+402,-2,117,"Otte, Oscar",Germany,DEU,OTT
+403,42,116,"Henning, Philip",South Africa,ZAF,HEN
+404,76,116,"Chazal, Maxime",France,FRA,CHA
+405,-2,115,"Lavagno, Edoardo",Italy,ITA,LAV
+406,1,114,"Ilkel, Cem",Turkiye,TUR,ILK
+407,-12,114,"Michalski, Daniel",Poland,POL,MIC
+408,-27,113,"Kumar, Omni",USA,USA,KUM
+409,-16,113,"Serdarusic, Nino",Croatia,HRV,SER
+410,10,113,"Houkes, Max",Netherlands,NLD,HOU
+411,1,113,"Dellavedova, Matthew",Australia,AUS,DEL
+412,27,112,"Nakagawa, Naoki",Japan,JPN,NAK
+413,2,111,"Moriya, Hiroki",Japan,JPN,MOR
+414,-3,111,"Midon, Lautaro",Argentina,ARG,MID
+415,2,110,"Donskoy, Evgeny",Neutral,,DON
+416,3,110,"Sels, Jelle",Netherlands,NLD,SEL
+417,4,110,"Kuzuhara, Bruno",USA,USA,KUZ
+418,10,109,"Bobrov, Bogdan",Neutral,,BOB
+419,4,109,"Glinka, Daniil",Estonia,EST,GLI
+420,4,108,"Butvilas, Edas",Lithuania,LTU,BUT
+421,-7,108,"Johns, Garrett",USA,USA,JOH
+422,-12,108,"Handel, Tim",Germany,DEU,HAN
+423,2,108,"Rosenkranz, Mats",Germany,DEU,ROS
+424,2,108,"Gulin, Svyatoslav",Neutral,,GUL
+425,2,107,"Valkusz, Mate",Hungary,HUN,VAL
+426,-4,107,"Copil, Marius",Romania,ROU,COP
+427,-11,107,"Kingsley, Cannon",USA,USA,KIN
+428,1,107,"Vatutin, Alexey",Neutral,,VAT
+429,-25,107,"Serafini, Marcello",Italy,ITA,SER
+430,0,107,"Merida, Daniel",Spain,ESP,MER
+431,2,107,"Wessels, Louis",Germany,DEU,WES
+432,6,107,"Added, Dan",France,FRA,ADD
+433,1,106,"Matusevich, Anton",Great Britain,GBR,MAT
+434,-25,106,"Pacheco Mendez, Rodrigo",Mexico,MEX,PAC
+435,-17,106,"Alves, Mateus",Brazil,BRA,ALV
+436,8,106,"Cid Subervi, Roberto",Dominican Republic,DOM,CID
+437,-5,106,"Popovic, Stefan",Serbia,SRB,POP
+438,-68,105,"Lock, Benjamin",Zimbabwe,ZWE,LOC
+439,-4,104,"Stodder, Timo",Germany,DEU,STO
+440,0,104,"Diez, Steven",Canada,CAN,DIE
+441,0,103,"Feldbausch, Kilian",Switzerland,CHE,FEL
+442,0,103,"Kozlov, Stefan",USA,USA,KOZ
+443,11,102,"Lokoli, Laurent",France,FRA,LOK
+444,-1,102,"Bouquier, Arthur",France,FRA,BOU
+445,-9,102,"Artnak, Bor",Slovenia,SVN,ART
+446,0,101,"Basilashvili, Nikoloz",Georgia,GEO,BAS
+447,-34,101,"Forti, Francesco",Italy,ITA,FOR
+448,0,100,"Ivashka, Ilya",Neutral,,IVA
+449,1,100,"Colson, Tibo",Belgium,BEL,COL
+450,1,100,"Pannu, Kiranpal",New Zealand,NZL,PAN
+451,1,100,"Damas, Miguel",Spain,ESP,DAM
+452,1,100,"Strombachs, Robert",Germany,DEU,STR
+453,2,99,"Rehberg, Max Hans",Germany,DEU,REH
+454,2,99,"Escobedo, Ernesto",Mexico,MEX,ESC
+455,-6,99,"ToPo, Marko",Germany,DEU,TOP
+456,2,99,"Erel, Yanki",Turkiye,TUR,ERE
+457,9,98,"Ilagan, Andre",USA,USA,ILA
+458,-1,98,"Barton, Hynek",Czechia,CZE,BAR
+459,13,98,"Arnaboldi, Federico",Italy,ITA,ARN
+460,42,98,"Roncadelli, Franco",Uruguay,URY,RON
+461,-1,97,"Nesterov, Pyotr",Bulgaria,BGR,NES
+462,-1,96,"Kubler, Jason",Australia,AUS,KUB
+463,-1,96,"Sell, Karue",Brazil,BRA,SEL
+464,6,96,"Pavlovic, Luka",France,FRA,PAV
+465,3,96,"Vanshelboim, Eric",Ukraine,UKR,VAN
+466,1,95,"Iannaccone, Federico",Italy,ITA,IAN
+467,2,94,"Borg, Leo",Sweden,SWE,BOR
+468,3,94,"Martin Tiffon, Pol",Spain,ESP,MAR
+469,-22,94,"Sakellaridis, Stefanos",Greece,GRC,SAK
+470,3,93,"Zakharov, Alexey",Neutral,,ZAK
+471,4,93,"Karlovskiy, Evgeny",Neutral,,KAR
+472,2,92,"Bielinskyi, Viacheslav",Ukraine,UKR,BIE
+473,3,92,"Rodriguez, Lorenzo Joaquin",Argentina,ARG,ROD
+474,4,91,"Samuel, Toby",Great Britain,GBR,SAM
+475,-10,91,"Seggerman, Ryan",USA,USA,SEG
+476,3,91,"Mukund, Sasikumar",India,IND,MUK
+477,9,91,"Milev, Yanaki",Bulgaria,BGR,MIL
+478,-110,90,"Ymer, Mikael",Sweden,SWE,YME
+479,4,90,"Edmund, Kyle",Great Britain,GBR,EDM
+480,4,90,"Paul, Jakub",Switzerland,CHE,PAU
+481,-4,89,"Zanellato, Nicolas",Brazil,BRA,ZAN
+482,3,88,"Wu, Yibing",China,CHN,YIB
+483,4,88,"Palan, Dominik",Czechia,CZE,PAL
+484,4,88,"Langmo, Christian",USA,USA,LAN
+485,8,88,"Bittoun Kouzmine, Constantin",France,FRA,BIT
+486,-22,87,"Cukierman, Daniel",Israel,ISR,CUK
+487,2,87,"Ivanovski, Kalin",North Macedonia,MKD,IVA
+488,2,87,"Ochi, Makoto",Japan,JPN,OCH
+489,3,87,"Gengel, Marek",Czechia,CZE,GEN
+490,6,87,"Takahashi, Yusuke",Japan,JPN,TAK
+491,3,86,"Gimeno Valero, Carlos",Spain,ESP,GIM
+492,5,85,"Pecotic, Matija",Croatia,HRV,PEC
+493,5,85,"TE, Rigele",China,CHN,RIG
+494,1,85,"Stewart, Hamish",Great Britain,GBR,STE
+495,8,84,"Berrettini, Jacopo",Italy,ITA,BER
+496,3,84,"Martin, Andres",USA,USA,MAR
+497,-6,84,"Ayeni, Alafia",USA,USA,AVE
+498,-17,84,"Kirchheimer, Strong",USA,USA,KIR
+499,5,84,"Lopez Morillo, Imanol",Spain,ESP,LOP
+500,25,84,"Delaney, Jake",Australia,AUS,DEL
