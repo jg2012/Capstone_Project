@@ -1,0 +1,49 @@
+Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Rank_1,Rank_2,Pts_1,Pts_2,Odd_1,Odd_2,Score,Player_1_Last_Name,Player_1_First_Initial,Player_2_Last_Name,Player_2_First_Initial,Outcome,Player_1_Set_1,Player_2_Set_1,Player_1_Set_2,Player_2_Set_2,Player_1_Set_3,Player_2_Set_3,Player_1_Sets_Won,Player_2_Sets_Won
+Rio Open,2020-02-18,ATP500,Outdoor,Clay,1st Round,3,Alcaraz C.,406,41,82,1130,4.33,1.2,7-6 4-6 7-6,Alcaraz,C,Ramos-Vinolas,A,Win,7.0,6.0,4.0,6.0,7.0,6.0,2,1
+Rio Open,2020-02-20,ATP500,Outdoor,Clay,2nd Round,3,Coria F.,406,116,82,466,1.83,1.83,4-6 6-4 4-6,Alcaraz,C,Coria,F,Loss,4.0,6.0,6.0,4.0,4.0,6.0,1,2
+Miami Open,2021-03-25,Masters 1000,Outdoor,Hard,1st Round,3,Ruusuvuori E.,83,132,881,561,1.57,2.37,6-4 2-6 7-5,Ruusuvuori,E,Alcaraz,C,Win,6.0,4.0,2.0,6.0,7.0,5.0,2,1
+AnyTech365 Andalucia Open,2021-04-08,ATP250,Outdoor,Hard,2nd Round,3,Alcaraz C.,133,64,560,1042,1.36,3.2,4-6 6-2 6-4,Alcaraz,C,Lopez,F,Win,4.0,6.0,6.0,2.0,6.0,4.0,2,1
+Millennium Estoril Open,2021-04-27,ATP250,Outdoor,Clay,1st Round,3,Cilic M.,120,42,645,1453,1.57,2.37,3-6 6-1 4-6,Alcaraz,C,Cilic,M,Loss,3.0,6.0,6.0,1.0,4.0,6.0,1,2
+Croatia Open,2021-07-20,ATP250,Outdoor,Clay,1st Round,3,Alcaraz C.,73,103,963,775,1.22,4.33,3-6 6-2 6-2,Alcaraz,C,Pouille,L,Win,3.0,6.0,6.0,2.0,6.0,2.0,2,1
+Croatia Open,2021-07-23,ATP250,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,34,73,1724,963,2.1,1.72,6-7 6-2 1-6,Krajinovic,F,Alcaraz,C,Loss,6.0,7.0,6.0,2.0,1.0,6.0,1,2
+Generali Open,2021-07-27,ATP250,Outdoor,Clay,1st Round,3,Erler A.,337,55,146,1206,11.0,1.05,7-5 1-6 6-2,Erler,A,Alcaraz,C,Win,7.0,5.0,1.0,6.0,6.0,2.0,2,1
+Winston-Salem Open at Wake Forest University,2021-08-25,ATP250,Outdoor,Hard,2nd Round,3,Alcaraz C.,54,71,1224,970,1.72,2.1,6-7 6-1 7-6,Alcaraz,C,Popyrin,A,Win,6.0,7.0,6.0,1.0,7.0,6.0,2,1
+Winston-Salem Open at Wake Forest University,2021-08-26,ATP250,Outdoor,Hard,3rd Round,3,Alcaraz C.,42,54,1539,1224,2.0,1.8,3-6 6-0 2-6,Fucsovics,M,Alcaraz,C,Loss,3.0,6.0,6.0,0.0,2.0,6.0,1,2
+BNP Paribas Open,2021-10-10,Masters 1000,Outdoor,Hard,2nd Round,3,Murray A.,121,38,661,1499,2.0,1.8,5-7 6-3 6-2,Murray,A,Alcaraz,C,Win,5.0,7.0,6.0,3.0,6.0,2.0,2,1
+Vienna Open,2021-10-29,ATP500,Indoor,Hard,Quarterfinals,3,Alcaraz C.,42,7,1355,4688,2.75,1.44,6-1 6-7 7-6,Alcaraz,C,Berrettini,M,Win,6.0,1.0,6.0,7.0,7.0,6.0,2,1
+BNP Paribas Masters,2021-11-02,Masters 1000,Indoor,Hard,1st Round,3,Alcaraz C.,35,99,1529,748,1.25,4.0,6-7 7-6 7-5,Alcaraz,C,Herbert,P,Win,6.0,7.0,7.0,6.0,7.0,5.0,2,1
+Rio Open,2022-02-14,ATP500,Outdoor,Clay,1st Round,3,Alcaraz C.,29,89,1673,745,1.28,3.75,2-6 6-2 6-1,Alcaraz,C,Munar,J,Win,2.0,6.0,6.0,2.0,6.0,1.0,2,1
+Rio Open,2022-02-19,ATP500,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,6,29,5018,1673,2.3,1.61,2-6 6-2 2-6,Berrettini,M,Alcaraz,C,Loss,2.0,6.0,6.0,2.0,2.0,6.0,1,2
+BNP Paribas Open,2022-03-19,Masters 1000,Outdoor,Hard,Semifinals,3,Nadal R.,4,19,6515,2056,1.61,2.3,6-4 4-6 6-3,Nadal,R,Alcaraz,C,Win,6.0,4.0,4.0,6.0,6.0,3.0,2,1
+Miami Open,2022-04-01,Masters 1000,Outdoor,Hard,Quarterfinals,3,Alcaraz C.,16,48,2414,1056,1.16,5.0,6-7 6-3 7-6,Alcaraz,C,Kecmanovic,M,Win,6.0,7.0,6.0,3.0,7.0,6.0,2,1
+Monte Carlo Masters,2022-04-13,Masters 1000,Outdoor,Clay,2nd Round,3,Korda S.,42,11,1134,3320,4.33,1.22,7-6 6-7 6-3,Korda,S,Alcaraz,C,Win,7.0,6.0,6.0,7.0,6.0,3.0,2,1
+Barcelona Open,2022-04-20,ATP500,Outdoor,Clay,2nd Round,3,Alcaraz C.,71,11,858,3330,10.0,1.06,1-6 6-2 2-6,Kwon,S,Alcaraz,C,Loss,1.0,6.0,6.0,2.0,2.0,6.0,1,2
+Barcelona Open,2022-04-22,ATP500,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,11,5,3330,5980,1.66,2.2,6-4 5-7 6-2,Alcaraz,C,Tsitsipas,S,Win,6.0,4.0,5.0,7.0,6.0,2.0,2,1
+Barcelona Open,2022-04-24,ATP500,Outdoor,Clay,Semifinals,3,Alcaraz C.,11,25,3330,1601,1.08,8.0,6-7 7-6 6-4,Alcaraz,C,De,M,Win,6.0,7.0,7.0,6.0,6.0,4.0,2,1
+Mutua Madrid Open,2022-05-05,Masters 1000,Outdoor,Clay,3rd Round,3,Alcaraz C.,9,11,3818,3335,1.16,5.0,6-4 6-7 6-3,Alcaraz,C,Norrie,C,Win,6.0,4.0,6.0,7.0,6.0,3.0,2,1
+Mutua Madrid Open,2022-05-06,Masters 1000,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,9,4,3818,6435,1.8,2.0,6-2 1-6 6-3,Alcaraz,C,Nadal,R,Win,6.0,2.0,1.0,6.0,6.0,3.0,2,1
+Mutua Madrid Open,2022-05-07,Masters 1000,Outdoor,Clay,Semifinals,3,Alcaraz C.,1,9,8400,3818,1.72,2.1,7-6 5-7 6-7,Djokovic,N,Alcaraz,C,Loss,7.0,6.0,5.0,7.0,6.0,7.0,1,2
+European Open,2022-07-19,ATP250,Outdoor,Clay,1st Round,3,Alcaraz C.,259,6,190,4845,13.0,1.04,6-3 1-6 6-7,Kuhn,N,Alcaraz,C,Loss,6.0,3.0,1.0,6.0,6.0,7.0,1,2
+European Open,2022-07-24,ATP250,Outdoor,Clay,The Final,3,Musetti L.,62,6,781,4845,5.5,1.14,6-4 6-7 6-4,Musetti,L,Alcaraz,C,Win,6.0,4.0,6.0,7.0,6.0,4.0,2,1
+Croatia Open,2022-07-30,ATP250,Outdoor,Clay,Semifinals,3,Alcaraz C.,168,5,318,4895,9.0,1.07,5-7 6-4 3-6,Zeppieri,G,Alcaraz,C,Loss,5.0,7.0,6.0,4.0,3.0,6.0,1,2
+Croatia Open,2022-07-31,ATP250,Outdoor,Clay,The Final,3,Sinner J.,5,10,4895,3185,1.61,2.3,7-6 1-6 1-6,Alcaraz,C,Sinner,J,Loss,7.0,6.0,1.0,6.0,1.0,6.0,1,2
+Canadian Open,2022-08-10,Masters 1000,Outdoor,Hard,2nd Round,3,Paul T.,34,4,1220,5035,4.5,1.2,6-7 7-6 6-3,Paul,T,Alcaraz,C,Win,6.0,7.0,7.0,6.0,6.0,3.0,2,1
+Western & Southern Financial Group Masters,2022-08-20,Masters 1000,Outdoor,Hard,Quarterfinals,3,Norrie C.,4,11,5045,3065,1.3,3.5,6-7 7-6 4-6,Alcaraz,C,Norrie,C,Loss,6.0,7.0,7.0,6.0,4.0,6.0,1,2
+Swiss Indoors,2022-10-24,ATP500,Indoor,Hard,1st Round,3,Alcaraz C.,1,45,6730,981,1.4,3.0,3-6 6-2 7-5,Alcaraz,C,Draper,J,Win,3.0,6.0,6.0,2.0,7.0,5.0,2,1
+Argentina Open,2023-02-16,ATP250,Outdoor,Clay,2nd Round,3,Alcaraz C.,2,57,6730,793,1.25,4.0,6-2 4-6 6-2,Alcaraz,C,Djere,L,Win,6.0,2.0,4.0,6.0,6.0,2.0,2,1
+Rio Open,2023-02-23,ATP500,Outdoor,Clay,2nd Round,3,Alcaraz C.,86,2,598,6480,10.0,1.06,7-6 2-6 4-6,Fognini,F,Alcaraz,C,Loss,7.0,6.0,2.0,6.0,4.0,6.0,1,2
+Rio Open,2023-02-25,ATP500,Outdoor,Clay,Semifinals,3,Alcaraz C.,2,139,6480,416,1.2,4.5,6-7 7-5 6-0,Alcaraz,C,Jarry,N,Win,6.0,7.0,7.0,5.0,6.0,0.0,2,1
+Rio Open,2023-02-26,ATP500,Outdoor,Clay,The Final,3,Norrie C.,2,13,6480,2615,1.22,4.33,7-5 4-6 5-7,Alcaraz,C,Norrie,C,Loss,7.0,5.0,4.0,6.0,5.0,7.0,1,2
+Miami Open,2023-04-01,Masters 1000,Outdoor,Hard,Semifinals,3,Sinner J.,11,1,2925,7420,3.0,1.4,6-7 6-4 6-2,Sinner,J,Alcaraz,C,Win,6.0,7.0,6.0,4.0,6.0,2.0,2,1
+Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Alcaraz C.,2,41,6770,977,1.04,13.0,2-6 6-4 6-2,Alcaraz,C,Ruusuvuori,E,Win,2.0,6.0,6.0,4.0,6.0,2.0,2,1
+Mutua Madrid Open,2023-05-07,Masters 1000,Outdoor,Clay,The Final,3,Alcaraz C.,2,65,6770,779,1.06,10.0,6-4 3-6 6-3,Alcaraz,C,Struff,J,Win,6.0,4.0,3.0,6.0,6.0,3.0,2,1
+Queen's Club Championships,2023-06-20,ATP500,Outdoor,Grass,1st Round,3,Alcaraz C.,83,2,681,7175,7.0,1.1,6-4 5-7 6-7,Rinderknech,A,Alcaraz,C,Loss,6.0,4.0,5.0,7.0,6.0,7.0,1,2
+Canadian Open,2023-08-11,Masters 1000,Outdoor,Hard,3rd Round,3,Alcaraz C.,17,1,2195,9225,5.0,1.17,6-3 6-7 6-7,Hurkacz,H,Alcaraz,C,Loss,6.0,3.0,6.0,7.0,6.0,7.0,1,2
+Canadian Open,2023-08-12,Masters 1000,Outdoor,Hard,Quarterfinals,3,Paul T.,1,14,9225,2345,1.17,5.0,3-6 6-4 3-6,Alcaraz,C,Paul,T,Loss,3.0,6.0,6.0,4.0,3.0,6.0,1,2
+Western & Southern Financial Group Masters,2023-08-16,Masters 1000,Outdoor,Hard,2nd Round,3,Alcaraz C.,1,55,9395,897,1.08,8.0,7-5 4-6 6-3,Alcaraz,C,Thompson,J,Win,7.0,5.0,4.0,6.0,6.0,3.0,2,1
+Western & Southern Financial Group Masters,2023-08-17,Masters 1000,Outdoor,Hard,3rd Round,3,Alcaraz C.,1,13,9395,2525,1.29,3.75,7-6 6-7 6-3,Alcaraz,C,Paul,T,Win,7.0,6.0,6.0,7.0,6.0,3.0,2,1
+Western & Southern Financial Group Masters,2023-08-18,Masters 1000,Outdoor,Hard,Quarterfinals,3,Alcaraz C.,1,70,9395,816,1.08,8.0,4-6 6-3 6-4,Alcaraz,C,Purcell,M,Win,4.0,6.0,6.0,3.0,6.0,4.0,2,1
+Western & Southern Financial Group Masters,2023-08-19,Masters 1000,Outdoor,Hard,Semifinals,3,Alcaraz C.,20,1,1685,9395,3.5,1.3,6-2 6-7 3-6,Hurkacz,H,Alcaraz,C,Loss,6.0,2.0,6.0,7.0,3.0,6.0,1,2
+Western & Southern Financial Group Masters,2023-08-20,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,1,2,9395,8795,2.3,1.62,7-5 6-7 6-7,Alcaraz,C,Djokovic,N,Loss,7.0,5.0,6.0,7.0,6.0,7.0,1,2
+Shanghai Masters,2023-10-11,Masters 1000,Outdoor,Hard,4th Round,3,Dimitrov G.,2,19,8715,1880,1.17,5.0,7-5 2-6 4-6,Alcaraz,C,Dimitrov,G,Loss,7.0,5.0,2.0,6.0,4.0,6.0,1,2
+Masters Cup,2023-11-13,Masters Cup,Indoor,Hard,Round Robin,3,Zverev A.,8,2,3585,8455,2.75,1.44,6-7 6-3 6-4,Zverev,A,Alcaraz,C,Win,6.0,7.0,6.0,3.0,6.0,4.0,2,1

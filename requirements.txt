@@ -4,3 +4,7 @@ python-dotenv
 tqdm
 fuzzywuzzy
 numpy
+matplotlib
+seaborn
+sklearn.model
+
