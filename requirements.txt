@@ -8,3 +8,4 @@ matplotlib
 seaborn
 sklearn.model
 scikiit-learn
+xgboost
