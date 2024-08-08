@@ -114,7 +114,67 @@ The full project report, including detailed methodology, analysis, and results, 
 - **requirements.txt**: List of dependencies required to run the project.
 - **README.md**: This file.
 
-## Conlusion 
+## Class Distribution and Model Performance
+
+Class distribution before SMOTE:
+
+Outcome
+407573    50
+352776     2
+106755     2
+23581      2
+47603      2
+89632      2
+Name: count, dtype: Int64
+
+Shape of X_preprocessed: (60, 9)
+
+Shape of X_resampled: (300, 9)
+
+Class distribution after SMOTE:
+
+Outcome
+407573    50
+352776    50
+106755    50
+23581     50
+47603     50
+89632     50
+Name: count, dtype: Int64
+
+Shape of X_train: (210, 9), Shape of X_test: (90, 9)
+
+Voting Ensemble Accuracy: 0.9555555555555556
+
+Confusion Matrix:
+
+[[17  0  0  0  0  0]
+ [ 0 14  0  0  0  0]
+ [ 0  0 16  0  0  0]
+ [ 0  0  0 16  0  0]
+ [ 0  0  0  0 11  0]
+ [ 0  0  1  2  1 12]]
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+     23581.0       1.00      1.00      1.00        17
+     47603.0       1.00      1.00      1.00        14
+     89632.0       0.94      1.00      0.97        16
+    106755.0       0.89      1.00      0.94        16
+    352776.0       0.92      1.00      0.96        11
+    407573.0       1.00      0.75      0.86        16
+
+    accuracy                           0.96        90
+   macro avg       0.96      0.96      0.95        90
+weighted avg       0.96      0.96      0.95        90
+
+Shape of new_X before preprocessing: (48, 2)
+
+Shape of new_X_scaled: (48, 9)
+
+## Conclsion  
 
 In this report, we successfully utilized historical data from 2020 to 2023 to predict Carlos Alcaraz's match outcomes for 2024. The ensemble model, combining logistic regression and random forest classifiers, demonstrated robust performance with an accuracy of 95.56 percent. The visualizations provided clear insights into the predicted win probabilities for upcoming matches. These findings offer valuable information for coaches, analysts, and fans, enhancing strategic decision-making for future matches.
 
