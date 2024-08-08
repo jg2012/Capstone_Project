@@ -116,63 +116,72 @@ The full project report, including detailed methodology, analysis, and results, 
 
 ## Class Distribution and Model Performance
 
-Class distribution before SMOTE:
+### Class Distribution Before SMOTE
 
-Outcome
-407573    50
-352776     2
-106755     2
-23581      2
-47603      2
-89632      2
-Name: count, dtype: Int64
+| Outcome | Count |
+|---------|-------|
+| 407573  | 50    |
+| 352776  | 2     |
+| 106755  | 2     |
+| 23581   | 2     |
+| 47603   | 2     |
+| 89632   | 2     |
 
-Shape of X_preprocessed: (60, 9)
+### Shape of Data
 
-Shape of X_resampled: (300, 9)
+| Dataset           | Shape    |
+|-------------------|----------|
+| X_preprocessed    | (60, 9)  |
+| X_resampled       | (300, 9) |
+| X_train           | (210, 9) |
+| X_test            | (90, 9)  |
+| new_X before preprocessing | (48, 2) |
+| new_X_scaled      | (48, 9)  |
 
-Class distribution after SMOTE:
+### Class Distribution After SMOTE
 
-Outcome
-407573    50
-352776    50
-106755    50
-23581     50
-47603     50
-89632     50
-Name: count, dtype: Int64
+| Outcome | Count |
+|---------|-------|
+| 407573  | 50    |
+| 352776  | 50    |
+| 106755  | 50    |
+| 23581   | 50    |
+| 47603   | 50    |
+| 89632   | 50    |
 
-Shape of X_train: (210, 9), Shape of X_test: (90, 9)
+### Voting Ensemble Accuracy
 
-Voting Ensemble Accuracy: 0.9555555555555556
+| Metric                     | Value      |
+|----------------------------|------------|
+| Voting Ensemble Accuracy   | 0.9555555555555556 |
 
-Confusion Matrix:
+### Confusion Matrix
 
-[[17  0  0  0  0  0]
- [ 0 14  0  0  0  0]
- [ 0  0 16  0  0  0]
- [ 0  0  0 16  0  0]
- [ 0  0  0  0 11  0]
- [ 0  0  1  2  1 12]]
+|        | 23581.0 | 47603.0 | 89632.0 | 106755.0 | 352776.0 | 407573.0 |
+|--------|---------|---------|---------|----------|----------|----------|
+| 23581.0 | 17      | 0       | 0       | 0        | 0        | 0        |
+| 47603.0 | 0       | 14      | 0       | 0        | 0        | 0        |
+| 89632.0 | 0       | 0       | 16      | 0        | 0        | 0        |
+| 106755.0| 0       | 0       | 0       | 16       | 0        | 0        |
+| 352776.0| 0       | 0       | 0       | 0        | 11       | 0        |
+| 407573.0| 0       | 0       | 1       | 2        | 1        | 12       |
 
-Classification Report:
+### Classification Report
 
-              precision    recall  f1-score   support
+| Outcome  | Precision | Recall | F1-score | Support |
+|----------|-----------|--------|----------|---------|
+| 23581.0  | 1.00      | 1.00   | 1.00     | 17      |
+| 47603.0  | 1.00      | 1.00   | 1.00     | 14      |
+| 89632.0  | 0.94      | 1.00   | 0.97     | 16      |
+| 106755.0 | 0.89      | 1.00   | 0.94     | 16      |
+| 352776.0 | 0.92      | 1.00   | 0.96     | 11      |
+| 407573.0 | 1.00      | 0.75   | 0.86     | 16      |
+| **Accuracy** |           |        | 0.96     | 90      |
+| **Macro avg** | 0.96      | 0.96   | 0.95     | 90      |
+| **Weighted avg** | 0.96      | 0.96   | 0.95     | 90      |
 
-     23581.0       1.00      1.00      1.00        17
-     47603.0       1.00      1.00      1.00        14
-     89632.0       0.94      1.00      0.97        16
-    106755.0       0.89      1.00      0.94        16
-    352776.0       0.92      1.00      0.96        11
-    407573.0       1.00      0.75      0.86        16
 
-    accuracy                           0.96        90
-   macro avg       0.96      0.96      0.95        90
-weighted avg       0.96      0.96      0.95        90
-
-Shape of new_X before preprocessing: (48, 2)
-
-Shape of new_X_scaled: (48, 9)
+ 
 
 ## Conclsion  
 
