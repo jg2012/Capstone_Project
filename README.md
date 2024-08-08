@@ -41,7 +41,17 @@ The full project report, including detailed methodology, analysis, and results, 
   - `AnyTech365 Andalucia Open_win_probability_distribution.png`
   - `Argentina Open_win_probability_distribution.png`
   - `Avg_Set_Score_Per_Year.png`
-  - (List other images here)
+  - ![Avg Set Score Per Year](./images/Avg_Set_Score_Per_Year.png)
+  - `Violin_Plot_of_each_Set.png`
+  - ![Violin Plot of Each Set](./images/Violin_Plot_of_each_Set.png)
+  - `Win_and_Loss_Dist.png`
+  - ![Win and Loss Distribution](./images/Win_and_Loss_Dist.png)
+  - `win_probabilities.png`
+  - ![Predicted Win Probabilities](./images/win_probabilities.png)
+  - `feature_importance.png`
+  - ![Feature Importance Analysis](./images/feature_importance.png)
+  - `win_probability_distribution.png`
+  - ![Win Probability Distribution](./images/win_probability_distribution.png)
 - **requirements.txt**: List of dependencies required to run the project.
 - **README.md**: This file.
 
@@ -58,6 +68,7 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/jg2012/Capstone_Project
 cd Capstone_Project
+
 
 #### 2. Create a Virtual Environment
 Create a virtual environment in the project directory. You can use venv for this purpose.
