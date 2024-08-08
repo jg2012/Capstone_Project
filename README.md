@@ -26,9 +26,12 @@ The full project report, including detailed methodology, analysis, and results, 
 
 - **data/**: Contains the datasets used in this project.
   - `tennis_rankings.csv`
+  - `tennis_rankings_modified.csv`
   - `tennis_competitor_profile.csv`
+  - `tennis_competitor_profile_modified.csv`
   - `tennis_summaries.csv`
   - `atp_tennis.csv`
+  - `atp_tennis_modified.csv`
   - `Alcaraz_C_matches_2020_2023_best_of_3.csv`
 - **notebooks/**: Jupyter Notebooks used for data analysis and model training.
   - `ATP_notebook.ipynb`
