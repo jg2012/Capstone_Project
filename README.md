@@ -37,9 +37,7 @@ The full project report, including detailed methodology, analysis, and results, 
   - `data_cleaning.py`
   - `model_training.py`
   - `visualizations.py`
-- **images/**: Contains all the generated visualizations used in the report.
-  - `AnyTech365 Andalucia Open_win_probability_distribution.png`
-  - `Argentina Open_win_probability_distribution.png`
+- **img/**: Contains all the generated visualizations used in the report.
   - `Avg_Set_Score_Per_Year.png`
   - ![Avg Set Score Per Year](./img/Avg_Set_Score_Per_Year.png)
   - `Violin_Plot_of_each_Set.png`
